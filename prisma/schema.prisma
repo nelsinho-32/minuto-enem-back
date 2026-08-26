@@ -1,0 +1,40 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+model User {
+  id        String   @id @default(uuid())
+  name      String
+  role      String   // "STUDENT" ou "TEACHER"
+  xp        Int      @default(0)
+}
+
+model Class {
+  id          String   @id @default(uuid())
+  code        String   @unique
+  name        String
+  teacherId   String
+}
+
+model Task {
+  id          String   @id @default(uuid())
+  classId     String
+  topic       String
+  total       Int
+}
+
+model Question {
+  id            String   @id @default(uuid())
+  year          Int
+  area          String
+  subject       String
+  text          String   @db.Text
+  options       Json
+  correctAnswer Int
+  explanation   String?  @db.Text
+  errorRate     Float?
+}
