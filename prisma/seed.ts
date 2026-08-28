@@ -1,9 +1,9 @@
 import { PrismaClient } from '@prisma/client';
-import { PrismaPg } from '@prisma/adapter-pg';
 import { Pool } from 'pg';
+import { PrismaPg } from '@prisma/adapter-pg';
 import fs from 'fs';
 import path from 'path';
-import 'dotenv/config';
+import 'dotenv/config'; 
 
 const connectionString = process.env.DATABASE_URL;
 const pool = new Pool({ connectionString });
@@ -11,51 +11,82 @@ const adapter = new PrismaPg(pool);
 const prisma = new PrismaClient({ adapter });
 
 async function main() {
-  console.log('🌱 Iniciando processamento em lote (Bulk Insert)...');
+  console.log("🌱 Iniciando o Seed do Banco de Dados...");
 
-  // Aponta para a nova pasta 'data' dentro de 'prisma'
-  const dataFolder = path.join(__dirname, 'data');
+  // ==========================================
+  // 1. SEED DAS MATÉRIAS E AULAS
+  // ==========================================
+  console.log("🧹 Limpando matérias antigas do banco para forçar atualização...");
+  await prisma.lesson.deleteMany();
+  await prisma.subject.deleteMany();
+
+  console.log("📚 Buscando arquivo: materias.json...");
+  const materiasPath = path.join(process.cwd(), 'prisma', 'data', 'materias.json');
   
-  // Verifica se a pasta existe
-  if (!fs.existsSync(dataFolder)) {
-    console.error('❌ Erro: Pasta prisma/data não encontrada.');
-    process.exit(1);
+  if (fs.existsSync(materiasPath)) {
+    const materiasData = JSON.parse(fs.readFileSync(materiasPath, 'utf-8'));
+    
+    console.log(`⏳ Inserindo ${materiasData.length} matérias no banco...`);
+    for (const subject of materiasData) {
+      await prisma.subject.create({
+        data: {
+          name: subject.name,
+          slug: subject.slug,
+          icon: subject.icon,
+          lessons: {
+            create: subject.lessons.map((lesson: any) => ({
+              title: lesson.title,
+              content: lesson.content,
+              videos: lesson.videos || [],        
+              references: lesson.references || [] 
+            }))
+          }
+        }
+      });
+    }
+    console.log("✅ Matérias e Aulas inseridas com sucesso!");
+  } else {
+    console.log("⚠️ Arquivo materias.json não encontrado. Pulando etapa.");
   }
 
-  // Pega todos os arquivos terminados em .json dentro da pasta
-  const files = fs.readdirSync(dataFolder).filter(file => file.endsWith('.json'));
+  console.log("--------------------------------------------------");
 
-  if (files.length === 0) {
-    console.log('⚠️ Nenhum arquivo .json encontrado na pasta prisma/data.');
-    return;
-  }
+  // ==========================================
+  // 2. SEED DAS QUESTÕES DO ENEM
+  // ==========================================
+  console.log("📄 Buscando arquivo: 2015_COMPLETO.json...");
+  const questionsPath = path.join(process.cwd(), 'prisma', 'data', '2015_COMPLETO.json');
 
-  // Loop inteligente que processa cada arquivo
-  for (const file of files) {
-    console.log(`\n📄 Lendo arquivo: ${file}...`);
-    const filePath = path.join(dataFolder, file);
-    const fileData = fs.readFileSync(filePath, 'utf-8');
-    const questions = JSON.parse(fileData);
+  if (fs.existsSync(questionsPath)) {
+    const questionsRaw = JSON.parse(fs.readFileSync(questionsPath, 'utf-8'));
+    
+    const questionsData = questionsRaw.map((q: any) => ({
+      ...q,
+      year: q.year || 2015,         
+      area: q.area || "Geral",      
+      subject: q.subject || "Geral" 
+    }));
 
-    console.log(`⏳ Inserindo ${questions.length} questões de ${file} no banco...`);
-
-    // Injeção em massa hiper rápida
-    const result = await prisma.question.createMany({
-      data: questions,
-      skipDuplicates: true,
+    console.log("🧹 Limpando questões antigas do banco...");
+    await prisma.question.deleteMany(); 
+    
+    console.log(`⏳ Inserindo ${questionsData.length} questões no banco...`);
+    await prisma.question.createMany({
+      data: questionsData,
     });
 
-    console.log(`✅ Sucesso! ${result.count} questões do arquivo ${file} foram salvas.`);
+    console.log("✅ Questões do ENEM inseridas com sucesso!");
+  } else {
+    console.log("⚠️ Arquivo 2015_COMPLETO.json não encontrado. Pulando etapa.");
   }
-
-  console.log('\n🚀 Seed completo! Todas as provas disponíveis foram processadas e salvas no banco.');
 }
 
 main()
   .catch((e) => {
-    console.error('❌ Erro crítico no seed:', e);
+    console.error("❌ Erro crítico no seed:\n", e);
     process.exit(1);
   })
   .finally(async () => {
     await prisma.$disconnect();
+    console.log("🏁 Seed finalizado.");
   });

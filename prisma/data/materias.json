@@ -1,0 +1,1151 @@
+[
+  {
+    "name": "Língua Portuguesa",
+    "slug": "lingua-portuguesa",
+    "icon": "book-open",
+    "lessons": [
+      {
+        "title": "Compreensão e Interpretação de Texto",
+        "content": "A base da leitura crítica consiste em diferenciar o que está explícito daquilo que se deduz do texto.\n\nDiferença Fundamental\n\nCompreensão (Decodificação): Análise do que está explícito no texto. As respostas estão expressas na superfície textual (\"O autor afirma que...\", \"Segundo o texto...\").\n\nInterpretação (Inferência): Leitura das entrelinhas e do que está implícito. Exige conectar as pistas textuais ao contexto de mundo do leitor (\"Infere-se do texto...\", \"O texto sugere que...\").\n\nElementos Essenciais\n\nCoesão Textual: Conexão gramatical entre palavras, orações e parágrafos (uso de pronomes, conjunções, advérbios e sinônimos).\n\nCoerência Textual: Harmonia lógica das ideias; a mensagem global precisa fazer sentido e não apresentar contradições internas.\n\nDenotação vs. Conotação:\n\nDenotação: Sentido literal, dicionarizado e objetivo (O pássaro quebrou a asa).\n\nConotação: Sentido figurado, simbólico e subjetivo (Ele quebrou a cara ao tentar enganá-la).\n\nIntertextualidade: Diálogo explícito ou implícito entre dois textos (ex.: paródia, paráfrase, alusão).\n\n",
+        "videos": [
+          "Professor Noslen Figuras de Linguagem",
+          "Português com Letícia Tipos e Gêneros Textuais",
+          "Curso Enem Gratuito Funções da Linguagem e Figuras de Linguagem",
+          "Telecurso Ensino Médio Língua Portuguesa Interpretação de Texto"
+        ],
+        "references": [
+          "KOCH, Ingedore Villaça; ELIAS, Vanda Maria. Ler e Compreender: os sentidos do texto. São Paulo: Contexto, 2006. (Referência definitiva para interpretação, coesão e coerência).",
+          "MARCUSCHI, Luiz Antônio. Produção textual, análise de gêneros e compreensão. São Paulo: Parábola Editorial, 2008. (A principal referência acadêmica brasileira sobre gêneros e tipos textuais).",
+          "BECHARA, Evanildo. Moderna Gramática Portuguesa. Rio de Janeiro: Nova Fronteira, 2009. (Aborda figuras de linguagem e construção textual com rigor normativo).",
+          "CEREJA, William Roberto; MAGALHÃES, Thereza Cochar. Texto e Interação: Uma Proposta de Produção Textual a Partir de Gêneros e Projetos. São Paulo: Atual, 2017.",
+          "JAKOBSON, Roman. Linguística e Comunicação. São Paulo: Cultrix, 1969. (Obra clássica que formulou as 6 funções da linguagem)."
+        ]
+      },
+      {
+        "title": "Tipologias e Gêneros Textuais",
+        "content": "Tipos textuais são as estruturas formais fixas; gêneros textuais são as realizações práticas e infinitas de comunicação do dia a dia.\n\nTipos Textuais (Estruturas Linguísticas)\n\nNarrativo: Relata uma sucessão de ações situadas no tempo e no espaço, envolvendo personagens e narrador (ex.: contos, crônicas).\n\nDescritivo: Retrata características visuais, físicas ou psicológicas de seres, objetos ou ambientes (ex.: laudos, trechos descritivos de romances).\n\nDissertativo-Argumentativo: Defende uma tese por meio de argumentos lógicos para convencer o leitor (ex.: redação do ENEM, artigos de opinião).\n\nDissertativo-Expositivo: Explica ou apresenta um conceito/fato sem a intenção primária de persuadir (ex.: verbetes de enciclopédia, reportagens).\n\nInjuntivo / Instrucional: Fornece instruções, comandos ou regras orientando o leitor a agir de determinada forma (ex.: receitas culinárias, manuais técnicos).\n\nGênero,Tipo Predominante,Finalidade Comunicativa\n\nNotícia,Expositivo / Narrativo,Informar fatos recentes de modo direto e impessoal\n\nArtigo de Opinião,Argumentativo,Defender o ponto de vista do autor sobre tema atual\n\nCrônica,Narrativo / Reflexivo,Refletir sobre cenas e sentimentos do cotidiano\n\nCharge / Cartum,Narrativo / Visual,Criticar fatos sociais ou políticos por meio do humor\n\n",
+        "videos": [
+          "Professor Noslen Figuras de Linguagem",
+          "Português com Letícia Tipos e Gêneros Textuais",
+          "Curso Enem Gratuito Funções da Linguagem e Figuras de Linguagem",
+          "Telecurso Ensino Médio Língua Portuguesa Interpretação de Texto"
+        ],
+        "references": [
+          "KOCH, Ingedore Villaça; ELIAS, Vanda Maria. Ler e Compreender: os sentidos do texto. São Paulo: Contexto, 2006. (Referência definitiva para interpretação, coesão e coerência).",
+          "MARCUSCHI, Luiz Antônio. Produção textual, análise de gêneros e compreensão. São Paulo: Parábola Editorial, 2008. (A principal referência acadêmica brasileira sobre gêneros e tipos textuais).",
+          "BECHARA, Evanildo. Moderna Gramática Portuguesa. Rio de Janeiro: Nova Fronteira, 2009. (Aborda figuras de linguagem e construção textual com rigor normativo).",
+          "CEREJA, William Roberto; MAGALHÃES, Thereza Cochar. Texto e Interação: Uma Proposta de Produção Textual a Partir de Gêneros e Projetos. São Paulo: Atual, 2017.",
+          "JAKOBSON, Roman. Linguística e Comunicação. São Paulo: Cultrix, 1969. (Obra clássica que formulou as 6 funções da linguagem)."
+        ]
+      },
+      {
+        "title": "Funções da Linguagem",
+        "content": "Cada função da linguagem privilegia um dos seis elementos do modelo de comunicação de Roman Jakobson.\n\nFunção,Elemento Focado,Objetivo Principal,Exemplo\n\nReferencial (Informativa),Referente (Contexto),Transmitir informações objetivas e fatos,\"A taxa de inflação subiu 0,4% no último trimestre.\"\n\nEmotiva (Expressiva),Emissor,\"Expressar sentimentos, opiniões e emoções pessoais\",Sinto uma tristeza sem fim ao rever estas fotos antigas.\n\nConativa (Apelativa),Receptor,\"Convencer, persuadir ou influenciar o interlocutor\",Beba bastante água hoje e faça sua matrícula agora!\n\nFática,Canal,\"Testar, estabelecer ou manter o canal de contato\",\"Alô? Está me ouvindo? Pois é, entende?\"\n\nMetalinguística,Código,Explicar a própria língua ou linguagem usando ela mesma,Substantivo é a classe de palavras que nomeia os seres.\n\nPoética,Mensagem,\"Cuidar da estética, ritmo, rima e sonoridade da mensagem\",O tempo não para / Só o pensamento voa / Sem hora pra voltar.\n\n",
+        "videos": [
+          "Professor Noslen Figuras de Linguagem",
+          "Português com Letícia Tipos e Gêneros Textuais",
+          "Curso Enem Gratuito Funções da Linguagem e Figuras de Linguagem",
+          "Telecurso Ensino Médio Língua Portuguesa Interpretação de Texto"
+        ],
+        "references": [
+          "KOCH, Ingedore Villaça; ELIAS, Vanda Maria. Ler e Compreender: os sentidos do texto. São Paulo: Contexto, 2006. (Referência definitiva para interpretação, coesão e coerência).",
+          "MARCUSCHI, Luiz Antônio. Produção textual, análise de gêneros e compreensão. São Paulo: Parábola Editorial, 2008. (A principal referência acadêmica brasileira sobre gêneros e tipos textuais).",
+          "BECHARA, Evanildo. Moderna Gramática Portuguesa. Rio de Janeiro: Nova Fronteira, 2009. (Aborda figuras de linguagem e construção textual com rigor normativo).",
+          "CEREJA, William Roberto; MAGALHÃES, Thereza Cochar. Texto e Interação: Uma Proposta de Produção Textual a Partir de Gêneros e Projetos. São Paulo: Atual, 2017.",
+          "JAKOBSON, Roman. Linguística e Comunicação. São Paulo: Cultrix, 1969. (Obra clássica que formulou as 6 funções da linguagem)."
+        ]
+      },
+      {
+        "title": "Figuras de Linguagem",
+        "content": "Recursos expressivos divididos em quatro grandes categorias conceituais:\n\n1. Figuras de Palavras (Semânticas)\n\nMetáfora: Comparação implícita sem conectivo comparativo (Aquele rapaz é uma muralha).\n\nComparação: Confronto explícito de elementos com conectivo (Aquele rapaz é firme como uma muralha).\n\nMetonímia: Substituição de um termo por outro com base em proximidade lógica (Li Machado de Assis; Bebi dois copos d'água).\n\nCatacrese: Uso de um termo por falta de nomeação específica própria (Pé da mesa, asa da xícara, dente de alho).\n\nSinestesia: Cruzamento de sensações de diferentes sentidos humanos (Um aroma doce e aveludado).\n\n2. Figuras de Pensamento\n\nAntítese: Aproximação de ideias opostas (O riso e o choro andam juntos nesta vida).\n\nParadoxo (Oxímoro): Ideias contraditórias que desafiam a lógica racional (Amor é fogo que arde sem se ver).\n\nEufemismo: Suavização de uma expressão desagradável ou pesada (Ele partiu desta vida para uma melhor).\n\nHipérbole: Exagero intencional para enfatizar uma ideia (Já te repeti essa mesma regra um milhão de vezes).\n\nIronia: Afirmar o contrário do que se pretende transmitir (Você foi muito rápido, demorou apenas duas horas para descer as escadas).\n\nPersonificação (Prosopopeia): Atribuição de traços humanos a seres inanimados ou animais (A lua observava calada o sofrimento da cidade).\n\n3. Figuras de Sintaxe (Construção)\n\nElipse: Omissão de um termo facilmente subentendido (Na sala, apenas três alunos — omissão de \"havia\").\n\nZeugma: Omissão de um termo que já foi mencionado anteriormente (Eu prefiro café; ela, chá).\n\nPolissíndeto: Repetição enfática de conjunções coordenativas (E chora, e grita, e corre, e nada resolve).\n\nAssíndeto: Ausência proposital de conjunções (Vim, vi, venci).\n\nPleonasmo: Redundância intencional com fins expressivos (Vi claramente com meus próprios olhos).\n\nHipérbato: Inversão brusca da ordem direta das palavras (Ouviram do Ipiranga as margens plácidas).\n\n4. Figuras de Som (Fonéticas)\n\nAliteração: Repetição expressiva de sons consonantais (O rato roeu a roupa do rei de Roma).\n\nAssonância: Repetição expressiva de sons vocálicos (Sou um mulato nato no sentido lato).\n\nOnomatopeia: Reprodução gráfica de ruídos ou sons naturais (Tic-tac, bum, miau).\n\n",
+        "videos": [
+          "Professor Noslen Figuras de Linguagem",
+          "Português com Letícia Tipos e Gêneros Textuais",
+          "Curso Enem Gratuito Funções da Linguagem e Figuras de Linguagem",
+          "Telecurso Ensino Médio Língua Portuguesa Interpretação de Texto"
+        ],
+        "references": [
+          "KOCH, Ingedore Villaça; ELIAS, Vanda Maria. Ler e Compreender: os sentidos do texto. São Paulo: Contexto, 2006. (Referência definitiva para interpretação, coesão e coerência).",
+          "MARCUSCHI, Luiz Antônio. Produção textual, análise de gêneros e compreensão. São Paulo: Parábola Editorial, 2008. (A principal referência acadêmica brasileira sobre gêneros e tipos textuais).",
+          "BECHARA, Evanildo. Moderna Gramática Portuguesa. Rio de Janeiro: Nova Fronteira, 2009. (Aborda figuras de linguagem e construção textual com rigor normativo).",
+          "CEREJA, William Roberto; MAGALHÃES, Thereza Cochar. Texto e Interação: Uma Proposta de Produção Textual a Partir de Gêneros e Projetos. São Paulo: Atual, 2017.",
+          "JAKOBSON, Roman. Linguística e Comunicação. São Paulo: Cultrix, 1969. (Obra clássica que formulou as 6 funções da linguagem)."
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Literatura",
+    "slug": "literatura",
+    "icon": "book",
+    "lessons": [
+      {
+        "title": "Movimentos Literários Clássicos (Era Colonial e Século XIX)",
+        "content": "Panorama cronológico das escolas que fundamentaram as tradições estéticas e temáticas da nossa literatura.\n\nEscola / Período,Contexto & Estética Central,Principais Autores,Obras de Referência\n\nQuinhentismo (1500–1601),Literatura de informação/viagem e literatura catequética dos jesuítas.,\"Pero Vaz de Caminha, Padre José de Anchieta\",\"Carta de Pero Vaz de Caminha, Auto de São Lourenço\"\n\nBarroco (1601–1768),\"Dualismo (corpo vs. alma), culto ao contraste, cultismo (jogo de palavras) e conceptismo (jogo de ideias).\",\"Gregório de Matos (\"\"Boca do Inferno\"\"), Padre Antônio Vieira\",\"Poesias satíricas e líricas, Sermão da Sexagésima\"\n\nArcadismo (1768–1836),\"Iluminismo, razão, simplicidade clássica, bucolismo (fugere urbem, carpe diem, locus amoenus).\",\"Cláudio Manuel da Costa, Tomás Antônio Gonzaga\",\"Marília de Dirceu, Cartas Chilenas\"\n\nRomantismo (1836–1881),\"Subjetivismo, nacionalismo/indianismo (1ª geração), pessimismo/mal do século (2ª geração), condoreirismo/abolicionismo (3ª geração).\",\"José de Alencar, Gonçalves Dias, Álvares de Azevedo, Castro Alves\",\"Iracema, O Guarani, Noite na Taverna, O Navio Negreiro\"\n\nRealismo / Naturalismo (1881–1922),\"Crítica social, psicologia humana, determinismo biológico/social, objetividade e zoomorfização.\",\"Machado de Assis (Realismo), Aluísio Azevedo (Naturalismo)\",\"Memórias Póstumas de Brás Cubas, Dom Casmurro, O Cortiço\"\n\nParnasianismo / Simbolismo (1882–1922),\"Parnasianismo: arte pela arte, rigor métrico e formal. Simbolismo: musicalidade, misticismo, sinestesia.\",\"Olavo Bilac, Raimundo Correia (Parnasianismo); Cruz e Sousa, Alphonsus de Guimaraens (Simbolismo)\",\"Profissão de Fé, Broquéis, Faróis\"\n\nPré-Modernismo (1902–1922),\"Período de transição: denúncia dos Brasis esquecidos, conflitos regionais e marginalização social.\",\"Euclides da Cunha, Lima Barreto, Monteiro Lobato, Augusto dos Anjos\",\"Os Sertões, Triste Fim de Policarpo Quaresma, Urupês, Eu\"\n\n",
+        "videos": [
+          "Professor Noslen Literatura Escolas Literárias",
+          "Descomplica Fases do Modernismo",
+          "Análise literária de Vidas Secas",
+          "Café Filosófico Literatura Brasileira Contemporânea",
+          "Telecurso Literatura Ensino Médio"
+        ],
+        "references": [
+          "CANDIDO, Antonio. Formação da Literatura Brasileira: momentos decisivos. Rio de Janeiro: Ouro sobre Azul, 2014. (A obra fundadora da crítica literária moderna no Brasil).",
+          "BOSI, Alfredo. História Concisa da Literatura Brasileira. São Paulo: Cultrix, 2017. (O manual acadêmico mais completo e respeitado sobre as escolas literárias, do Quinhentismo ao Contemporâneo).",
+          "CANDIDO, Antonio; CASTELLO, José Aderaldo. Presença da Literatura Brasileira: História e Antologia. São Paulo: Difel, 2003. (Excelente para ler textos e excertos com contextualização crítica).",
+          "SCHWARZ, Roberto. Ao Vencedor as Batatas: forma literária e processo social nos inícios do romance brasileiro. São Paulo: Duas Cidades/Editora 34, 2000. (Estudo fundamental sobre Realismo e Machado de Assis).",
+          "HOLLANDA, Heloísa Buarque de. 26 Poetas Hoje. Rio de Janeiro: Aeroplano, 2007. (Referência definitiva sobre a poesia marginal contemporânea)."
+        ]
+      },
+      {
+        "title": "O Modernismo Brasileiro (As Três Fases)",
+        "content": "A ruptura com as formas tradicionais acadêmicas e a redescoberta da identidade nacional iniciada pela Semana de Arte Moderna de 1922.\n\n1ª Fase (1922–1930) — Fase Heroica / Destruição\n\nCaracterísticas: Ruptura radical com o academicismo e o parnasianismo; uso do verso livre, poema-piada, linguagem coloquial; nacionalismo crítico (Manifesto Antropófago e Manifesto Pau-Brasil).\n\nAutores Chave: Oswald de Andrade, Mário de Andrade, Manuel Bandeira.\n\nObras Centrais: Pauliceia Desvairada (1922), Macunaíma (1928), Manifesto Antropófago (1928), Libertinagem (1930).\n\nExemplo Estético: O resgate do \"falar brasileiro\" sem amarras da gramática lusitana (\"Dê-me um cigarro / Diz a gramática / Do professor e do aluno / E do mulato sabido / Mas o bom negro e o bom branco / Da Nação Brasileira / Dizem todos os dias / Deixa disso camarada / Me dá um cigarro\" — Oswald de Andrade).\n\n2ª Fase (1930–1945) — Fase de Consolidação / Geração de 30\n\nVertente Prosa (Romance Regionalista de 30): Foco na denúncia social, secas do Nordeste, coronelismo, exploração do trabalhador rural e migração.\n\nAutores: Graciliano Ramos, Rachel de Queiroz, Jorge Amado, José Lins do Rego, Érico Veríssimo.\n\nObras: Vidas Secas, O Quinze, Capitães da Areia, Fogo Morto, O Tempo e o Vento.\n\nVertente Poesia: Poesia reflexiva, metafísica, existencialista e engajamento político diante dos conflitos mundiais.\n\nAutores: Carlos Drummond de Andrade, Vinicius de Moraes, Cecília Meireles, Murilo Mendes.\n\nObras: Sentimento do Mundo, A Rosa do Povo, Romanceiro da Inconfidência.\n\n3ª Fase (1945–1960/1980) — Geração de 45 / Pós-Modernismo\n\nCaracterísticas: Rigor formal na poesia (retorno ao soneto e pesquisa estética), prosa de sondagem psicológica profunda, experimentação linguística e metafísica.\n\nAutores Chave:\n\nJoão Guimarães Rosa: Revolução na prosa, neologismos, regionalismo universal e sertão metafísico (Grande Sertão: Veredas, Sagarana).\n\nClarice Lispector: Prosa intimista, fluxo de consciência, epifanias existenciais (A Hora da Estrela, Perto do Coração Selvagem).\n\nJoão Cabral de Melo Neto: A \"poesia engenharia\", substantiva, avessa ao sentimentalismo e focada no rigor visual/estrutural (Morte e Vida Severina, A Educação pela Pedra).\n\n",
+        "videos": [
+          "Professor Noslen Literatura Escolas Literárias",
+          "Descomplica Fases do Modernismo",
+          "Análise literária de Vidas Secas",
+          "Café Filosófico Literatura Brasileira Contemporânea",
+          "Telecurso Literatura Ensino Médio"
+        ],
+        "references": [
+          "CANDIDO, Antonio. Formação da Literatura Brasileira: momentos decisivos. Rio de Janeiro: Ouro sobre Azul, 2014. (A obra fundadora da crítica literária moderna no Brasil).",
+          "BOSI, Alfredo. História Concisa da Literatura Brasileira. São Paulo: Cultrix, 2017. (O manual acadêmico mais completo e respeitado sobre as escolas literárias, do Quinhentismo ao Contemporâneo).",
+          "CANDIDO, Antonio; CASTELLO, José Aderaldo. Presença da Literatura Brasileira: História e Antologia. São Paulo: Difel, 2003. (Excelente para ler textos e excertos com contextualização crítica).",
+          "SCHWARZ, Roberto. Ao Vencedor as Batatas: forma literária e processo social nos inícios do romance brasileiro. São Paulo: Duas Cidades/Editora 34, 2000. (Estudo fundamental sobre Realismo e Machado de Assis).",
+          "HOLLANDA, Heloísa Buarque de. 26 Poetas Hoje. Rio de Janeiro: Aeroplano, 2007. (Referência definitiva sobre a poesia marginal contemporânea)."
+        ]
+      },
+      {
+        "title": "Literatura Contemporânea (Anos 1960 até a Atualidade)",
+        "content": "Marcada pela pluralidade de vozes, hibridismo de gêneros e diluição de fronteiras entre alta cultura e cultura de massas.\n\nTendências Principais\n\nLiteratura Marginal e Urbana: Surgida nos anos 1970 (Geração Mimeógrafo) com poesias rápidas, diretas e distribuídas fora do circuito editorial tradicional (Chacal, Paulo Leminski, Ana Cristina Cesar).\n\nFicção Hiper-realista e Violência Urbana: Narrativas cruas sobre a periferia, o crime organizado e a exclusão social nas metrópoles (Rubem Fonseca, Ferréz).\n\nDiversidade de Vozes e Decolonialidade: Consolidação de narrativas afrodiaspóricas, indígenas, femininas e LGBTQIA+, recontando a história sob novas perspectivas.\n\nAutoficção e Memória: Fusão consciente entre biografia real e ficção deliberada.\n\nAutores Contemporâneos de Destaque\n\nItamar Vieira Junior: Torto Arado, Salvar o Fogo (a questão da terra, ancestralidade e trabalho análogo à escravidão).\n\nConceição Evaristo: Ponciá Vicêncio, Olhos D'Água (conceito de \"escrevivência\" e a experiência da mulher negra).\n\nAilton Krenak: Ideias para Adiar o Fim do Mundo (ensaios filosóficos e perspectivas cosmológicas indígenas).\n\nRaduan Nassar & Dalton Trevisan: Lavoura Arcaica (tragédia familiar lírica) e O Vampiro de Curitiba (o conto conciso e sombrio).\n\n",
+        "videos": [
+          "Professor Noslen Literatura Escolas Literárias",
+          "Descomplica Fases do Modernismo",
+          "Análise literária de Vidas Secas",
+          "Café Filosófico Literatura Brasileira Contemporânea",
+          "Telecurso Literatura Ensino Médio"
+        ],
+        "references": [
+          "CANDIDO, Antonio. Formação da Literatura Brasileira: momentos decisivos. Rio de Janeiro: Ouro sobre Azul, 2014. (A obra fundadora da crítica literária moderna no Brasil).",
+          "BOSI, Alfredo. História Concisa da Literatura Brasileira. São Paulo: Cultrix, 2017. (O manual acadêmico mais completo e respeitado sobre as escolas literárias, do Quinhentismo ao Contemporâneo).",
+          "CANDIDO, Antonio; CASTELLO, José Aderaldo. Presença da Literatura Brasileira: História e Antologia. São Paulo: Difel, 2003. (Excelente para ler textos e excertos com contextualização crítica).",
+          "SCHWARZ, Roberto. Ao Vencedor as Batatas: forma literária e processo social nos inícios do romance brasileiro. São Paulo: Duas Cidades/Editora 34, 2000. (Estudo fundamental sobre Realismo e Machado de Assis).",
+          "HOLLANDA, Heloísa Buarque de. 26 Poetas Hoje. Rio de Janeiro: Aeroplano, 2007. (Referência definitiva sobre a poesia marginal contemporânea)."
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Artes",
+    "slug": "artes",
+    "icon": "palette",
+    "lessons": [
+      {
+        "title": "Vanguardas Europeias (Início do Século XX)",
+        "content": "Movimentos artísticos que romperam com a representação figurativa e o academicismo tradicional, servindo de combustível para a modernização estética global.\n\n(foto da obra: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvWFvL6PMl-xBPCNoD1tIzTRd50qo8naiNnTokrDMqelgoPAFKRLMz-ypQ&s=10) O Grito (Munch): angústia expressionista. Fonte: Toda Matéria\n\nVanguarda,Foco Estético Central,Técnicas e Rupturas,Artistas Chave\n\nExpressionismo,\"Angústia existencial, dor e distorção da realidade para expressar o mundo interior.\",\"Cores não realistas, traços fortes e figuras deformadas.\",\"Edvard Munch, Egon Schiele, Anita Malfatti (no Brasil).\"\n\nFauvismo,\"Uso puro, impulsivo e violento da cor (\"\"as feras\"\").\",Ausência de compromisso com a cor real do objeto e rejeição da perspectiva clássica.,\"Henri Matisse, André Derain.\"\n\nCubismo,Geometrização das formas e múltiplos pontos de vista simultâneos.,\"Fragmentação do espaço, colagem (papier collé), fases analítica e sintética.\",\"Pablo Picasso, Georges Braque.\"\n\nFuturismo,\"Culto à velocidade, tecnologia, dinamismo da máquina e vida urbana.\",\"Linhas de força, repetição e sobreposição de movimentos no plano.\",\"Filippo Marinetti, Giacomo Balla, Umberto Boccioni.\"\n\nDadaísmo,\"Niilismo, ilogicismo, antiarte e revolta contra a Primeira Guerra Mundial.\",\"Ready-made (recontextualização de objetos comuns), colagens aleatórias e nonsense.\",\"Marcel Duchamp, Tristan Tzara, Man Ray.\"\n\nSurrealismo,\"Exploração do inconsciente, da teoria psicanalítica freudiana e do universo onírico (sonhos).\",\"Automatismo psíquico, justaposição ilógica de imagens e hiper-realismo de delírios.\",\"Salvador Dalí, René Magritte, Max Ernst.\"\n\n",
+        "videos": [
+          "Vivieuvi Vanguardas Europeias",
+          "Se Liga Vanguardas Europeias Arte",
+          "Brasil Escola Arte Neoconcreta Hélio Oiticica",
+          "Ocupação Itaú Cultural Nelson Rodrigues",
+          "Telecurso Ensino Médio Artes Visuais e Música"
+        ],
+        "references": [
+          "GOMBRICH, Ernst H. A História da Arte. Rio de Janeiro: LTC, 2013. (A obra panorâmica mais influente sobre a evolução da arte ocidental).",
+          "ARGAN, Giulio Carlo. Arte Moderna: do Iluminismo aos movimentos contemporâneos. São Paulo: Companhia das Letras, 1992. (Análise crítica detalhada sobre as vanguardas europeias e as rupturas do séc. XX).",
+          "AMARAL, Aracy. Artes Plásticas na Semana de 22. São Paulo: Editora 34, 1998. (Texto fundamental sobre as artes visuais no modernismo brasileiro).",
+          "TINHORÃO, José Ramos. História Social da Música Popular Brasileira. São Paulo: Editora 34, 2013. (A mais completa contextualização socioeconômica da música brasileira).",
+          "BOAL, Augusto. Teatro do Oprimido e Outras Poéticas Políticas. São Paulo: Cosac Naify / Editora 34, 2019. (Livro teórico fundamental sobre a dramaturgia participativa e crítica).",
+          "MAGALDI, Sábato. Panorama do Teatro Brasileiro. São Paulo: Global Editora, 2004. (A obra essencial de referência sobre a história das artes cênicas no Brasil)."
+        ]
+      },
+      {
+        "title": "Arte Brasileira (Do Barroco à Arte Contemporânea)",
+        "content": "A trajetória das artes visuais no Brasil, marcada pela apropriação e transformação de referências externas em expressões de identidade nacional.\n\nBarroco Mineiro (Séc. XVIII): Esculturas em pedra-sabão e madeira dourada; dramaticidade religiosa e sincretismo (Aleijadinho, Mestre Ataíde).\n\nMissão Artística Francesa (1816) & Academicismo: Introdução do Neoclassicismo e fundação da Academia Imperial de Belas Artes (Debret, Nicolas-Antoine Taunay, Pedro Américo).\n\nModernismo e a Semana de 1922: Ruptura com o academicismo e deglutição das vanguardas europeias para a criação de uma linguagem visual brasileira (Antropofagia).\n\nPintura e Escultura: Tarsila do Amaral (Abaporu, Antropofagia), Anita Malfatti, Emiliano Di Cavalcanti, Victor Brecheret, Candido Portinari (Guerra e Paz, Os Retirantes).\n\nNeoconcretismo & Arte Contemporânea (Anos 1950 em diante): Ruptura do quadro tradicional, arte participativa e sensorial.\n\nHélio Oiticica: Os Parangolés (arte para vestir) e os Penetráveis.\n\nLygia Clark: Os Bichos (esculturas manipuláveis pelo público).\n\nVik Muniz & Adriana Varejão: Uso de materiais inusitados, memória colonial e pós-colonialismo.\n\n",
+        "videos": [
+          "Vivieuvi Vanguardas Europeias",
+          "Se Liga Vanguardas Europeias Arte",
+          "Brasil Escola Arte Neoconcreta Hélio Oiticica",
+          "Ocupação Itaú Cultural Nelson Rodrigues",
+          "Telecurso Ensino Médio Artes Visuais e Música"
+        ],
+        "references": [
+          "GOMBRICH, Ernst H. A História da Arte. Rio de Janeiro: LTC, 2013. (A obra panorâmica mais influente sobre a evolução da arte ocidental).",
+          "ARGAN, Giulio Carlo. Arte Moderna: do Iluminismo aos movimentos contemporâneos. São Paulo: Companhia das Letras, 1992. (Análise crítica detalhada sobre as vanguardas europeias e as rupturas do séc. XX).",
+          "AMARAL, Aracy. Artes Plásticas na Semana de 22. São Paulo: Editora 34, 1998. (Texto fundamental sobre as artes visuais no modernismo brasileiro).",
+          "TINHORÃO, José Ramos. História Social da Música Popular Brasileira. São Paulo: Editora 34, 2013. (A mais completa contextualização socioeconômica da música brasileira).",
+          "BOAL, Augusto. Teatro do Oprimido e Outras Poéticas Políticas. São Paulo: Cosac Naify / Editora 34, 2019. (Livro teórico fundamental sobre a dramaturgia participativa e crítica).",
+          "MAGALDI, Sábato. Panorama do Teatro Brasileiro. São Paulo: Global Editora, 2004. (A obra essencial de referência sobre a história das artes cênicas no Brasil)."
+        ]
+      },
+      {
+        "title": "Música Brasileira e Suas Conexões",
+        "content": "Formação sonora nacional baseada na confluência de matrizes africanas, indígenas e europeias.\n\nMúsica Colonial e Clássica Nacional: Do Barroco das Minas Gerais ao Nacionalismo Romântico de Carlos Gomes (O Guarani) e ao Modernismo de Heitor Villa-Lobos (pesquisa folclórica e integração das Bachianas Brasileiras).\n\nMatrizes Urbanas (Final do Séc. XIX e Início do XX): Surgimento do Choro (Pixinguinha, Chiquinha Gonzaga) e do Samba Urbano no Rio de Janeiro (Pelo Telefone, Noel Rosa, Cartola).\n\nBossa Nova (1958): Sofisticação harmônica derivada do Jazz, canto intimista e ritmo sincopado do violão (João Gilberto, Tom Jobim, Vinicius de Moraes).\n\nTropicália / Tropicalismo (1967–1968): Antropofagia musical, fusão da guitarra elétrica com ritmos regionais nordestinos, contestação política e estética contra a ditadura (Caetano Veloso, Gilberto Gil, Os Mutantes, Tom Zé).\n\nMPB e Resistência (Anos 1970–1980): Letras engajadas e metáforas para driblar a censura (Chico Buarque, Elis Regina, Milton Nascimento / Clube da Esquina) e o nascimento do Rock Nacional nos anos 80.\n\n",
+        "videos": [
+          "Vivieuvi Vanguardas Europeias",
+          "Se Liga Vanguardas Europeias Arte",
+          "Brasil Escola Arte Neoconcreta Hélio Oiticica",
+          "Ocupação Itaú Cultural Nelson Rodrigues",
+          "Telecurso Ensino Médio Artes Visuais e Música"
+        ],
+        "references": [
+          "GOMBRICH, Ernst H. A História da Arte. Rio de Janeiro: LTC, 2013. (A obra panorâmica mais influente sobre a evolução da arte ocidental).",
+          "ARGAN, Giulio Carlo. Arte Moderna: do Iluminismo aos movimentos contemporâneos. São Paulo: Companhia das Letras, 1992. (Análise crítica detalhada sobre as vanguardas europeias e as rupturas do séc. XX).",
+          "AMARAL, Aracy. Artes Plásticas na Semana de 22. São Paulo: Editora 34, 1998. (Texto fundamental sobre as artes visuais no modernismo brasileiro).",
+          "TINHORÃO, José Ramos. História Social da Música Popular Brasileira. São Paulo: Editora 34, 2013. (A mais completa contextualização socioeconômica da música brasileira).",
+          "BOAL, Augusto. Teatro do Oprimido e Outras Poéticas Políticas. São Paulo: Cosac Naify / Editora 34, 2019. (Livro teórico fundamental sobre a dramaturgia participativa e crítica).",
+          "MAGALDI, Sábato. Panorama do Teatro Brasileiro. São Paulo: Global Editora, 2004. (A obra essencial de referência sobre a história das artes cênicas no Brasil)."
+        ]
+      },
+      {
+        "title": "Teatro: Das Origens ao Teatro Brasileiro",
+        "content": "Evolução cênica ocidental e o desenvolvimento de um teatro social e reflexivo no Brasil.\n\nMatrizes Clássicas:\n\nTeatro Grego: Tragédia (catarse, destino e conflito ético — Sófocles, Ésquilo) e Comédia (crítica aos costumes — Aristófanes).\n\nCommedia dell'Arte: Improviso, arquétipos fixos (Arlequim, Colombina, Pantaleão) e uso de máscaras.\n\nModernização do Teatro Ocidental: O naturalismo de Konstantin Stanislavski (o \"Método\" de atuação psicológica) e o Teatro Épico de Bertolt Brecht (o efeito de distanciamento para despertar a consciência crítica).\n\nModernização do Teatro Brasileiro:\n\nTeatro dos Sete e TBC (Teatro Brasileiro de Comédia): Profissionalização técnica da encenação no Brasil nos anos 1940/50.\n\nNelson Rodrigues: A virada com Vestido de Noiva (1943), dirigida por Zbigniew Ziembinski, inaugurando o teatro moderno brasileiro com múltiplos planos temporais e sondagem psicológica.\n\nTeatro de Arena e Teatro Oficina: Engajamento político, crítica social direta e experimentalismo cênico (Gianfrancesco Guarnieri com Eles Não Usam Black-tie, Zé Celso Martinez Corrêa com O Rei da Vela).\n\nAugusto Boal e o Teatro do Oprimido: Metodologia cênica em que o espectador se torna \"espect-ator\", transformando o palco em laboratório de ação social e política.\n\n",
+        "videos": [
+          "Vivieuvi Vanguardas Europeias",
+          "Se Liga Vanguardas Europeias Arte",
+          "Brasil Escola Arte Neoconcreta Hélio Oiticica",
+          "Ocupação Itaú Cultural Nelson Rodrigues",
+          "Telecurso Ensino Médio Artes Visuais e Música"
+        ],
+        "references": [
+          "GOMBRICH, Ernst H. A História da Arte. Rio de Janeiro: LTC, 2013. (A obra panorâmica mais influente sobre a evolução da arte ocidental).",
+          "ARGAN, Giulio Carlo. Arte Moderna: do Iluminismo aos movimentos contemporâneos. São Paulo: Companhia das Letras, 1992. (Análise crítica detalhada sobre as vanguardas europeias e as rupturas do séc. XX).",
+          "AMARAL, Aracy. Artes Plásticas na Semana de 22. São Paulo: Editora 34, 1998. (Texto fundamental sobre as artes visuais no modernismo brasileiro).",
+          "TINHORÃO, José Ramos. História Social da Música Popular Brasileira. São Paulo: Editora 34, 2013. (A mais completa contextualização socioeconômica da música brasileira).",
+          "BOAL, Augusto. Teatro do Oprimido e Outras Poéticas Políticas. São Paulo: Cosac Naify / Editora 34, 2019. (Livro teórico fundamental sobre a dramaturgia participativa e crítica).",
+          "MAGALDI, Sábato. Panorama do Teatro Brasileiro. São Paulo: Global Editora, 2004. (A obra essencial de referência sobre a história das artes cênicas no Brasil)."
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Educação Física",
+    "slug": "educacao-fisica",
+    "icon": "running",
+    "lessons": [
+      {
+        "title": "Esporte e Cultura Corporal de Movimento",
+        "content": "O esporte é analisado como manifestação sociocultural com diferentes finalidades e classificações técnicas estabelecidas pela BNCC.\n\nCategorias do Esporte\n\nEsporte de Rendimento / Espetáculo: Foco na alta performance, recordes, profissionalismo e lógica mercantil.\n\nEsporte Escolar / Educacional: Prioriza inclusão, cooperação, valores éticos e desenvolvimento integral (o aluno não é selecionado por habilidade técnica).\n\nEsporte de Lazer / Participação: Prática voluntária voltada ao bem-estar, sociabilização e saúde no tempo livre.\n\nClassificação dos Esportes (Modelo BNCC / González)\n\nCategoria,Definição / Lógica Interna,Exemplos\n\nInvasão / Territorial,\"Ocupar o setor da quadra/campo do adversário para pontuar, enquanto defende a própria meta.\",\"Futebol, Futsal, Basquetebol, Handebol, Rugby.\"\n\nRede / Parede divisória,Arremessar ou rebater a bola/peteca sobre uma rede ou contra uma parede sem que o adversário a devolva.,\"Voleibol, Tênis, Badminton, Squash, Futevôlei.\"\n\nCampo e Taco,Rebater a bola o mais longe possível para percorrer bases e acumular corridas.,\"Beisebol, Softbol, Críquete.\"\n\nMarca,\"Desempenho medido por tempo, distância, altura ou peso alcançado.\",\"Atletismo (corridas/saltos), Natação, Halterofilismo.\"\n\nPrecisão,Atingir ou aproximar um objeto de um alvo fixo ou móvel.,\"Tiro com Arco, Boliche, Bocha, Golfe, Curling.\"\n\nTécnico-Combinatório,Execução e precisão plástica de movimentos avaliados por juízes segundo critérios estéticos e técnicos.,\"Ginástica Artística, Ginástica Rítmica, Nado Artístico, Skate, Surfe.\"\n\nCombate (Lutas),\"Confronto individual de contato com foco em golpear, imobilizar ou desequilibrar o oponente sob regras específicas.\",\"Judô, Boxe, Karatê, Capoeira, Taekwondo, Jiu-Jitsu.\"\n\n",
+        "videos": [
+          "Se Liga Educação Física BNCC Esportes",
+          "Curso Enem Gratuito Educação Física Padrões de Beleza e Mídia",
+          "Descomplica Educação Física Saúde e Sociedade",
+          "Telecurso Ensino Médio Educação Física e Sociedade",
+          "Sesc SP Esporte e Sociedade debates"
+        ],
+        "references": [
+          "SOARES, Carmen Lúcia et al. (Coletivo de Autores). Metodologia do Ensino de Educação Física. São Paulo: Cortez, 2012. (Obra fundadora da abordagem crítico-superadora da cultura corporal).",
+          "BETTI, Mauro. Educação Física e Sociedade: a educação física na escola brasileira. São Paulo: Movimento, 1991. (Referência teórica sobre a relação entre esporte, televisão e consumo cultural).",
+          "GONZÁLEZ, Fernando Jaime; BRACHT, Valter. Metodologia do ensino dos esportes coletivos. Vitória: UFES, 2012. (A principal base teórica para a categorização moderna dos esportes adotada pela BNCC).",
+          "DAOLIO, Jocimar. Da cultura do corpo. Campinas: Papirus, 1995. (Estudo essencial sobre a dimensão antropológica e cultural do movimento humano).",
+          "BRASIL. Ministério da Educação. Base Nacional Comum Curricular (BNCC): Educação Física. Brasília: MEC/SEB, 2018. (Documento normativo que estabelece as unidades temáticas: Brincadeiras e Jogos, Esportes, Ginásticas, Danças, Lutas e Práticas Corporais de Aventura).",
+          "ORGANIZAÇÃO MUNDIAL DA SAÚDE (OMS). Diretrizes da OMS para atividade física e comportamento sedentário. Genebra: OMS, 2020. (Documento científico oficial com recomendações globais de saúde)."
+        ]
+      },
+      {
+        "title": "Corpo, Padrões Estéticos e Sociedade",
+        "content": "Análise crítica de como os corpos são moldados e valorizados culturalmente ao longo da história.\n\nConstrução Histórica do Corpo Ideal: Da valorização da robustez e força no passado à exigência contemporânea de magreza extrema ou hipertrofia muscular padronizada.\n\nCorpo como Mercadoria e Objeto de Consumo: A indústria da beleza e do fitness transformando a forma física em símbolo de status e sucesso pessoal.\n\nDistorções de Autoimagem e Transtornos:\n\nVigorexia (Dismorfia Muscular): Obsessão patológica pelo ganho muscular contínuo, mesmo em indivíduos hipertrofiados.\n\nUso Indiscriminado de Recursos Ergogênicos: Riscos cardiovasculares, hepáticos e hormonais do uso não médico de esteroides anabolizantes para fins estéticos.\n\nDiversidade e Inclusão: Acessibilidade e visibilidade de corpos dissidentes (corpos com deficiência no esporte paralímpico, corpos gordos e corpos idosos na atividade física).\n\n",
+        "videos": [
+          "Se Liga Educação Física BNCC Esportes",
+          "Curso Enem Gratuito Educação Física Padrões de Beleza e Mídia",
+          "Descomplica Educação Física Saúde e Sociedade",
+          "Telecurso Ensino Médio Educação Física e Sociedade",
+          "Sesc SP Esporte e Sociedade debates"
+        ],
+        "references": [
+          "SOARES, Carmen Lúcia et al. (Coletivo de Autores). Metodologia do Ensino de Educação Física. São Paulo: Cortez, 2012. (Obra fundadora da abordagem crítico-superadora da cultura corporal).",
+          "BETTI, Mauro. Educação Física e Sociedade: a educação física na escola brasileira. São Paulo: Movimento, 1991. (Referência teórica sobre a relação entre esporte, televisão e consumo cultural).",
+          "GONZÁLEZ, Fernando Jaime; BRACHT, Valter. Metodologia do ensino dos esportes coletivos. Vitória: UFES, 2012. (A principal base teórica para a categorização moderna dos esportes adotada pela BNCC).",
+          "DAOLIO, Jocimar. Da cultura do corpo. Campinas: Papirus, 1995. (Estudo essencial sobre a dimensão antropológica e cultural do movimento humano).",
+          "BRASIL. Ministério da Educação. Base Nacional Comum Curricular (BNCC): Educação Física. Brasília: MEC/SEB, 2018. (Documento normativo que estabelece as unidades temáticas: Brincadeiras e Jogos, Esportes, Ginásticas, Danças, Lutas e Práticas Corporais de Aventura).",
+          "ORGANIZAÇÃO MUNDIAL DA SAÚDE (OMS). Diretrizes da OMS para atividade física e comportamento sedentário. Genebra: OMS, 2020. (Documento científico oficial com recomendações globais de saúde)."
+        ]
+      },
+      {
+        "title": "Saúde, Atividade Física e Aptidão",
+        "content": "Diferenciação conceitual e impacto da prática motora na saúde pública e individual.\n\nDistinções Fundamentais\n\nAtividade Física: Qualquer movimento corporal voluntário produzido pela musculatura esquelética que resulte em gasto energético acima dos níveis de repouso (ex.: caminhar até o ponto de ônibus, subir escadas, limpar a casa).\n\nExercício Físico: Atividade física estruturada, planejada, repetitiva e com objetivo específico de manter ou melhorar capacidades físicas (ex.: musculação, natação cronometrada, corrida planejada).\n\nAptidão Física: Conjunto de atributos e capacidades que permitem realizar tarefas cotidianas com vigor e sem fadiga excessiva:\n\nRelacionada à Saúde: Resistência cardiorrespiratória, força e resistência muscular, flexibilidade e composição corporal.\n\nRelacionada ao Desempenho: Velocidade, agilidade, potência, equilíbrio, coordenação motora e tempo de reação.\n\nDoenças Crônicas Não Transmissíveis (DCNTs)\n\nO combate ao sedentarismo como ferramenta preventiva primária contra hipertensão arterial, diabetes tipo 2, dislipidemia, obesidade e declínio cognitivo.\n\n",
+        "videos": [
+          "Se Liga Educação Física BNCC Esportes",
+          "Curso Enem Gratuito Educação Física Padrões de Beleza e Mídia",
+          "Descomplica Educação Física Saúde e Sociedade",
+          "Telecurso Ensino Médio Educação Física e Sociedade",
+          "Sesc SP Esporte e Sociedade debates"
+        ],
+        "references": [
+          "SOARES, Carmen Lúcia et al. (Coletivo de Autores). Metodologia do Ensino de Educação Física. São Paulo: Cortez, 2012. (Obra fundadora da abordagem crítico-superadora da cultura corporal).",
+          "BETTI, Mauro. Educação Física e Sociedade: a educação física na escola brasileira. São Paulo: Movimento, 1991. (Referência teórica sobre a relação entre esporte, televisão e consumo cultural).",
+          "GONZÁLEZ, Fernando Jaime; BRACHT, Valter. Metodologia do ensino dos esportes coletivos. Vitória: UFES, 2012. (A principal base teórica para a categorização moderna dos esportes adotada pela BNCC).",
+          "DAOLIO, Jocimar. Da cultura do corpo. Campinas: Papirus, 1995. (Estudo essencial sobre a dimensão antropológica e cultural do movimento humano).",
+          "BRASIL. Ministério da Educação. Base Nacional Comum Curricular (BNCC): Educação Física. Brasília: MEC/SEB, 2018. (Documento normativo que estabelece as unidades temáticas: Brincadeiras e Jogos, Esportes, Ginásticas, Danças, Lutas e Práticas Corporais de Aventura).",
+          "ORGANIZAÇÃO MUNDIAL DA SAÚDE (OMS). Diretrizes da OMS para atividade física e comportamento sedentário. Genebra: OMS, 2020. (Documento científico oficial com recomendações globais de saúde)."
+        ]
+      },
+      {
+        "title": "Esporte, Saúde e Mídias",
+        "content": "A influência dos meios de comunicação na espetacularização das práticas corporais e na disseminação de padrões.\n\nA Espetacularização do Esporte:\n\nAdaptação das regras esportivas para adequação aos intervalos comerciais da TV (ex.: mudanças na pontuação do voleibol de sistema de vantagens para pontos corridos / rally point system).\n\nConstrução de ídolos e narrativas heroicas que ofuscam questões estruturais do esporte de base.\n\nMídias Digitais e Cultura Fitness:\n\nA mercantilização das redes sociais promovendo \"dietas milagrosas\", exercícios sem respaldo fisiológico e treinos padronizados por influenciadores digitais sem formação profissional.\n\nEfeito \"vitrine\": o aumento da ansiedade e comparação social diante de corpos filtrados e retocados digitalmente.\n\nCultura Gamer e e-Sports: O debate sobre a profissionalização dos jogos eletrônicos, rotinas de treino, lesões por esforço repetitivo (LER/DORT) e os limites do conceito tradicional de esporte.\n\n",
+        "videos": [
+          "Se Liga Educação Física BNCC Esportes",
+          "Curso Enem Gratuito Educação Física Padrões de Beleza e Mídia",
+          "Descomplica Educação Física Saúde e Sociedade",
+          "Telecurso Ensino Médio Educação Física e Sociedade",
+          "Sesc SP Esporte e Sociedade debates"
+        ],
+        "references": [
+          "SOARES, Carmen Lúcia et al. (Coletivo de Autores). Metodologia do Ensino de Educação Física. São Paulo: Cortez, 2012. (Obra fundadora da abordagem crítico-superadora da cultura corporal).",
+          "BETTI, Mauro. Educação Física e Sociedade: a educação física na escola brasileira. São Paulo: Movimento, 1991. (Referência teórica sobre a relação entre esporte, televisão e consumo cultural).",
+          "GONZÁLEZ, Fernando Jaime; BRACHT, Valter. Metodologia do ensino dos esportes coletivos. Vitória: UFES, 2012. (A principal base teórica para a categorização moderna dos esportes adotada pela BNCC).",
+          "DAOLIO, Jocimar. Da cultura do corpo. Campinas: Papirus, 1995. (Estudo essencial sobre a dimensão antropológica e cultural do movimento humano).",
+          "BRASIL. Ministério da Educação. Base Nacional Comum Curricular (BNCC): Educação Física. Brasília: MEC/SEB, 2018. (Documento normativo que estabelece as unidades temáticas: Brincadeiras e Jogos, Esportes, Ginásticas, Danças, Lutas e Práticas Corporais de Aventura).",
+          "ORGANIZAÇÃO MUNDIAL DA SAÚDE (OMS). Diretrizes da OMS para atividade física e comportamento sedentário. Genebra: OMS, 2020. (Documento científico oficial com recomendações globais de saúde)."
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ingles ou Espanhou",
+    "slug": "ingles-ou-espanhou",
+    "icon": "globe",
+    "lessons": [
+      {
+        "title": "Técnicas Universais de Leitura e Interpretação",
+        "content": "Estratégias aplicáveis tanto ao inglês quanto ao espanhol para ler com velocidade, precisão e identificar o tema central sem traduzir palavra por palavra.\n\nTécnicas Centrais de Leitura Rápida\n\nSkimming (Leitura Panorâmica): Passar os olhos rapidamente pelo texto para captar a ideia geral (gist / idea general), identificando título, subtítulos, autor, fonte e o primeiro/último parágrafo.\n\nScanning (Varredura Específica): Buscar informações pontuais no texto (datas, nomes próprios, números, termos técnicos) sem ler o restante.\n\nUso de Palavras Cognatas: Palavras de grafia e sentido semelhantes ao português decorrentes da raiz latina (ex.: information / información, different / diferente, future / futuro).\n\nInferência pelo Contexto: Deduzir o significado de um vocábulo desconhecido analisando as pistas ao redor (conjunções, pontuação, contraste ou sinônimos presentes na mesma oração).\n\n",
+        "videos": [
+          "Se Liga Inglês Interpretação de Texto",
+          "Curso Enem Gratuito Inglês Técnicas Skimming e Scanning",
+          "Kultivi Inglês Instrumental para Leitura",
+          "Telecurso Ensino Médio Inglês Leitura e Interpretação"
+        ],
+        "references": [
+          "MARCUSCHI, Luiz Antônio. Da fala para a escrita: atividades de retextualização. São Paulo: Cortez, 2001. (Fundamento teórico sobre compreensão leitora e transposição de gêneros).",
+          "MUNHOZ, Rosângela. Inglês Instrumental: Estratégias de Leitura. São Paulo: Texto Novo, 2001. (O manual clássico brasileiro para o método de leitura rápida e instrumental em inglês).",
+          "FANEGO PÉREZ, María Teresa. Espanhol Instrumental: Leitura e Interpretação de Textos. São Paulo: Saraiva, 2012. (Foco em estratégias de leitura, falsos cognatos e heterogenéricos para provas).",
+          "SWALES, John M. Genre Analysis: English in academic and research settings. Cambridge: Cambridge University Press, 1990. (Referência definitiva sobre a estrutura de gêneros textuais para exames).",
+          "MATTE BON, Francisco. Gramática Comunicativa del Español. Madri: Edelsa, 1995. (Estudo do espanhol em uso e pragmática do discurso para leitura)."
+        ]
+      },
+      {
+        "title": "Inglês Instrumental para Leitura",
+        "content": "Pontos gramaticais e estruturais que mais impactam o sentido dos textos em língua inglesa.\n\n1. Conectivos Lógicos (Linking Words)\n\nO domínio das conjunções é o principal atalho para interpretar relações entre ideias:\n\nContraste / Concessão: However, Although, Even though, Despite, In spite of, Nonetheless, Whereas.\n\nCausa e Consequência: Because, Since, Due to, Therefore, Thus, Hence, Consequently.\n\nAdição e Ênfase: Furthermore, Moreover, In addition, Besides.\n\n2. Modais e seus Sentidos\n\nPossibilidade / Probabilidade: May, Might, Could (This measure might reduce costs).\n\nObrigação / Necessidade: Must, Have to, Need to (Citizens must register).\n\nConselho / Recomendação: Should, Ought to (Governments should invest in health).\n\n3. Falsos Cognatos Frequentes (False Friends)\n\nTermo em Inglês,O que parece,Significado Real\n\nActually,Atualmente,\"Na verdade, realmente (Currently = atualmente)\"\n\nPretend,Pretender,Fingir (Intend = pretender)\n\nIntend,Entender,Pretender / Ter intenção (Understand = entender)\n\nNotice,Notícia,\"Notar, aviso, perceber (News = notícia)\"\n\nParents,Parentes,Pais (pai e mãe) (Relatives = parentes)\n\nNovel,Novela,Romance (livro) (Soap opera = telenovela)\n\nEventually,Eventualmente,\"No final das contas, por fim (Occasionally = eventualmente)\"\n\n",
+        "videos": [
+          "Se Liga Inglês Interpretação de Texto",
+          "Curso Enem Gratuito Inglês Técnicas Skimming e Scanning",
+          "Kultivi Inglês Instrumental para Leitura",
+          "Telecurso Ensino Médio Inglês Leitura e Interpretação"
+        ],
+        "references": [
+          "MARCUSCHI, Luiz Antônio. Da fala para a escrita: atividades de retextualização. São Paulo: Cortez, 2001. (Fundamento teórico sobre compreensão leitora e transposição de gêneros).",
+          "MUNHOZ, Rosângela. Inglês Instrumental: Estratégias de Leitura. São Paulo: Texto Novo, 2001. (O manual clássico brasileiro para o método de leitura rápida e instrumental em inglês).",
+          "FANEGO PÉREZ, María Teresa. Espanhol Instrumental: Leitura e Interpretação de Textos. São Paulo: Saraiva, 2012. (Foco em estratégias de leitura, falsos cognatos e heterogenéricos para provas).",
+          "SWALES, John M. Genre Analysis: English in academic and research settings. Cambridge: Cambridge University Press, 1990. (Referência definitiva sobre a estrutura de gêneros textuais para exames).",
+          "MATTE BON, Francisco. Gramática Comunicativa del Español. Madri: Edelsa, 1995. (Estudo do espanhol em uso e pragmática do discurso para leitura)."
+        ]
+      },
+      {
+        "title": "Espanhol Instrumental para Leitura",
+        "content": "A armadilha da proximidade com o português: foco em desarmar falsos amigos e decodificar heterossemânticos e heterogenéricos.\n\n1. Heterossemânticos (Falsos Amigos / Falsos Cognatos)\n\nPalavras de grafia quase idêntica ao português, mas com significado completamente distinto:\n\nPalavra em Espanhol,O que parece,Significado Real\n\nTodavía,Todavia (mas/porém),Ainda (Todavía no ha llegado)\n\nSin embargo,Sem embargo,No entanto / Porém (Conectivo de oposição)\n\nLargo,Largo (amplo),Comprido / Longo (Ancho = largo)\n\nPronto,Pronto (acabado),Logo / Cedo / Em breve (Listo = pronto)\n\nExquisito,Esquisito (estranho),Delicioso / Refinado (Raro ou Extraño = esquisito)\n\nAcordarse,Acordar (despertar),Lembrar-se (Despertarse = acordar)\n\nBorrar,Borrar (manchar),Apagar / Deletar (Manchar = borrar)\n\nCuello,Coelho,Pescoço / Gola (Conejo = coelho)\n\n2. Heterogenéricos e Conectivos Críticos\n\nHeterogenéricos: Palavras com gêneros gramaticais trocados em relação ao português:\n\nMasculinos em espanhol / Femininos em português: El viaje (a viagem), el mensaje (a mensagem), el color (a cor), el árbol (a árvore).\n\nFemininos em espanhol / Masculinos em português: La costumbre (o costume), la leche (o leite), la nariz (o nariz), la sangre (o sangue).\n\nMarcadores do Discurso (Conectores): Aunque (embora), Mientras (enquanto), Por lo tanto (portanto), Además (além disso), A pesar de (apesar de).\n\n",
+        "videos": [
+          "Se Liga Inglês Interpretação de Texto",
+          "Curso Enem Gratuito Inglês Técnicas Skimming e Scanning",
+          "Kultivi Inglês Instrumental para Leitura",
+          "Telecurso Ensino Médio Inglês Leitura e Interpretação"
+        ],
+        "references": [
+          "MARCUSCHI, Luiz Antônio. Da fala para a escrita: atividades de retextualização. São Paulo: Cortez, 2001. (Fundamento teórico sobre compreensão leitora e transposição de gêneros).",
+          "MUNHOZ, Rosângela. Inglês Instrumental: Estratégias de Leitura. São Paulo: Texto Novo, 2001. (O manual clássico brasileiro para o método de leitura rápida e instrumental em inglês).",
+          "FANEGO PÉREZ, María Teresa. Espanhol Instrumental: Leitura e Interpretação de Textos. São Paulo: Saraiva, 2012. (Foco em estratégias de leitura, falsos cognatos e heterogenéricos para provas).",
+          "SWALES, John M. Genre Analysis: English in academic and research settings. Cambridge: Cambridge University Press, 1990. (Referência definitiva sobre a estrutura de gêneros textuais para exames).",
+          "MATTE BON, Francisco. Gramática Comunicativa del Español. Madri: Edelsa, 1995. (Estudo do espanhol em uso e pragmática do discurso para leitura)."
+        ]
+      },
+      {
+        "title": "Gêneros Textuais Recorrentes em Provas de Língua Estrangeira",
+        "content": "Tirinhas e Cartuns (Comics / Tiras Cómicas): Calvin and Hobbes, Mafalda, Gaturro, Peanuts. Exigem leitura de ironia, crítica social e linguagem não verbal.\n\nNotícias e Artigos de Opinião: Trechos de veículos como BBC, The Guardian, The New York Times, El País, BBC Mundo. Foco na tese do articulista e dados estatísticos.\n\nPoemas e Letras de Música: Foco em metáforas, denotação/conotação e função poética da linguagem.\n\nTextos de Divulgação Científica: Nature, Scientific American, National Geographic. Vocabulário técnico acessível e relações de causa-efeito.\n\n",
+        "videos": [
+          "Se Liga Inglês Interpretação de Texto",
+          "Curso Enem Gratuito Inglês Técnicas Skimming e Scanning",
+          "Kultivi Inglês Instrumental para Leitura",
+          "Telecurso Ensino Médio Inglês Leitura e Interpretação"
+        ],
+        "references": [
+          "MARCUSCHI, Luiz Antônio. Da fala para a escrita: atividades de retextualização. São Paulo: Cortez, 2001. (Fundamento teórico sobre compreensão leitora e transposição de gêneros).",
+          "MUNHOZ, Rosângela. Inglês Instrumental: Estratégias de Leitura. São Paulo: Texto Novo, 2001. (O manual clássico brasileiro para o método de leitura rápida e instrumental em inglês).",
+          "FANEGO PÉREZ, María Teresa. Espanhol Instrumental: Leitura e Interpretação de Textos. São Paulo: Saraiva, 2012. (Foco em estratégias de leitura, falsos cognatos e heterogenéricos para provas).",
+          "SWALES, John M. Genre Analysis: English in academic and research settings. Cambridge: Cambridge University Press, 1990. (Referência definitiva sobre a estrutura de gêneros textuais para exames).",
+          "MATTE BON, Francisco. Gramática Comunicativa del Español. Madri: Edelsa, 1995. (Estudo do espanhol em uso e pragmática do discurso para leitura)."
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Historia",
+    "slug": "historia",
+    "icon": "landmark",
+    "lessons": [
+      {
+        "title": "(foto:https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd_TNKcOhCGB032lKPG_DNtmq5pg5I-iU8FUBRxbKL4A72f8x83o_ofe4&s=10 ) Proclamação da República (1889): fim do Império. Fonte: Wikipédia",
+        "content": "Brasil Colônia (1500–1822)\n\nCompreende a montagem do sistema colonial mercantilista baseado no pacto colonial, monocultura latifundiária e exploração do trabalho escravizado.\n\nFases Econômicas e Sociais\n\nPeríodo Pré-Colonial (1500–1530): Feitorias, escambo com indígenas e extração do pau-brasil.\n\nCiclo da Cana-de-Açúcar (Séc. XVI–XVII): Núcleo no Nordeste (Capitanias de Pernambuco e Bahia), plantation (latifúndio, monocultura, mão de obra escravizada africana e voltada à exportação) e sociedade patriarcal/rural.\n\nCiclo do Ouro e Diamantes (Séc. XVIII): Deslocamento do eixo econômico para o Sudeste/Centro-Oeste (Minas Gerais), urbanização, aumento do controle fiscal da Coroa (quinto, derrama, casas de fundição) e surgimento de uma classe média urbana.\n\nMovimentos Emancipacionistas\n\nInconfidência Mineira (1789): Movimento de elite com influência iluminista contra os abusos fiscais da Coroa.\n\nConjuração Baiana / Revolta dos Alfaiates (1798): Movimento de caráter popular e abolicionista que defendia o fim da escravidão e a independência republicana.\n\nTransferência da Corte Portuguesa (1808): Abertura dos Portos às Nações Amigas, rompimento do Pacto Colonial e elevação do Brasil a Reino Unido a Portugal e Algarves (1815).\n\n",
+        "videos": [
+          "Historia Online Era Vargas",
+          "Parabolica Ditadura Militar no Brasil",
+          "Se Liga Brasil Colonia Ciclo do Acucar e Ouro",
+          "Telecurso Ensino Médio Historia do Brasil"
+        ],
+        "references": [
+          "FAUSTO, Boris. História do Brasil. São Paulo: Edusp, 2019. (A síntese panorâmica mais recomendada para compreender a formação política do Brasil do período colonial à Nova República).",
+          "PRADO JR., Caio. Formação do Brasil Contemporâneo. São Paulo: Companhia das Letras, 2011. (Obra fundamental que define o \"sentido da colonização\" e a economia de plantation).",
+          "HOBSBAWM, Eric. A Era das Revoluções (1789–1848), A Era do Capital (1848–1875) e A Era dos Extremos (1914–1991). São Paulo: Paz e Terra. (A trilogia e a conclusão definitivas para o estudo aprofundado de História Geral).",
+          "SCHWARCZ, Lilia Moritz; STARLING, Heloisa Murgel. Brasil: uma biografia. São Paulo: Companhia das Letras, 2015. (Análise social e cultural abrangente sobre as tensões, cidadania e contradições do Brasil).",
+          "SKIDMORE, Thomas. Brasil: de Getúlio a Castelo (1930–1964) e Brasil: de Castelo a Tancredo (1964–1985). São Paulo: Paz e Terra. (Análise política e econômica detalhada da Era Vargas e do Regime Militar)."
+        ]
+      },
+      {
+        "title": "Brasil Império (1822–1889)",
+        "content": "Estruturação do Estado Nacional monárquico na América do Sul e consolidação das elites agrárias.\n\nPrimeiro Reinado\n\n1822–1831\n\nD. Pedro I outorga a Constituição de 1824 (criação do Poder Moderador e voto censitário). Marcado pelo desgaste político, Guerra da Cisplatina e a Noite das Garrafadas, culminando na abdicação do imperador.\n\nPeríodo Regencial\n\n1831–1840\n\nTransição instável durante a menoridade de D. Pedro II. Eclosão de revoltas provinciais (Cabanagem, Farroupilha, Sabinada, Balaiada e Revolta dos Malês). Encerra-se com o Golpe da Maioridade.\n\nSegundo Reinado\n\n1840–1889\n\nEstabilidade política sob o parlamentarismo às avessas e alternância entre Liberais e Conservadores. Expansão da cafeicultura no Vale do Paraíba e Oeste Paulista, Guerra do Paraguai (1864–1870) e a transição gradual para o trabalho livre assalariado imigrante com o processo abolicionista (Leis Eusébio de Queirós, Ventre Livre, Sexagenários e Áurea em 1888).\n\n",
+        "videos": [
+          "Historia Online Era Vargas",
+          "Parabolica Ditadura Militar no Brasil",
+          "Se Liga Brasil Colonia Ciclo do Acucar e Ouro",
+          "Telecurso Ensino Médio Historia do Brasil"
+        ],
+        "references": [
+          "FAUSTO, Boris. História do Brasil. São Paulo: Edusp, 2019. (A síntese panorâmica mais recomendada para compreender a formação política do Brasil do período colonial à Nova República).",
+          "PRADO JR., Caio. Formação do Brasil Contemporâneo. São Paulo: Companhia das Letras, 2011. (Obra fundamental que define o \"sentido da colonização\" e a economia de plantation).",
+          "HOBSBAWM, Eric. A Era das Revoluções (1789–1848), A Era do Capital (1848–1875) e A Era dos Extremos (1914–1991). São Paulo: Paz e Terra. (A trilogia e a conclusão definitivas para o estudo aprofundado de História Geral).",
+          "SCHWARCZ, Lilia Moritz; STARLING, Heloisa Murgel. Brasil: uma biografia. São Paulo: Companhia das Letras, 2015. (Análise social e cultural abrangente sobre as tensões, cidadania e contradições do Brasil).",
+          "SKIDMORE, Thomas. Brasil: de Getúlio a Castelo (1930–1964) e Brasil: de Castelo a Tancredo (1964–1985). São Paulo: Paz e Terra. (Análise política e econômica detalhada da Era Vargas e do Regime Militar)."
+        ]
+      },
+      {
+        "title": "Era Vargas (1930–1945 / 1951–1954)",
+        "content": "Transição da República Oligárquica (Café com Leite) para o modelo nacional-estatista, modernização industrial e controle sindical.\n\nGoverno Provisório (1930–1934): Dissolução do Congresso, nomeação de interventores nos estados e reação paulista na Revolução Constitucionalista de 1932. Promulgação da Constituição de 1934 (instituição do voto feminino e leis trabalhistas).\n\nGoverno Constitucional (1934–1937): Polarização ideológica entre a AIB (Ação Integralista Brasileira - fascista) e a ANL (Aliança Nacional Libertadora - comunista/antifascista), culminando na Intentona Comunista de 1935 e no forjado Plano Cohen.\n\nEstado Novo (1937–1945): Ditadura varguista sob a Constituição Polaca de 1937. Centralização política, propaganda estatal (DIP - Departamento de Imprensa e Propaganda), criação da CLT (1943), industrialização de base (CSN, Vale do Rio Doce) e participação do Brasil na 2ª Guerra Mundial ao lado dos Aliados (FEB).\n\nGoverno Democrático (1951–1954): Retorno de Vargas pelo voto popular, criação da Petrobras (campanha \"O Petróleo é Nosso\"), forte oposição da UDN (Carlos Lacerda), Atentado da Rua Tonelero e suicídio de Vargas em agosto de 1954 com a Carta-Testamento.\n\n",
+        "videos": [
+          "Historia Online Era Vargas",
+          "Parabolica Ditadura Militar no Brasil",
+          "Se Liga Brasil Colonia Ciclo do Acucar e Ouro",
+          "Telecurso Ensino Médio Historia do Brasil"
+        ],
+        "references": [
+          "FAUSTO, Boris. História do Brasil. São Paulo: Edusp, 2019. (A síntese panorâmica mais recomendada para compreender a formação política do Brasil do período colonial à Nova República).",
+          "PRADO JR., Caio. Formação do Brasil Contemporâneo. São Paulo: Companhia das Letras, 2011. (Obra fundamental que define o \"sentido da colonização\" e a economia de plantation).",
+          "HOBSBAWM, Eric. A Era das Revoluções (1789–1848), A Era do Capital (1848–1875) e A Era dos Extremos (1914–1991). São Paulo: Paz e Terra. (A trilogia e a conclusão definitivas para o estudo aprofundado de História Geral).",
+          "SCHWARCZ, Lilia Moritz; STARLING, Heloisa Murgel. Brasil: uma biografia. São Paulo: Companhia das Letras, 2015. (Análise social e cultural abrangente sobre as tensões, cidadania e contradições do Brasil).",
+          "SKIDMORE, Thomas. Brasil: de Getúlio a Castelo (1930–1964) e Brasil: de Castelo a Tancredo (1964–1985). São Paulo: Paz e Terra. (Análise política e econômica detalhada da Era Vargas e do Regime Militar)."
+        ]
+      },
+      {
+        "title": "Ditadura Militar Brasileira (1964–1985)",
+        "content": "Regime autoritário instaurado após o golpe contra João Goulart, marcado pela alternância de generais-presidentes, censura, repressão e projetos de desenvolvimento econômico.\n\nFase / Período,Presidência Principal,Características Centrais\n\nInstalação e Bipartidarismo (1964–1968),Castelo Branco / Costa e Silva,\"Atos Institucionais (AI-1 a AI-4), criação da ARENA e MDB, cassação de mandatos e manifestações civis (Passeata dos Cem Mil).\"\n\nAnos de Chumbo (1968–1974),Médici,\"AI-5 (1968): fechamento do Congresso, censura prévia, suspensão do habeas corpus e repressão a guerrilhas. Auge do \"\"Milagre Econômico\"\" (PIB elevado às custas do endividamento externo e concentração de renda).\"\n\nAbertura Lenta e Gradual (1974–1985),Geisel / Figueiredo,\"Crise do Petróleo e inflação galopante. Revogação do AI-5, Lei da Anistia (1979), volta do pluripartidarismo, movimento das Diretas Já (1984) e eleição indireta de Tancredo Neves (1985).\"\n\n",
+        "videos": [
+          "Historia Online Era Vargas",
+          "Parabolica Ditadura Militar no Brasil",
+          "Se Liga Brasil Colonia Ciclo do Acucar e Ouro",
+          "Telecurso Ensino Médio Historia do Brasil"
+        ],
+        "references": [
+          "FAUSTO, Boris. História do Brasil. São Paulo: Edusp, 2019. (A síntese panorâmica mais recomendada para compreender a formação política do Brasil do período colonial à Nova República).",
+          "PRADO JR., Caio. Formação do Brasil Contemporâneo. São Paulo: Companhia das Letras, 2011. (Obra fundamental que define o \"sentido da colonização\" e a economia de plantation).",
+          "HOBSBAWM, Eric. A Era das Revoluções (1789–1848), A Era do Capital (1848–1875) e A Era dos Extremos (1914–1991). São Paulo: Paz e Terra. (A trilogia e a conclusão definitivas para o estudo aprofundado de História Geral).",
+          "SCHWARCZ, Lilia Moritz; STARLING, Heloisa Murgel. Brasil: uma biografia. São Paulo: Companhia das Letras, 2015. (Análise social e cultural abrangente sobre as tensões, cidadania e contradições do Brasil).",
+          "SKIDMORE, Thomas. Brasil: de Getúlio a Castelo (1930–1964) e Brasil: de Castelo a Tancredo (1964–1985). São Paulo: Paz e Terra. (Análise política e econômica detalhada da Era Vargas e do Regime Militar)."
+        ]
+      },
+      {
+        "title": "Eixos Centrais de História Geral",
+        "content": "Visão dos processos históricos globais que influenciaram diretamente o Ocidente e a formação do Brasil:\n\nAntiguidade Clássica: A democracia ateniense, a filosofia grega, a estrutura jurídica romana e a expansão imperial.\n\nIdade Média: Sistema feudal, teocentrismo, cruzadas e o renascimento comercial e urbano no final do período.\n\nIdade Moderna: Absolutismo monárquico, Expansão Marítima (Grandes Navegações), Reformas Religiosas (Protestante e Contrarreforma) e Iluminismo.\n\nIdade Contemporânea:\n\nRevoluções Burguesas: Revolução Industrial (Inglaterra) e Revolução Francesa (1789).\n\nImperialismo e Século XX: Neocolonialismo na África e Ásia (Partilha de África), Primeira Guerra Mundial (1914–1918), Revolução Russa (1917), Crise de 1929 e Regimes Totalitários (Nazifascismo).\n\nGuerra Fria (1947–1991): Bipolarização mundial (EUA vs. URSS), Corrida Espacial/Armamentista, ditaduras na América Latina e Queda do Muro de Berlim (1989).\n\n",
+        "videos": [
+          "Historia Online Era Vargas",
+          "Parabolica Ditadura Militar no Brasil",
+          "Se Liga Brasil Colonia Ciclo do Acucar e Ouro",
+          "Telecurso Ensino Médio Historia do Brasil"
+        ],
+        "references": [
+          "FAUSTO, Boris. História do Brasil. São Paulo: Edusp, 2019. (A síntese panorâmica mais recomendada para compreender a formação política do Brasil do período colonial à Nova República).",
+          "PRADO JR., Caio. Formação do Brasil Contemporâneo. São Paulo: Companhia das Letras, 2011. (Obra fundamental que define o \"sentido da colonização\" e a economia de plantation).",
+          "HOBSBAWM, Eric. A Era das Revoluções (1789–1848), A Era do Capital (1848–1875) e A Era dos Extremos (1914–1991). São Paulo: Paz e Terra. (A trilogia e a conclusão definitivas para o estudo aprofundado de História Geral).",
+          "SCHWARCZ, Lilia Moritz; STARLING, Heloisa Murgel. Brasil: uma biografia. São Paulo: Companhia das Letras, 2015. (Análise social e cultural abrangente sobre as tensões, cidadania e contradições do Brasil).",
+          "SKIDMORE, Thomas. Brasil: de Getúlio a Castelo (1930–1964) e Brasil: de Castelo a Tancredo (1964–1985). São Paulo: Paz e Terra. (Análise política e econômica detalhada da Era Vargas e do Regime Militar)."
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Geografia",
+    "slug": "geografia",
+    "icon": "map",
+    "lessons": [
+      {
+        "title": "Espaço Urbano e Espaço Agrário",
+        "content": "As relações de produção e ocupação do espaço refletem a integração cada vez mais intensa entre campo e cidade.\n\nEspaço Urbano\n\nUrbanização: Processo em que a taxa de crescimento da população urbana supera a da população rural, impulsionado pelo êxodo rural e pela industrialização.\n\nRede Urbana e Hierarquia: Estrutura de fluxos materiais e imateriais entre vilas, cidades médias e metrópoles (Metrópoles Nacionais e Cidades Globais).\n\nFenômenos Urbanos:\n\nConurbação: Encontro e fusão física de duas ou mais manchas urbanas municipais vizinhas.\n\nMetropolização e Desmetropolização: Concentração inicial de serviços e indústrias em grandes capitais, seguida pela desconcentração recente em favor de cidades médias (cidades polo).\n\nMegacidades: Aglomerações urbanas com população superior a 10 milhões de habitantes (critério puramente quantitativo da ONU).\n\nMegalópoles: Conurbação interestadual ou interurbana entre duas ou mais metrópoles (ex.: BosWash nos EUA, Tokaido no Japão, e o eixo Rio–São Paulo no Brasil).\n\nProblemas Socioespaciais: Segregação socioespacial, gentrificação (valorização imobiliária que expulsa populações periféricas), favelização, especulação imobiliária, ilhas de calor e inversão térmica.\n\nEspaço Agrário\n\nEstrutura Fundiária Brasileira: Histórico de alta concentração de terras em latifúndios (herança das capitanias e da Lei de Terras de 1850), medida pelo Índice de Gini da terra.\n\nSistemas Agrícolas:\n\nAgronegócio / Agricultura Patronal: Alta intensidade tecnológica (mecanização, transgênicos, defensivos), foco na monocultura de exportação (commodities: soja, milho, cana-de-açúcar, café) e baixa absorção de mão de obra direta.\n\nAgricultura Familiar e Camponesa: Policultura voltada ao abastecimento do mercado interno de alimentos frescos, com maior emprego de mão de obra e técnicas de rotação de culturas.\n\nConflitos no Campo: Fronteira agrícola em expansão (eixo Matopiba e Arco do Desmatamento na Amazônia Legal), disputas por demarcação de terras indígenas, áreas quilombolas e atuação de movimentos sociais como o MST.\n\n",
+        "videos": [
+          "Geografia Irada Espaco Urbano e Agrario",
+          "JeanGrafia Globalizacao e DIT",
+          "Se Liga Geografia Conflitos no Oriente Medio",
+          "Telecurso Ensino Medio Geografia Meio Ambiente e Espaco Agrario",
+          "Geografia Terra Sul Blocos Economicos e Geopolitica"
+        ],
+        "references": [
+          "SANTOS, Milton. Por uma outra globalização: do pensamento único à consciência universal. Rio de Janeiro: Record, 2000. (A obra definitiva da geografia crítica que formula os conceitos de espaço técnico-científico-informacional, fábula e possibilidade da globalização).",
+          "SANTOS, Milton; SILVEIRA, María Laura. O Brasil: território e sociedade no início do século XXI. Rio de Janeiro: Record, 2001. (Referência indispensável para a análise das quatro regiões brasileiras, do meio técnico e da dinâmica agrária/urbana).",
+          "ROSS, Jurandyr L. Sanches (Org.). Geografia do Brasil. São Paulo: Edusp, 2019. (Manual clássico com capítulos completos sobre relevo, domínios morfoclimáticos, espaço agrário e rede urbana).",
+          "HARVEY, David. A Condição Pós-Moderna: uma pesquisa sobre as origens da mudança cultural. São Paulo: Loyola, 1992. (Teorização fundamental sobre a compressão espaço-tempo gerada pela globalização).",
+          "MAGNOLI, Demétrio. Geopolítica do Brasil. São Paulo: Contexto, 2008. (Análise estruturada sobre fronteiras, relações internacionais e formação territorial brasileira)."
+        ]
+      },
+      {
+        "title": "Globalização e Divisão Internacional do Trabalho",
+        "content": "A integração planetária do capital, das tecnologias de informação e das cadeias de suprimentos sob a lógica do meio técnico-científico-informacional.\n\nFase / Conceito,Dinâmica Principal,Consequências Espaciais\n\nDIT Clássica (Século XIX),Países colonizados/periféricos exportam matérias-primas; potências centrais exportam bens manufaturados.,Especialização primária imposta pela força e dependência estrutural.\n\nNova DIT (Pós-2ª Guerra),Países periféricos e emergentes passam a sediar etapas de montagem industrial (mão de obra barata e incentivos fiscais).,Desconcentração industrial e ascensão das multinacionais/transnacionais.\n\nDIT Contemporânea (Redes e Fluxos),\"Países desenvolvidos concentram P&D (Pesquisa e Desenvolvimento), patentes e design; países em desenvolvimento concentram produção fabril e commodities.\",Fragmentação espacial da produção (cadeias globais de valor) e disparidade tecnológica.\n\nBlocos Econômicos,\"Zonas de Livre Comércio, Uniões Aduaneiras, Mercados Comuns e Uniões Econômicas e Monetárias.\",\"Integração regional para enfrentar a concorrência global (ex.: Mercosul, União Europeia, USMCA).\"\n\n",
+        "videos": [
+          "Geografia Irada Espaco Urbano e Agrario",
+          "JeanGrafia Globalizacao e DIT",
+          "Se Liga Geografia Conflitos no Oriente Medio",
+          "Telecurso Ensino Medio Geografia Meio Ambiente e Espaco Agrario",
+          "Geografia Terra Sul Blocos Economicos e Geopolitica"
+        ],
+        "references": [
+          "SANTOS, Milton. Por uma outra globalização: do pensamento único à consciência universal. Rio de Janeiro: Record, 2000. (A obra definitiva da geografia crítica que formula os conceitos de espaço técnico-científico-informacional, fábula e possibilidade da globalização).",
+          "SANTOS, Milton; SILVEIRA, María Laura. O Brasil: território e sociedade no início do século XXI. Rio de Janeiro: Record, 2001. (Referência indispensável para a análise das quatro regiões brasileiras, do meio técnico e da dinâmica agrária/urbana).",
+          "ROSS, Jurandyr L. Sanches (Org.). Geografia do Brasil. São Paulo: Edusp, 2019. (Manual clássico com capítulos completos sobre relevo, domínios morfoclimáticos, espaço agrário e rede urbana).",
+          "HARVEY, David. A Condição Pós-Moderna: uma pesquisa sobre as origens da mudança cultural. São Paulo: Loyola, 1992. (Teorização fundamental sobre a compressão espaço-tempo gerada pela globalização).",
+          "MAGNOLI, Demétrio. Geopolítica do Brasil. São Paulo: Contexto, 2008. (Análise estruturada sobre fronteiras, relações internacionais e formação territorial brasileira)."
+        ]
+      },
+      {
+        "title": "Geopolítica Contemporânea",
+        "content": "A transição de uma ordem bipolar para uma ordem multipolar assimétrica, com focos de tensão territorial e energética.\n\nDa Ordem Bipolar à Multipolaridade: Fim da Guerra Fria (queda da URSS em 1991), transição do domínio exclusivo dos EUA para um sistema multipolar com a ascensão da China, União Europeia e bloco dos BRICS.\n\nGuerra Comercial e Tecnológica: Disputa hegemônica entre EUA e China pela liderança em semicondutores, inteligência artificial, redes de telecomunicação 5G/6G e rotas comerciais (Iniciativa Cinturão e Rota / Nova Rota da Seda).\n\nFocos de Conflito e Tensão Geopolítica:\n\nLeste Europeu: Expansão da OTAN para o leste, conflitos territoriais na Bacia do Mar Negro e a Guerra da Ucrânia.\n\nOriente Médio: Disputas territoriais e étnico-religiosas (conflito Israel-Palestina), controle de estreitos estratégicos (Ormuz e Bab el-Mandeb) e geopolítica do petróleo.\n\nÁsia-Pacífico: Tensões no Estreito de Taiwan e soberania sobre as ilhas do Mar do Sul da China.\n\nMatriz Energética e Geopolítica: Dependência de combustíveis fósseis vs. transição para matrizes renováveis e controle das reservas de minerais críticos (lítio, terras raras, cobalto).\n\n",
+        "videos": [
+          "Geografia Irada Espaco Urbano e Agrario",
+          "JeanGrafia Globalizacao e DIT",
+          "Se Liga Geografia Conflitos no Oriente Medio",
+          "Telecurso Ensino Medio Geografia Meio Ambiente e Espaco Agrario",
+          "Geografia Terra Sul Blocos Economicos e Geopolitica"
+        ],
+        "references": [
+          "SANTOS, Milton. Por uma outra globalização: do pensamento único à consciência universal. Rio de Janeiro: Record, 2000. (A obra definitiva da geografia crítica que formula os conceitos de espaço técnico-científico-informacional, fábula e possibilidade da globalização).",
+          "SANTOS, Milton; SILVEIRA, María Laura. O Brasil: território e sociedade no início do século XXI. Rio de Janeiro: Record, 2001. (Referência indispensável para a análise das quatro regiões brasileiras, do meio técnico e da dinâmica agrária/urbana).",
+          "ROSS, Jurandyr L. Sanches (Org.). Geografia do Brasil. São Paulo: Edusp, 2019. (Manual clássico com capítulos completos sobre relevo, domínios morfoclimáticos, espaço agrário e rede urbana).",
+          "HARVEY, David. A Condição Pós-Moderna: uma pesquisa sobre as origens da mudança cultural. São Paulo: Loyola, 1992. (Teorização fundamental sobre a compressão espaço-tempo gerada pela globalização).",
+          "MAGNOLI, Demétrio. Geopolítica do Brasil. São Paulo: Contexto, 2008. (Análise estruturada sobre fronteiras, relações internacionais e formação territorial brasileira)."
+        ]
+      },
+      {
+        "title": "Meio Ambiente e Dinâmicas EcológicasImpactos socioambientais gerados pelas atividades antrópicas e o debate internacional sobre o clima.Impactos Ambientais Críticos:Efeito Estufa Acentuado & Aquecimento Global: Emissão excessiva de gases de efeito estufa ($CO_2$, $CH_4$) por queima de combustíveis fósseis, desmatamento e agropecuária intensiva.Desmatamento e Queimadas: Perda de biodiversidade, alteração do regime de chuvas (impacto nos Rios Voadores da Amazônia) e erosão do solo (lixiviação, voçorocas e desertificação).Recursos Hídricos: Poluição por efluentes industriais e agrícolas (eutrofização), contaminação de aquíferos e estresse hídrico urbano.Resíduos Sólidos e Plásticos: Logística reversa, lixões vs. aterros sanitários e microplásticos nos ecossistemas marinhos.Conferências da ONU sobre o Clima e Meio Ambiente:Estocolmo (1972): Primeiro grande marco global sobre degradação ambiental.Rio-92 / Eco-92: Criação da Agenda 21 e consagração do conceito de Desenvolvimento Sustentável (Relatório Brundtland / Nosso Futuro Comum, 1987).Protocolo de Quioto (1997) & Acordo de Paris (2015): Metas vinculantes e compromissos voluntários (NDCs) para redução de emissões e contenção do aumento da temperatura global abaixo de 1,5°C/2°C.",
+        "content": "",
+        "videos": [
+          "Geografia Irada Espaco Urbano e Agrario",
+          "JeanGrafia Globalizacao e DIT",
+          "Se Liga Geografia Conflitos no Oriente Medio",
+          "Telecurso Ensino Medio Geografia Meio Ambiente e Espaco Agrario",
+          "Geografia Terra Sul Blocos Economicos e Geopolitica"
+        ],
+        "references": [
+          "SANTOS, Milton. Por uma outra globalização: do pensamento único à consciência universal. Rio de Janeiro: Record, 2000. (A obra definitiva da geografia crítica que formula os conceitos de espaço técnico-científico-informacional, fábula e possibilidade da globalização).",
+          "SANTOS, Milton; SILVEIRA, María Laura. O Brasil: território e sociedade no início do século XXI. Rio de Janeiro: Record, 2001. (Referência indispensável para a análise das quatro regiões brasileiras, do meio técnico e da dinâmica agrária/urbana).",
+          "ROSS, Jurandyr L. Sanches (Org.). Geografia do Brasil. São Paulo: Edusp, 2019. (Manual clássico com capítulos completos sobre relevo, domínios morfoclimáticos, espaço agrário e rede urbana).",
+          "HARVEY, David. A Condição Pós-Moderna: uma pesquisa sobre as origens da mudança cultural. São Paulo: Loyola, 1992. (Teorização fundamental sobre a compressão espaço-tempo gerada pela globalização).",
+          "MAGNOLI, Demétrio. Geopolítica do Brasil. São Paulo: Contexto, 2008. (Análise estruturada sobre fronteiras, relações internacionais e formação territorial brasileira)."
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Filosofia",
+    "slug": "filosofia",
+    "icon": "brain",
+    "lessons": [
+      {
+        "title": "(foto: https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcRyNWridap9L5bZGfkcn_G5hsJBKn4A61YcHad4dvh2CY7DqbdyJB3Vi1dXjAGAC5Ktrhmj_Bims4CxKGU ) A Escola de Atenas: síntese do pensamento grego. Fonte: Heritage Images / Heritage Images via Getty Images",
+        "content": "Filosofia Antiga (Cosmologia à Filosofia Helenística)\n\nA passagem do pensamento mítico (mythos) para o pensamento racional e argumentativo (logos), fundando a tradição filosófica ocidental.\n\n1. Período Pré-Socrático (Cosmológico)\n\nObjetivo: Investigar a origem do universo e da natureza (physis) por meio de um princípio primordial (arché).\n\nPrincipais Nomes: Tales de Mileto (Água), Anaximandro (Ápeiron/Indeterminado), Pitágoras (Números), Heráclito (Mobilismo — \"tudo flui\", fogo) e Parmênides (Imobilismo — \"o ser é, o não-ser não é\").\n\n2. Período Clássico / Antropológico (Atenas)\n\nSofistas: Mestres da retórica e da persuasão; defendiam o relativismo da verdade e a convenção das leis (nómos) (Protágoras: \"O homem é a medida de todas as coisas\" e Górgias).\n\nSócrates: Oposição ao relativismo sofista. Método socrático dividido em duas etapas:\n\nIronia: Questionamento para desconstruir falsas certezas e ilusões de saber (\"Só sei que nada sei\").\n\nMaiêutica: \"Parto das ideias\", conduzindo o interlocutor a formular conceitos universais pela razão.\n\nPlatão: Idealismo e a Teoria das Formas/Ideias:\n\nMundo Sensível: Realidade material, cópia imperfeita captada pelos sentidos, ilusória e mutável.\n\nMundo Inteligível: Reino das ideias perfeitas, eternas e acessíveis apenas pela razão (Mito da Caverna).\n\nAristóteles: Realismo e valorização da experiência empírica:\n\nHilemorfismo: Tudo é composto de matéria (hylé) e forma (morphé).\n\nTeoria das 4 Causas: Material, formal, eficiente e final (teleologia — tudo tende a um fim/propósito).\n\nAto e Potência: A semente (potência) se transforma em árvore (ato).\n\n3. Filosofia Helenística\n\nFoco na busca da paz de espírito e tranquilidade interior (ataraxia):\n\nEstoicismo (Zenão, Sêneca, Marco Aurélio): Aceitação do destino, controle das paixões e vida em conformidade com a razão universal.\n\nEpicurismo (Epicuro): Busca do prazer moderado (hedoné) e ausência de dor no corpo (aponia) e perturbação na alma.\n\nCeticismo / Pirronismo: Suspensão total de juízo (epoché) diante da impossibilidade de conhecer a verdade absoluta.\n\nMódulo 2: Ética e Moral\n\nDiferenciação conceitual e análise das grandes matrizes morais da história do pensamento.\n\nDistinção Fundamental\n\nMoral: Conjunto de regras, normas e costumes estabelecidos por uma determinada sociedade ou cultura em certo tempo histórico.\n\nÉtica: Reflexão filosófica, racional e crítica sobre os fundamentos, validade e universalidade das normas morais.\n\nPrincipais Modelos Éticos\n\nCorrente / Filósofo,Conceito Central,Fundamento da Ação Moral\n\nÉtica das Virtudes (Aristóteles),Eudaimonia (Felicidade plena) e Justo Meio (Mesótes).,A virtude moral é o equilíbrio entre o excesso e a falta (ex.: a coragem é o meio-termo entre a covardia e a temeridade).\n\nÉtica Deontológica (Immanuel Kant),Imperativo Categórico e Dever por dever.,\"Ação moral baseada na razão pura: \"\"Age de tal modo que a máxima de tua ação possa ser tomada como lei universal.\"\" Rejeição da instrumentalização do ser humano.\"\n\nUtilitarismo (Jeremy Bentham / J. S. Mill),Consequencialismo e Princípio da Maior Felicidade.,\"A ação é moralmente correta se produzir o maior bem-estar/prazer para o maior número possível de indivíduos, minimizando a dor.\"\n\nGenealogia da Moral (Friedrich Nietzsche),Crítica à Moral de Rebanho / Escravo vs. Moral dos Senhores.,Desconstrução da moral judaico-cristã baseada no ressentimento e na culpa; defesa da Vontade de Potência e do Übermensch (Além-do-Homem).\n\n",
+        "videos": [
+          "Parabolica Filosofia Antiga Socrates Platao",
+          "Filosofia Total Teoria do Conhecimento Descartes e Kant",
+          "Se Liga Filosofia Politica Maquiavel",
+          "Cafe Filosofico Etica e Modernidade",
+          "Telecurso Ensino Medio Filosofia e Etica"
+        ],
+        "references": [
+          "CHAUÍ, Marilena. Convite à Filosofia. São Paulo: Ática, 2011. (O mais completo e didático manual introdutório brasileiro, cobrindo epistemologia, ética e política).",
+          "REALE, Giovanni; ANTISERI, Dario. História da Filosofia (Vols. 1 a 3). São Paulo: Paulus, 2017. (A maior enciclopédia de referência acadêmica sobre a evolução cronológica dos pensadores).",
+          "MARCONDES, Danilo. Iniciação à História da Filosofia: dos pré-socráticos a Wittgenstein. Rio de Janeiro: Zahar, 2007. (Texto claro, rigoroso e focado nas passagens-chave do pensamento ocidental).",
+          "SANDEL, Michael J. Justiça: O que é fazer a coisa certa? Rio de Janeiro: Civilização Brasileira, 2011. (Excelente aplicação prática e moderna dos dilemas de Kant, Bentham, Aristóteles e o utilitarismo).",
+          "WEFFORT, Francisco (Org.). Os Clássicos da Política (Vols. 1 e 2). São Paulo: Ática, 2006. (Coletânea com análises e excertos diretos de Maquiavel, Hobbes, Locke, Rousseau, Montesquieu e Marx)."
+        ]
+      },
+      {
+        "title": "Filosofia Política e Contratualismo",
+        "content": "Origem do Estado legítimo, autoridade política, poder e cidadania.\n\n1. Política na Antiguidade\n\nPlatão (A República): Sofocracia (Governo dos Filósofos) e a Cidade Ideal dividida em três classes (produtores, guardiões e governantes/sábios).\n\nAristóteles (A Política): O ser humano como um \"animal político\" (zoon politikon) que só atinge sua plena realização na pólis.\n\n2. O Realismo Político Moderno\n\nNicolau Maquiavel (O Príncipe, 1513): Ruptura com a política idealizada clássica e cristã. Análise da política como ela é na prática. Articulação entre Virtù (capacidade de agir e tomar decisões estratégicas no momento certo) e Fortuna (as circunstâncias e o acaso). A legitimidade da manutenção do poder soberano.\n\n3. Os Filósofos Contratualistas\n\nTeorias sobre a transição do Estado de Natureza para o Estado Civil por meio de um Pacto/Contrato Social.\n\nPensador,Estado de Natureza,Motivo do Contrato,Tipo de Estado Resultante\n\nThomas Hobbes (Leviatã),\"Guerra de todos contra todos; vida curta e violenta (\"\"O homem é o lobo do homem\"\").\",\"Preservação da vida, segurança física e paz social.\",Estado Absolutista: Poder centralizado e irrevogável no soberano.\n\nJohn Locke (Segundo Tratado),\"Relativa paz, mas com direitos naturais ameaçados (vida, liberdade e propriedade privada).\",Proteger a propriedade e atuar como juiz imparcial de conflitos.,\"Estado Liberal / Parlamentar: Poder limitado, com direito de rebelião popular.\"\n\nJean-Jacques Rousseau (Do Contrato Social),O ser humano nasce bom e livre (bom selvagem); corrompido pelo surgimento da propriedade privada.,Recuperar a liberdade civil sob a Vontade Geral e combater a desigualdade.,Democracia Direta / Participativa: Soberania popular inalienável.\n\n",
+        "videos": [
+          "Parabolica Filosofia Antiga Socrates Platao",
+          "Filosofia Total Teoria do Conhecimento Descartes e Kant",
+          "Se Liga Filosofia Politica Maquiavel",
+          "Cafe Filosofico Etica e Modernidade",
+          "Telecurso Ensino Medio Filosofia e Etica"
+        ],
+        "references": [
+          "CHAUÍ, Marilena. Convite à Filosofia. São Paulo: Ática, 2011. (O mais completo e didático manual introdutório brasileiro, cobrindo epistemologia, ética e política).",
+          "REALE, Giovanni; ANTISERI, Dario. História da Filosofia (Vols. 1 a 3). São Paulo: Paulus, 2017. (A maior enciclopédia de referência acadêmica sobre a evolução cronológica dos pensadores).",
+          "MARCONDES, Danilo. Iniciação à História da Filosofia: dos pré-socráticos a Wittgenstein. Rio de Janeiro: Zahar, 2007. (Texto claro, rigoroso e focado nas passagens-chave do pensamento ocidental).",
+          "SANDEL, Michael J. Justiça: O que é fazer a coisa certa? Rio de Janeiro: Civilização Brasileira, 2011. (Excelente aplicação prática e moderna dos dilemas de Kant, Bentham, Aristóteles e o utilitarismo).",
+          "WEFFORT, Francisco (Org.). Os Clássicos da Política (Vols. 1 e 2). São Paulo: Ática, 2006. (Coletânea com análises e excertos diretos de Maquiavel, Hobbes, Locke, Rousseau, Montesquieu e Marx)."
+        ]
+      },
+      {
+        "title": "Teoria do Conhecimento e Filosofia Moderna",
+        "content": "A disputa epistemológica entre a razão e a experiência empírica durante os séculos XVII e XVIII.\n\nRacionalismo (René Descartes):\n\nUso da dúvida hiperbólica e metódica para encontrar uma verdade indubitável.\n\nO axioma fundacional: \"Penso, logo existo\" (Cogito, ergo sum).\n\nExistência de ideias inatas e primazia da razão sobre os sentidos materiais.\n\nEmpirismo Britânico (John Locke e David Hume):\n\nJohn Locke: Mente humana como uma tábula rasa (folha em branco) preenchida unicamente pela experiência sensorial.\n\nDavid Hume: O conhecimento se divide em impressões e ideias; crítica ao princípio da causalidade (o hábito e o costume nos levam a crer em causa e efeito, não uma lei ontológica necessária).\n\nO Criticismo Kantiano (Immanuel Kant):\n\nSíntese e superação da oposição entre Racionalismo e Empirismo.\n\nO conhecimento começa na experiência sensível, mas é estruturado pelas formas a priori da sensibilidade (espaço e tempo) e pelas categorias do entendimento humano.\n\n",
+        "videos": [
+          "Parabolica Filosofia Antiga Socrates Platao",
+          "Filosofia Total Teoria do Conhecimento Descartes e Kant",
+          "Se Liga Filosofia Politica Maquiavel",
+          "Cafe Filosofico Etica e Modernidade",
+          "Telecurso Ensino Medio Filosofia e Etica"
+        ],
+        "references": [
+          "CHAUÍ, Marilena. Convite à Filosofia. São Paulo: Ática, 2011. (O mais completo e didático manual introdutório brasileiro, cobrindo epistemologia, ética e política).",
+          "REALE, Giovanni; ANTISERI, Dario. História da Filosofia (Vols. 1 a 3). São Paulo: Paulus, 2017. (A maior enciclopédia de referência acadêmica sobre a evolução cronológica dos pensadores).",
+          "MARCONDES, Danilo. Iniciação à História da Filosofia: dos pré-socráticos a Wittgenstein. Rio de Janeiro: Zahar, 2007. (Texto claro, rigoroso e focado nas passagens-chave do pensamento ocidental).",
+          "SANDEL, Michael J. Justiça: O que é fazer a coisa certa? Rio de Janeiro: Civilização Brasileira, 2011. (Excelente aplicação prática e moderna dos dilemas de Kant, Bentham, Aristóteles e o utilitarismo).",
+          "WEFFORT, Francisco (Org.). Os Clássicos da Política (Vols. 1 e 2). São Paulo: Ática, 2006. (Coletânea com análises e excertos diretos de Maquiavel, Hobbes, Locke, Rousseau, Montesquieu e Marx)."
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sociologia",
+    "slug": "sociologia",
+    "icon": "users",
+    "lessons": [
+      {
+        "title": "Conceito Sociológico de Cultura e Antropologia",
+        "content": "A cultura compreendida como a totalidade de saberes, crenças, artes, leis, costumes e hábitos adquiridos pelo ser humano em sociedade.\n\n1. Etnocentrismo vs. Relativismo Cultural\n\nEtnocentrismo: Postura que toma os valores e costumes da própria cultura como padrão superior e universal para julgar outras sociedades, gerando preconceito, xenofobia e colonialismo cultural.\n\nRelativismo Cultural (Franz Boas): Princípio metodológico que defende compreender cada cultura dentro de sua própria lógica interna e contexto histórico, sem estabelecer hierarquias de \"superior\" ou \"inferior\".\n\n2. Estratificação e Classificações Culturais\n\nCultura Erudita: Produzida por uma elite letrada e institucionalizada (óperas, literatura canônica, artes plásticas acadêmicas), historicamente associada a alto capital cultural.\n\nCultura Popular: Expressão espontânea, oral e tradicional das comunidades e classes trabalhadoras (cordel, folclore, artesanato regional, congada).\n\nCultura de Massa & Indústria Cultural (Escola de Frankfurt — Adorno e Horkheimer):\n\nPadronização e mercantilização dos bens culturais e artísticos voltados ao consumo rápido e lucro.\n\nFunção alienante que neutraliza o senso crítico do público, transformando espectadores e ouvintes em consumidores passivos.\n\n3. Conceitos Antropológicos Fundamentais\n\nAculturação: Processo de modificação cultural resultante do contato direto e contínuo entre grupos culturais distintos.\n\nSincretismo: Fusão de elementos culturais e religiosos distintos gerando novas formas de expressão (ex.: sincretismo religioso afro-brasileiro).\n\nApropriação Cultural: Adoção de elementos ou símbolos de uma cultura minoritária ou historicamente marginalizada por membros de um grupo dominante, frequentemente esvaziando seu significado político ou religioso para fins comerciais.\n\n",
+        "videos": [
+          "Parabolica Sociologia Cultura e Etnocentrismo",
+          "Se Liga Sociologia Movimentos Sociais",
+          "Sociologia Animada Conceito de Cidadania",
+          "Cafe Filosofico Cidadania e Desigualdade no Brasil",
+          "Telecurso Ensino Medio Sociologia Politica e Movimentos Sociais"
+        ],
+        "references": [
+          "MARSHALL, T. H. Cidadania, Classe Social e Status. Rio de Janeiro: Zahar, 1967. (Obra fundamental que formula a evolução dos direitos civis, políticos e sociais).",
+          "CARVALHO, José Murilo de. Cidadania no Brasil: o longo caminho. Rio de Janeiro: Civilização Brasileira, 2008. (O mais importante estudo histórico-sociológico sobre a formação da cidadania brasileira).",
+          "ADORNO, Theodor W.; HORKHEIMER, Max. Dialética do Esclarecimento: fragmentos filosóficos. Rio de Janeiro: Zahar, 1985. (Livro clássico que introduz a teoria da Indústria Cultural).",
+          "WEBER, Max. Economia e Sociedade: fundamentos da sociologia compreensiva (Vol. 1). Brasília: Editora UnB, 2012. (A formulação clássica sobre Estado, burocracia e tipos de dominação legítima).",
+          "LARAIA, Roque de Barros. Cultura: um conceito antropológico. Rio de Janeiro: Zahar, 2001. (Manual didático indispensável para a evolução das teorias de cultura e relativismo).",
+          "GOHN, Maria da Glória. Teorias dos Movimentos Sociais: paradigmas clássicos e contemporâneos. São Paulo: Loyola, 2014. (A principal referência acadêmica brasileira sobre movimentos sociais tradicionais e em rede)."
+        ]
+      },
+      {
+        "title": "Cidadania, Direitos e Desigualdades",
+        "content": "A evolução histórica da cidadania e sua construção assimétrica no contexto social brasileiro.\n\n1. As Três Gerações / Dimensões dos Direitos (T. H. Marshall)\n\nGeração / Dimensão,Século de Consolidação,Foco Central,Exemplos Práticos\n\nDireitos Civis (1ª Geração),Século XVIII,Liberdade individual e integridade física,\"Liberdade de expressão, livre locomoção, igualdade perante a lei, direito de propriedade privada.\"\n\nDireitos Políticos (2ª Geração),Século XIX,Participação no poder e na soberania popular,\"Direito ao voto (sufrágio universal), direito de ser votado e liberdade de filiação partidária.\"\n\nDireitos Sociais (3ª Geração),Século XX,Garantia de condições materiais mínimas de vida,\"Acesso à saúde pública, educação gratuita, trabalho, previdência social, moradia e transporte.\"\n\nNota contemporânea: A teoria sociológica e jurídica recente adiciona os Direitos Difusos e Coletivos (4ª/5ª Dimensão), voltados à preservação ambiental, sustentabilidade, patrimônio comum da humanidade e direitos digitais.\n\n2. A Cidadania no Brasil: O \"Cidadão de Papel\"\n\nJosé Murilo de Carvalho (Cidadania no Brasil: o longo caminho): Demonstra a inversão do modelo de Marshall no Brasil. Enquanto na Europa os direitos civis vieram antes dos políticos e sociais, no Brasil os direitos sociais foram concedidos primeiro de forma paternalista (na Era Vargas), antes da plena consolidação dos direitos civis e políticos.\n\nGilberto Dimenstein (O Cidadão de Papel): A contradição entre a garantia formal de direitos avançados na Constituição de 1988 (\"Constituição Cidadã\") e a exclusão social prática vivenciada pelas populações vulneráveis.\n\n",
+        "videos": [
+          "Parabolica Sociologia Cultura e Etnocentrismo",
+          "Se Liga Sociologia Movimentos Sociais",
+          "Sociologia Animada Conceito de Cidadania",
+          "Cafe Filosofico Cidadania e Desigualdade no Brasil",
+          "Telecurso Ensino Medio Sociologia Politica e Movimentos Sociais"
+        ],
+        "references": [
+          "MARSHALL, T. H. Cidadania, Classe Social e Status. Rio de Janeiro: Zahar, 1967. (Obra fundamental que formula a evolução dos direitos civis, políticos e sociais).",
+          "CARVALHO, José Murilo de. Cidadania no Brasil: o longo caminho. Rio de Janeiro: Civilização Brasileira, 2008. (O mais importante estudo histórico-sociológico sobre a formação da cidadania brasileira).",
+          "ADORNO, Theodor W.; HORKHEIMER, Max. Dialética do Esclarecimento: fragmentos filosóficos. Rio de Janeiro: Zahar, 1985. (Livro clássico que introduz a teoria da Indústria Cultural).",
+          "WEBER, Max. Economia e Sociedade: fundamentos da sociologia compreensiva (Vol. 1). Brasília: Editora UnB, 2012. (A formulação clássica sobre Estado, burocracia e tipos de dominação legítima).",
+          "LARAIA, Roque de Barros. Cultura: um conceito antropológico. Rio de Janeiro: Zahar, 2001. (Manual didático indispensável para a evolução das teorias de cultura e relativismo).",
+          "GOHN, Maria da Glória. Teorias dos Movimentos Sociais: paradigmas clássicos e contemporâneos. São Paulo: Loyola, 2014. (A principal referência acadêmica brasileira sobre movimentos sociais tradicionais e em rede)."
+        ]
+      },
+      {
+        "title": "Política, Poder, Estado e Dominação",
+        "content": "Fundamentos da sociologia política clássica e contemporânea sobre as formas de controle e organização social.\n\n1. Max Weber: O Estado e os Tipos de Dominação Legítima\n\nDefinição de Estado: Instituição política que reivindica com sucesso o monopólio do uso legítimo da força física/violência em determinado território.\n\nTipos Puros de Dominação Legítima:\n\nDominação Tradicional: Baseada na crença na santidade dos costumes e tradições transmitidas entre gerações (ex.: monarquias absolutistas, patriarcalismo).\n\nDominação Carismática: Fundamentada na devoção e confiança cega nas qualidades extraordinárias ou heroicas de um líder (ex.: líderes proféticos, líderes populistas).\n\nDominação Racional-Legal / Burocrática: Apoiada na legalidade de normas, leis e estatutos formais estabelecidos democraticamente ou institucionalmente (ex.: Estados modernos democráticos e burocracia pública).\n\n2. Formas de Poder e Hegemonia\n\nKarl Marx: O Estado moderno como um instrumento de dominação e comitê gestor dos interesses comuns da classe burguesa.\n\nAntonio Gramsci (Conceito de Hegemonia): O poder não se mantém apenas pela coerção armada (sociedade política), mas pelo consentimento e convencimento cultural e ideológico da sociedade civil (aparelhos hegemônicos como escolas, mídia, igrejas).\n\nMichel Foucault (Biopolítica e Microfísica do Poder): O poder não está concentrado exclusivamente no Estado, mas disperso em redes capilares e instituições disciplinares (escolas, hospitais, prisões) que moldam e controlam corpos e condutas populacionais.\n\n",
+        "videos": [
+          "Parabolica Sociologia Cultura e Etnocentrismo",
+          "Se Liga Sociologia Movimentos Sociais",
+          "Sociologia Animada Conceito de Cidadania",
+          "Cafe Filosofico Cidadania e Desigualdade no Brasil",
+          "Telecurso Ensino Medio Sociologia Politica e Movimentos Sociais"
+        ],
+        "references": [
+          "MARSHALL, T. H. Cidadania, Classe Social e Status. Rio de Janeiro: Zahar, 1967. (Obra fundamental que formula a evolução dos direitos civis, políticos e sociais).",
+          "CARVALHO, José Murilo de. Cidadania no Brasil: o longo caminho. Rio de Janeiro: Civilização Brasileira, 2008. (O mais importante estudo histórico-sociológico sobre a formação da cidadania brasileira).",
+          "ADORNO, Theodor W.; HORKHEIMER, Max. Dialética do Esclarecimento: fragmentos filosóficos. Rio de Janeiro: Zahar, 1985. (Livro clássico que introduz a teoria da Indústria Cultural).",
+          "WEBER, Max. Economia e Sociedade: fundamentos da sociologia compreensiva (Vol. 1). Brasília: Editora UnB, 2012. (A formulação clássica sobre Estado, burocracia e tipos de dominação legítima).",
+          "LARAIA, Roque de Barros. Cultura: um conceito antropológico. Rio de Janeiro: Zahar, 2001. (Manual didático indispensável para a evolução das teorias de cultura e relativismo).",
+          "GOHN, Maria da Glória. Teorias dos Movimentos Sociais: paradigmas clássicos e contemporâneos. São Paulo: Loyola, 2014. (A principal referência acadêmica brasileira sobre movimentos sociais tradicionais e em rede)."
+        ]
+      },
+      {
+        "title": "Movimentos Sociais e Ação Coletiva",
+        "content": "Formas organizadas da sociedade civil para reivindicar direitos, transformar estruturas ou resistir a retrocessos sociais.\n\nClassificação,Período / Foco,Características e Pautas\n\nMovimentos Sociais Clássicos / Tradicionais,Século XIX até meados do Século XX,\"Centrados no conflito capital-trabalho e na luta de classes. Foco em direitos laborais, sindicatos, partidos operários e reformas estruturais socioeconômicas.\"\n\nNovos Movimentos Sociais (NMS),A partir da década de 1960 (pós-maio de 1968),\"Centrados em identidades, direitos humanos, estilo de vida e reconhecimento cultural. Movimento Feminista, Movimento Negro, Movimento LGBTQIA+ e Movimento Ambientalista/Ecológico.\"\n\nMovimentos em Rede / Conectivos,Século XXI (Era Digital),\"Organização horizontal, sem liderança centralizada formal, mobilizada via redes sociais (ex.: Primavera Árabe, Jornadas de Junho de 2013, Black Lives Matter).\"\n\n",
+        "videos": [
+          "Parabolica Sociologia Cultura e Etnocentrismo",
+          "Se Liga Sociologia Movimentos Sociais",
+          "Sociologia Animada Conceito de Cidadania",
+          "Cafe Filosofico Cidadania e Desigualdade no Brasil",
+          "Telecurso Ensino Medio Sociologia Politica e Movimentos Sociais"
+        ],
+        "references": [
+          "MARSHALL, T. H. Cidadania, Classe Social e Status. Rio de Janeiro: Zahar, 1967. (Obra fundamental que formula a evolução dos direitos civis, políticos e sociais).",
+          "CARVALHO, José Murilo de. Cidadania no Brasil: o longo caminho. Rio de Janeiro: Civilização Brasileira, 2008. (O mais importante estudo histórico-sociológico sobre a formação da cidadania brasileira).",
+          "ADORNO, Theodor W.; HORKHEIMER, Max. Dialética do Esclarecimento: fragmentos filosóficos. Rio de Janeiro: Zahar, 1985. (Livro clássico que introduz a teoria da Indústria Cultural).",
+          "WEBER, Max. Economia e Sociedade: fundamentos da sociologia compreensiva (Vol. 1). Brasília: Editora UnB, 2012. (A formulação clássica sobre Estado, burocracia e tipos de dominação legítima).",
+          "LARAIA, Roque de Barros. Cultura: um conceito antropológico. Rio de Janeiro: Zahar, 2001. (Manual didático indispensável para a evolução das teorias de cultura e relativismo).",
+          "GOHN, Maria da Glória. Teorias dos Movimentos Sociais: paradigmas clássicos e contemporâneos. São Paulo: Loyola, 2014. (A principal referência acadêmica brasileira sobre movimentos sociais tradicionais e em rede)."
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Biologia",
+    "slug": "biologia",
+    "icon": "leaf",
+    "lessons": [
+      {
+        "title": "Citologia (Biologia Celular e Energética)",
+        "content": "A célula como unidade morfofisiológica dos seres vivos, seus mecanismos de transporte e suas organelas.\n\n![Célula animal: organelas e compartimentalização. Fonte: Roi and Roi / Getty Images](https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcRDzGU7PcMYl5VhDYxzxuxTXMOTwxsin-hWzaa1_naSNf1c0ZsVb0bxO5Q3ZsG-Ut5l_JX9ErLugfdAEFI )\n*Célula animal: organelas e compartimentalização. Fonte: Roi and Roi / Getty Images*\n\n1. Membrana Plasmática e TransportesModelo do Mosaico Fluido: Bicamada fosfolipídica semipermeável com proteínas integrais e periféricas inseridas.Transporte Passivo (a favor do gradiente, sem gasto de ATP):Difusão Simples: Passagem direta de gases e moléculas apolares ($O_2$, $CO_2$).Difusão Facilitada: Transporte de solutos polares (ex.: glicose) mediado por proteínas carreadoras (permeases) ou canais iônicos.Osmose: Movimento de água do meio hipotônico (menos concentrado) para o hipertônico (mais concentrado).Transporte Ativo (contra o gradiente, com gasto de ATP):Bomba de Sódio e Potássio ($Na^+/K^+$): Mantém maior concentração de $K^+$ intracelular e $Na^+$ extracelular, essencial para o potencial de membrana e impulsos nervosos.2. Principais Organelas Celulares\n\nOrganela,Função Principal\n\nMitocôndria,Respiração celular aeróbia e produção em larga escala de ATP (origem endossimbiótica).\n\nRetículo Endoplasmático Rugoso (RER),Síntese e processamento de proteínas de exportação e de membrana (associado a ribossomos).\n\nRetículo Endoplasmático Liso (REL),\"Síntese de lipídios (fosfolipídios, esteroides) e desintoxicação celular (quebra de fármacos e toxinas).\"\n\nComplexo Golgiense,\"Modificação pós-traducional, empacotamento, secreção celular e formação de lisossomos e acrossomo.\"\n\nLisossomos,Digestão intracelular (heterofagia e autofagia) por meio de enzimas hidrolíticas em pH ácido.\n\nPeroxissomos,Degradação de ácidos graxos e quebra de peróxido de hidrogênio (H2​O2​) pela enzima catalase.\n\n3. Bioenergética CelularRespiração Celular Aeróbica: Glicólise (citosol, anaeróbia) $\\rightarrow$ Ciclo de Krebs (matriz mitocondrial) $\\rightarrow$ Fosforilação Oxidativa / Cadeia Respiratória (cristas mitocondriais, onde o $O_2$ atua como aceptor final de elétrons e prótons, formando água).Fermentação: Via anaeróbia com baixo rendimento (2 ATP por glicose). Pode ser lática (bactérias, músculo estriado em esforço anaeróbico) ou alcoólica (leveduras, liberando etanol e $CO_2$).\n\n",
+        "videos": [
+          "Samuel Cunha Ecologia Ciclos Biogeoquimicos",
+          "Jubilut Fisiologia Humana Sistema Digestorio e Renal",
+          "Kennedy Ramos Biologia Molecular Transcricao e Traducao",
+          "Telecurso Ensino Medio Biologia Ecologia e Genetica"
+        ],
+        "references": [
+          "CAMPBELL, Neil A. et al. Biologia de Campbell. Porto Alegre: Artmed, 2015. (A bíblia universitária internacional e referência para olimpíadas científicas e vestibulares concorridos).",
+          "AMABIS, José Mariano; MARTHO, Gilberto Rodrigues. Biologia: Biologia das Células, Biologia dos Organismos e Biologia das Populações (Vols. 1, 2 e 3). São Paulo: Moderna, 2015. (A coleção didática brasileira mais aprofundada para o Ensino Médio).",
+          "JUNQUEIRA, Luiz Carlos; CARNEIRO, José. Biologia Celular e Tecidual. Rio de Janeiro: Guanabara Koogan, 2012. (Referência clássica para citologia, microscopia e organelas celulares).",
+          "GUYTON, Arthur C.; HALL, John E. Tratado de Fisiologia Médica. Rio de Janeiro: Elsevier, 2017. (O manual definitivo para consulta de mecanismos de homeostase e fisiologia de sistemas).",
+          "ODUM, Eugene P.; BARRETT, Gary W. Fundamentos de Ecologia. São Paulo: Cengage Learning, 2011. (Texto canônico sobre dinâmica de ecossistemas e fluxo de matéria e energia)."
+        ]
+      },
+      {
+        "title": "Genética e Biologia MolecularO fluxo da informação gênica, as leis de transmissão hereditária e a biotecnologia moderna.1. O Dogma Central da Biologia Molecular$$\\text{DNA} \\xrightarrow{\\text{Transcrição}} \\text{RNA mensageiro} \\xrightarrow{\\text{Tradução}} \\text{Proteína}$$Replicação Semiconservativa: A DNA polimerase sintetiza fitas complementares usando as originais como molde.Código Genético: Universal e degenerado/redundante (mais de um códon de trincas de bases pode codificar o mesmo aminoácido).2. Leis Mendelianas e Variações1ª Lei de Mendel (Segregação dos Fatores): Cada característica é determinada por um par de alelos que se separam na formação dos gametas (monohibridismo — proporção fenotípica clássica $3:1$ em cruzamento entre heterozigotos).2ª Lei de Mendel (Segregação Independente): Dois ou mais genes localizados em cromossomos diferentes segregam-se de forma independente na meiose (diibridismo — proporção $9:3:3:1$).Variações:Codominância: Ambos os alelos se expressam integralmente no heterozigoto (ex.: sistema ABO - alelos $I^A$ e $I^B$).Herança Ligada ao Sexo: Genes no cromossomo X (ex.: daltonismo e hemofilia, de caráter recessivo).Linkage (Ligação Gênica): Genes no mesmo cromossomo que não segregam independentemente, exceto se houver crossing-over (recombinação meiótica).",
+        "content": "",
+        "videos": [
+          "Samuel Cunha Ecologia Ciclos Biogeoquimicos",
+          "Jubilut Fisiologia Humana Sistema Digestorio e Renal",
+          "Kennedy Ramos Biologia Molecular Transcricao e Traducao",
+          "Telecurso Ensino Medio Biologia Ecologia e Genetica"
+        ],
+        "references": [
+          "CAMPBELL, Neil A. et al. Biologia de Campbell. Porto Alegre: Artmed, 2015. (A bíblia universitária internacional e referência para olimpíadas científicas e vestibulares concorridos).",
+          "AMABIS, José Mariano; MARTHO, Gilberto Rodrigues. Biologia: Biologia das Células, Biologia dos Organismos e Biologia das Populações (Vols. 1, 2 e 3). São Paulo: Moderna, 2015. (A coleção didática brasileira mais aprofundada para o Ensino Médio).",
+          "JUNQUEIRA, Luiz Carlos; CARNEIRO, José. Biologia Celular e Tecidual. Rio de Janeiro: Guanabara Koogan, 2012. (Referência clássica para citologia, microscopia e organelas celulares).",
+          "GUYTON, Arthur C.; HALL, John E. Tratado de Fisiologia Médica. Rio de Janeiro: Elsevier, 2017. (O manual definitivo para consulta de mecanismos de homeostase e fisiologia de sistemas).",
+          "ODUM, Eugene P.; BARRETT, Gary W. Fundamentos de Ecologia. São Paulo: Cengage Learning, 2011. (Texto canônico sobre dinâmica de ecossistemas e fluxo de matéria e energia)."
+        ]
+      },
+      {
+        "title": "Fisiologia HumanaIntegração dos sistemas orgânicos na manutenção da homeostase corporal.Sistema Digestório: Digestão mecânica e enzimática. Boca (amilase salivar, pH neutro) $\\rightarrow$ Estômago (pepsina, suco gástrico, pH ácido) $\\rightarrow$ Duodeno/Intestino Delgado (suco pancreático, bile emulsificante e suco entérico, pH alcalino) $\\rightarrow$ Absorção de nutrientes nas microvilosidades intestinais.Sistema Circulatório: Circulação dupla e completa. Pequena circulação (coração $\\rightarrow$ pulmões $\\rightarrow$ coração) e grande circulação (coração $\\rightarrow$ tecidos corporais $\\rightarrow$ coração). Trocas gasosas capilares.Sistema Respiratório: Mecânica ventilatória (contração do diafragma e músculos intercostais reduz a pressão intratorácica) e hematose nos alvéolos pulmonares. Controle bulbar sensível ao aumento de $CO_2$ e queda do pH sanguíneo.Sistema Excretor / Renal: A unidade funcional é o néfron. As etapas de formação da urina são: filtração glomerular, reabsorção tubular (glicose, água, íons) e secreção tubular ativa. O hormônio ADH (vasopressina) atua nos túbulos coletores aumentando a reabsorção de água.Sistema Endócrino: Eixo hipotálamo-hipófise; controle da glicemia pelo pâncreas endócrino (insulina armazena glicose como glicogênio; glucagon estimula a glicogenólise hepática).",
+        "content": "",
+        "videos": [
+          "Samuel Cunha Ecologia Ciclos Biogeoquimicos",
+          "Jubilut Fisiologia Humana Sistema Digestorio e Renal",
+          "Kennedy Ramos Biologia Molecular Transcricao e Traducao",
+          "Telecurso Ensino Medio Biologia Ecologia e Genetica"
+        ],
+        "references": [
+          "CAMPBELL, Neil A. et al. Biologia de Campbell. Porto Alegre: Artmed, 2015. (A bíblia universitária internacional e referência para olimpíadas científicas e vestibulares concorridos).",
+          "AMABIS, José Mariano; MARTHO, Gilberto Rodrigues. Biologia: Biologia das Células, Biologia dos Organismos e Biologia das Populações (Vols. 1, 2 e 3). São Paulo: Moderna, 2015. (A coleção didática brasileira mais aprofundada para o Ensino Médio).",
+          "JUNQUEIRA, Luiz Carlos; CARNEIRO, José. Biologia Celular e Tecidual. Rio de Janeiro: Guanabara Koogan, 2012. (Referência clássica para citologia, microscopia e organelas celulares).",
+          "GUYTON, Arthur C.; HALL, John E. Tratado de Fisiologia Médica. Rio de Janeiro: Elsevier, 2017. (O manual definitivo para consulta de mecanismos de homeostase e fisiologia de sistemas).",
+          "ODUM, Eugene P.; BARRETT, Gary W. Fundamentos de Ecologia. São Paulo: Cengage Learning, 2011. (Texto canônico sobre dinâmica de ecossistemas e fluxo de matéria e energia)."
+        ]
+      },
+      {
+        "title": "Ecologia e Meio AmbienteRelações entre seres vivos e o ambiente, fluxos energéticos e impactos ecológicos antrópicos.1. Fluxo de Energia e Ciclos BiogeoquímicosCadeias e Teias Alimentares: A energia é unidirecional e decrescente ao longo dos níveis tróficos (produtores $\\rightarrow$ consumidores primários $\\rightarrow$ secundários $\\rightarrow$ decompositores). Apenas cerca de 10% da energia passa para o nível seguinte.Ciclo do Nitrogênio: Fixação biológica ($N_2 \\rightarrow NH_3$ por bactérias Rhizobium) $\\rightarrow$ Nitrificação (Nitrosofação por Nitrosomonas: $NH_3 \\rightarrow NO_2^-$; Nitratação por Nitrobacter: $NO_2^- \\rightarrow NO_3^-$) $\\rightarrow$ Desnitrificação (retorno do $N_2$ à atmosfera por bactérias desnitrificantes).",
+        "content": "2. Relações Ecológicas\n\nTipo,Classificação,Relação Ecológica,Descrição / Exemplo\n\nHarmônica,Intraespecífica,Sociedade / Colônia,Abelhas (divisão de trabalho) / Corais (união física).\n\nHarmônica,Interespecífica,Mutualismo / Comensalismo,Líquens (+/+ obrigatório) / Rêmora e tubarão (+/0).\n\nDesarmônica,Intraespecífica,Competição / Canibalismo,Disputa por território ou fêmeas (−/−).\n\nDesarmônica,Interespecífica,Predatismo / Parasitismo,Leão e zebra (+/−) / Tênia e ser humano (+/−).\n\n3. Dinâmica Populacional e PoluiçãoSucessão Ecológica: Primária (ambiente estéril $\\rightarrow$ líquens pioneiros $\\rightarrow$ clímax) vs. Secundária (ambiente previamente habitado perturbado por queimada ou desmatamento).Magnificação Trófica (Bioacumulação): Concentração crescente de poluentes não biodegradáveis (ex.: mercúrio, agrotóxicos organoclorados) nos níveis tróficos superiores da cadeia.Eutrofização: Aporte excessivo de matéria orgânica/nutrientes ($N$ e $P$) em corpos d'água $\\rightarrow$ proliferação de algas $\\rightarrow$ bloqueio da luz $\\rightarrow$ morte de algas e proliferação de bactérias decompositoras aeróbias $\\rightarrow$ depleção do oxigênio dissolvido $\\rightarrow$ anóxia e morte de peixes.\n\n",
+        "videos": [
+          "Samuel Cunha Ecologia Ciclos Biogeoquimicos",
+          "Jubilut Fisiologia Humana Sistema Digestorio e Renal",
+          "Kennedy Ramos Biologia Molecular Transcricao e Traducao",
+          "Telecurso Ensino Medio Biologia Ecologia e Genetica"
+        ],
+        "references": [
+          "CAMPBELL, Neil A. et al. Biologia de Campbell. Porto Alegre: Artmed, 2015. (A bíblia universitária internacional e referência para olimpíadas científicas e vestibulares concorridos).",
+          "AMABIS, José Mariano; MARTHO, Gilberto Rodrigues. Biologia: Biologia das Células, Biologia dos Organismos e Biologia das Populações (Vols. 1, 2 e 3). São Paulo: Moderna, 2015. (A coleção didática brasileira mais aprofundada para o Ensino Médio).",
+          "JUNQUEIRA, Luiz Carlos; CARNEIRO, José. Biologia Celular e Tecidual. Rio de Janeiro: Guanabara Koogan, 2012. (Referência clássica para citologia, microscopia e organelas celulares).",
+          "GUYTON, Arthur C.; HALL, John E. Tratado de Fisiologia Médica. Rio de Janeiro: Elsevier, 2017. (O manual definitivo para consulta de mecanismos de homeostase e fisiologia de sistemas).",
+          "ODUM, Eugene P.; BARRETT, Gary W. Fundamentos de Ecologia. São Paulo: Cengage Learning, 2011. (Texto canônico sobre dinâmica de ecossistemas e fluxo de matéria e energia)."
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Quimica",
+    "slug": "quimica",
+    "icon": "flask",
+    "lessons": [
+      {
+        "title": "Química Geral e InorgânicaFundamentos da matéria, estrutura atômica, ligações químicas e reações inorgânicas.1. Modelos Atômicos e Tabela PeriódicaEvolução Atômica: Dalton (esfera maciça e indivisível) $\\rightarrow$ Thomson (pudim de passas / descoberta do elétron) $\\rightarrow$ Rutherford (núcleo denso positivo e eletrosfera vazia) $\\rightarrow$ Bohr (órbitas quantizadas de energia e saltos quânticos).Propriedades Periódicas:Raio Atômico: Aumenta para a esquerda e para baixo na tabela.Eletronegatividade & Energia de Ionização: Aumentam para a direita e para cima (o Flúor é o elemento mais eletronegativo).2. Ligações Químicas e Forças IntermolecularesLigação Iônica: Transferência definitiva de elétrons entre metais (baixa eletronegatividade) e ametais (alta eletronegatividade) — compostos com altos pontos de fusão e condutores de eletricidade quando fundidos ou em solução aquosa.Ligação Covalente: Compartilhamento de pares de elétrons entre ametais (apolar ou polar).Ligação Metálica: Cátions metálicos imersos em uma \"nuvem\" de elétrons livres (alta condutividade térmica e elétrica, ductilidade e maleabilidade).Forças Intermoleculares (em ordem crescente de intensidade):Dipolo Induzido - Dipolo Induzido (Dispersão de London): Moléculas apolares (ex.: $O_2$, $CH_4$).Dipolo Permanente - Dipolo Permanente: Moléculas polares sem $H$ ligado a $F, O, N$ (ex.: $HCl, H_2S$).Ligações de Hidrogênio: Hidrogênio ligado a átomos pequenos e muito eletronegativos ($F, O, N$) (ex.: $H_2O, NH_3, HF$).3. Funções InorgânicasÁcidos: Liberam exclusivamente cátions $H^+$ ($H_3O^+$) em meio aquoso segundo Arrhenius (ex.: $HCl, H_2SO_4$).Bases: Liberam exclusivamente ânions $OH^-$ (hidroxila) em meio aquoso (ex.: $NaOH, Ca(OH)_2$).Sais: Compostos iônicos produto da reação de neutralização ácido-base: $\\text{Ácido} + \\text{Base} \\rightarrow \\text{Sal} + H_2O$.Óxidos: Compostos binários em que o oxigênio é o elemento mais eletronegativo. Podem ser ácidos ($SO_2, CO_2$), básicos ($CaO, Na_2O$), anfóteros ($Al_2O_3, ZnO$) ou neutros ($CO, NO, N_2O$).",
+        "content": "",
+        "videos": [
+          "Cafe com Quimica Funcoes Organicas",
+          "Paulo Valim Pilhas e Eletroquimica",
+          "Gabriel Cabral Tabela Periodica e Ligacoes",
+          "Telecurso Ensino Medio Quimica Ambiental e Fisico Quimica"
+        ],
+        "references": [
+          "BROWN, Theodore L. et al. Química: a ciência central. São Paulo: Pearson, 2016. (A obra mais completa de Química Geral e Físico-Química utilizada no ensino superior e vestibulares concorridos).",
+          "ATKINS, Peter; JONES, Loretta. Princípios de Química: questionando a vida moderna e o meio ambiente. Porto Alegre: Bookman, 2018. (Abordagem focada nas aplicações práticas, termodinâmica e química ambiental).",
+          "FELTRE, Ricardo. Química (Vols. 1, 2 e 3: Química Geral, Físico-Química e Química Orgânica). São Paulo: Moderna, 2005. (A coleção didática clássica de referência mais respeitada para o Ensino Médio brasileiro).",
+          "SOLOMONS, T. W. Graham; FRYHLE, Craig B. Química Orgânica (Vols. 1 e 2). Rio de Janeiro: LTC, 2012. (A principal referência para mecanismos de reações, isomeria e estruturas orgânicas).",
+          "BAIRD, Colin; CANN, Michael. Química Ambiental. Porto Alegre: Bookman, 2011. (O manual definitivo para o estudo técnico do smog fotoquímico, chuva ácida, efeito estufa e tratamento de efluentes)."
+        ]
+      },
+      {
+        "title": "Físico-QuímicaEstudo termodinâmico, cinético e elétrico das transformações químicas.1. Estequiometria e SoluçõesCálculos Estequiométricos: Conversões fundamentais baseadas na constante de Avogadro ($1\\text{ mol} = 6,02 \\times 10^{23}\\text{ entidades}$) e no volume molar nas CNTP ($22,4\\text{ L/mol}$). Cuidados com pureza de reagentes e rendimento de reação.Concentração de Soluções:$$\\text{Concentração comum: } C = \\frac{m_{\\text{soluto}}}{V_{\\text{solução}}} \\quad (\\text{g/L}) \\qquad \\text{Molaridade: } M = \\frac{n_{\\text{soluto}}}{V_{\\text{solução}}} \\quad (\\text{mol/L})$$2. Termoquímica e Cinética QuímicaEntalpia ($\\Delta H = H_{\\text{produtos}} - H_{\\text{reagentes}}$):Reação Exotérmica ($\\Delta H < 0$): Libera calor para o ambiente (ex.: combustão).Reação Endotérmica ($\\Delta H > 0$): Absorve calor do ambiente (ex.: fotossíntese).Lei de Hess: A variação de entalpia depende apenas dos estados inicial e final, podendo ser calculada pela soma das equações intermediárias.Cinética: Fatores que alteram a velocidade da reação: temperatura, concentração dos reagentes, superfície de contato e presença de catalisador (que reduz a energia de ativação sem ser consumido no processo).3. Equilíbrio Químico e EletroquímicaPrincípio de Le Chatelier: Quando um sistema em equilíbrio sobre uma perturbação externa (pressão, temperatura ou concentração), ele se desloca no sentido de minimizar esse efeito.Eletroquímica:Pilha (Galvânica): Processo espontâneo ($\\Delta E^\\circ > 0$) que converte energia química em elétrica. Ânodo (oxidação, polo negativo) $\\rightarrow$ Cátodo (redução, polo positivo).Eletrólise: Processo não espontâneo forçado por uma fonte externa de corrente contínua.",
+        "content": "",
+        "videos": [
+          "Cafe com Quimica Funcoes Organicas",
+          "Paulo Valim Pilhas e Eletroquimica",
+          "Gabriel Cabral Tabela Periodica e Ligacoes",
+          "Telecurso Ensino Medio Quimica Ambiental e Fisico Quimica"
+        ],
+        "references": [
+          "BROWN, Theodore L. et al. Química: a ciência central. São Paulo: Pearson, 2016. (A obra mais completa de Química Geral e Físico-Química utilizada no ensino superior e vestibulares concorridos).",
+          "ATKINS, Peter; JONES, Loretta. Princípios de Química: questionando a vida moderna e o meio ambiente. Porto Alegre: Bookman, 2018. (Abordagem focada nas aplicações práticas, termodinâmica e química ambiental).",
+          "FELTRE, Ricardo. Química (Vols. 1, 2 e 3: Química Geral, Físico-Química e Química Orgânica). São Paulo: Moderna, 2005. (A coleção didática clássica de referência mais respeitada para o Ensino Médio brasileiro).",
+          "SOLOMONS, T. W. Graham; FRYHLE, Craig B. Química Orgânica (Vols. 1 e 2). Rio de Janeiro: LTC, 2012. (A principal referência para mecanismos de reações, isomeria e estruturas orgânicas).",
+          "BAIRD, Colin; CANN, Michael. Química Ambiental. Porto Alegre: Bookman, 2011. (O manual definitivo para o estudo técnico do smog fotoquímico, chuva ácida, efeito estufa e tratamento de efluentes)."
+        ]
+      },
+      {
+        "title": "Química Orgânica",
+        "content": "Estrutura, nomenclatura, isomeria e reações dos compostos de carbono.\n\n![Funções orgânicas: grupos funcionais e regras. Fonte: Blog do Stoodi](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScsy3C-hwSAp1EvNd5T_9dWejrEsZ9Cx-dzwSE7fnZ_HzlLg_PdTwYVt4&s=10 )\n*Funções orgânicas: grupos funcionais e regras. Fonte: Blog do Stoodi*\n\n1. Funções Orgânicas Principais\n\nFunção,Grupo Funcional Característico,Sufixo / Nomenclatura,Exemplo\n\nHidrocarboneto,Apenas C e H,-o,\"Metano, Propano, Benzeno\"\n\nÁlcool,−OH (hidroxila) em carbono saturado,-ol,Etanol (CH3​CH2​OH)\n\nEnol / Fenol,−OH em carbono com dupla / −OH no anel aromático,-ol / Hidroxibenzeno,Fenol comum (C6​H5​OH)\n\nAldeído,−CHO (carbonila terminal),-al,\"Metanal (formol), Etanal\"\n\nCetona,−CO− (carbonila entre carbonos),-ona,Propanona (acetona)\n\nÁcido Carboxílico,−COOH (carboxila),Ácido ...óico,Ácido etanoico (ácido acético)\n\nÉster,−COO− (oxigênio entre carbonila e cadeia),-ato de ...ila,Etanoato de etila\n\nÉter,−O− (oxigênio heteroátomo entre carbonos),Prefixo menor + óxi + hidrocarboneto,Metoxietano\n\nAmina,Nitrogênio ligado a cadeias carbônicas,-amina,Metilamina\n\nAmida,Nitrogênio ligado diretamente a uma carbonila,-amida,Etanamida\n\n2. IsomeriaPlana (Constitucional): Função, cadeia, posição, metameria (compensação) e tautomeria (equilíbrio dinâmico aldo-enólico / ceto-enólico).Espacial (Estereoisomeria):Geométrica (Cis/Trans ou E/Z): Ocorre em alcenos com ligantes diferentes no mesmo carbono da dupla ou em compostos cíclicos.Óptica: Ocorre na presença de carbono quiral / assimétrico ($C^*$, ligado a quatro grupos diferentes), gerando enantiômeros dextrogiro e levogiro.\n\n",
+        "videos": [
+          "Cafe com Quimica Funcoes Organicas",
+          "Paulo Valim Pilhas e Eletroquimica",
+          "Gabriel Cabral Tabela Periodica e Ligacoes",
+          "Telecurso Ensino Medio Quimica Ambiental e Fisico Quimica"
+        ],
+        "references": [
+          "BROWN, Theodore L. et al. Química: a ciência central. São Paulo: Pearson, 2016. (A obra mais completa de Química Geral e Físico-Química utilizada no ensino superior e vestibulares concorridos).",
+          "ATKINS, Peter; JONES, Loretta. Princípios de Química: questionando a vida moderna e o meio ambiente. Porto Alegre: Bookman, 2018. (Abordagem focada nas aplicações práticas, termodinâmica e química ambiental).",
+          "FELTRE, Ricardo. Química (Vols. 1, 2 e 3: Química Geral, Físico-Química e Química Orgânica). São Paulo: Moderna, 2005. (A coleção didática clássica de referência mais respeitada para o Ensino Médio brasileiro).",
+          "SOLOMONS, T. W. Graham; FRYHLE, Craig B. Química Orgânica (Vols. 1 e 2). Rio de Janeiro: LTC, 2012. (A principal referência para mecanismos de reações, isomeria e estruturas orgânicas).",
+          "BAIRD, Colin; CANN, Michael. Química Ambiental. Porto Alegre: Bookman, 2011. (O manual definitivo para o estudo técnico do smog fotoquímico, chuva ácida, efeito estufa e tratamento de efluentes)."
+        ]
+      },
+      {
+        "title": "Química Ambiental e PoluiçãoCompostos químicos, ciclos de poluentes e química verde.Chuva Ácida: Formada pela reação da água da atmosfera com óxidos ácidos de enxofre e nitrogênio:$$SO_3 + H_2O \\rightarrow H_2SO_4 \\qquad \\text{e} \\qquad 2NO_2 + H_2O \\rightarrow HNO_3 + HNO_2$$Consequências: Acidificação de solos e corpos hídricos, corrosão de monumentos de calcário ($CaCO_3$) e lixiviação de metais tóxicos.Destruição da Camada de Ozônio: Compostos CFCs (clorofluorcarbonetos) liberam radicais livres de cloro sob radiação UV, catalisando a quebra do ozônio estratosférico ($O_3 \\rightarrow O_2$):$$Cl^\\bullet + O_3 \\rightarrow ClO^\\bullet + O_2$$Smog Fotoquímico: Poluição urbana gerada em dias ensolarados pela reação entre óxidos de nitrogênio ($NO_x$) e compostos orgânicos voláteis (VOCs), gerando ozônio troposférico ($O_3$) e peróxidos tóxicos ao trato respiratório.Polímeros, Plásticos e Biodiesel:Plásticos: Polímeros sintéticos de adição (polietileno, PVC) ou condensação (PET, nylon) e sua persistência como microplásticos.Química Verde & Biodiesel: Reação de transesterificação (triglicerídeo de óleo vegetal + álcool de cadeia curta na presença de catalisador básico $\\rightarrow$ ésteres etílicos/metílicos de ácidos graxos + glicerol).",
+        "content": "",
+        "videos": [
+          "Cafe com Quimica Funcoes Organicas",
+          "Paulo Valim Pilhas e Eletroquimica",
+          "Gabriel Cabral Tabela Periodica e Ligacoes",
+          "Telecurso Ensino Medio Quimica Ambiental e Fisico Quimica"
+        ],
+        "references": [
+          "BROWN, Theodore L. et al. Química: a ciência central. São Paulo: Pearson, 2016. (A obra mais completa de Química Geral e Físico-Química utilizada no ensino superior e vestibulares concorridos).",
+          "ATKINS, Peter; JONES, Loretta. Princípios de Química: questionando a vida moderna e o meio ambiente. Porto Alegre: Bookman, 2018. (Abordagem focada nas aplicações práticas, termodinâmica e química ambiental).",
+          "FELTRE, Ricardo. Química (Vols. 1, 2 e 3: Química Geral, Físico-Química e Química Orgânica). São Paulo: Moderna, 2005. (A coleção didática clássica de referência mais respeitada para o Ensino Médio brasileiro).",
+          "SOLOMONS, T. W. Graham; FRYHLE, Craig B. Química Orgânica (Vols. 1 e 2). Rio de Janeiro: LTC, 2012. (A principal referência para mecanismos de reações, isomeria e estruturas orgânicas).",
+          "BAIRD, Colin; CANN, Michael. Química Ambiental. Porto Alegre: Bookman, 2011. (O manual definitivo para o estudo técnico do smog fotoquímico, chuva ácida, efeito estufa e tratamento de efluentes)."
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Física",
+    "slug": "fisica",
+    "icon": "atom",
+    "lessons": [
+      {
+        "title": "Mecânica ClássicaEstuda o movimento dos corpos, suas causas e as leis de conservação de energia e momento.1. Cinemática Escalar e VetorialMovimento Retilíneo Uniforme (MRU): Velocidade constante ($a = 0$). Função horária: $S = S_0 + v \\cdot t$.Movimento Retilíneo Uniformemente Variado (MRUV): Aceleração constante ($a \\neq 0$).$$v = v_0 + a \\cdot t \\qquad S = S_0 + v_0 \\cdot t + \\frac{a \\cdot t^2}{2} \\qquad v^2 = v_0^2 + 2 \\cdot a \\cdot \\Delta S \\text{ (Torricelli)}$$2. Dinâmica e Leis de Newton1ª Lei (Inércia): Um corpo em repouso ou em MRU permanece nesse estado a menos que uma força resultante atue sobre ele.2ª Lei (Princípio Fundamental da Dinâmica): $\\vec{F}_{\\text{res}} = m \\cdot \\vec{a}$.3ª Lei (Ação e Reação): Forças sempre ocorrem em pares, com mesma intensidade, mesma direção, sentidos opostos e aplicadas em corpos diferentes (não se anulam).Atrito: $F_{\\text{at}} = \\mu \\cdot N$ (o atrito estático máximo é sempre superior ao cinético/dinâmico).3. Trabalho, Energia e ConservaçãoTrabalho mecânico: $\\tau = F \\cdot d \\cdot \\cos(\\theta)$.Energia Mecânica ($E_{\\text{mec}} = E_c + E_p$):Energia Cinética: $E_c = \\frac{m \\cdot v^2}{2}$.Energia Potencial Gravitacional: $E_{pg} = m \\cdot g \\cdot h$.Energia Potencial Elástica: $E_{pel} = \\frac{k \\cdot x^2}{2}$.Em sistemas conservativos (sem atrito ou resistência do ar): $E_{\\text{mec, inicial}} = E_{\\text{mec, final}}$.",
+        "content": "",
+        "videos": [
+          "Fisica com Boaro Mecanica Leis de Newton",
+          "Fisica Total Ondulatoria Equacao Fundamental",
+          "Chama o Fisico Optica Geometrica Gauss",
+          "Telecurso Ensino Medio Fisica Mecanica e Termologia"
+        ],
+        "references": [
+          "HALLIDAY, David; RESNICK, Robert; WALKER, Jearl. Fundamentos de Física (Vols. 1 a 4: Mecânica, Gravitação e Ondas, Eletromagnetismo, Óptica e Termodinâmica). Rio de Janeiro: LTC, 2016. (A maior referência acadêmica internacional para resolução de problemas e fundamentação física).",
+          "RAMALHO JÚNIOR, Francisco; FERRARO, Nicolau Gilberto; TOLEDO, Paulo Antônio de. Os Fundamentos da Física (Vols. 1, 2 e 3). São Paulo: Moderna, 2014. (A coleção didática brasileira mais tradicional e consagrada para vestibulares de alta concorrência).",
+          "HELOU, Ricardo Doca; GUALTER, José Biscuola; NEWTON, Villas-Bôas. Tópicos de Física (Vols. 1, 2 e 3). São Paulo: Saraiva, 2012. (Excelente para exercícios contextualizados e aprofundamento teórico).",
+          "HECHT, Eugene. Óptica. Lisboa: Fundação Calouste Gulbenkian, 2002. (A principal referência especializada para óptica geométrica e ondulatória).",
+          "TIPLER, Paul A.; MOSCA, Gene. Física para Cientistas e Engenheiros. Rio de Janeiro: LTC, 2019. (Clássico universitário com explicações visuais de eletrodinâmica e termodinâmica)."
+        ]
+      },
+      {
+        "title": "Eletrodinâmica e CircuitosEstudo do movimento ordenado de cargas elétricas, potência e dimensionamento de circuitos residenciais.1. Grandezas e Leis FundamentaisCorrente Elétrica ($i$): Taxa de fluxo de carga no tempo: $i = \\frac{\\Delta Q}{\\Delta t}$ (em Ampères, $\\text{A}$).1ª Lei de Ohm: $U = R \\cdot i$ (onde $U$ é a tensão/ddp em Volts, $R$ a resistência em Ohms $\\Omega$).2ª Lei de Ohm (Resistividade do condutor): $R = \\rho \\cdot \\frac{L}{A}$ (aumentar o comprimento aumenta a resistência; aumentar a área/bitola diminui a resistência).Potência Elétrica ($P$) e Consumo de Energia ($E$):$$P = U \\cdot i = R \\cdot i^2 = \\frac{U^2}{R} \\qquad \\text{Consumo: } E = P \\cdot \\Delta t \\quad (\\text{kWh} = \\text{kW} \\times \\text{h})$$2. Associação de Resistores",
+        "content": "Tipo de Associação,Tensão (U),Corrente (i),Resistência Equivalente (Req​)\n\nSérie,Divide-se: Utotal​=U1​+U2​,Igual para todos: itotal​=i1​=i2​,Req​=R1​+R2​+⋯+Rn​\n\nParalelo,Igual para todos: Utotal​=U1​=U2​,Divide-se: itotal​=i1​+i2​,Req​1​=R1​1​+R2​1​(Req​=R1​+R2​R1​⋅R2​​)\n\n",
+        "videos": [
+          "Fisica com Boaro Mecanica Leis de Newton",
+          "Fisica Total Ondulatoria Equacao Fundamental",
+          "Chama o Fisico Optica Geometrica Gauss",
+          "Telecurso Ensino Medio Fisica Mecanica e Termologia"
+        ],
+        "references": [
+          "HALLIDAY, David; RESNICK, Robert; WALKER, Jearl. Fundamentos de Física (Vols. 1 a 4: Mecânica, Gravitação e Ondas, Eletromagnetismo, Óptica e Termodinâmica). Rio de Janeiro: LTC, 2016. (A maior referência acadêmica internacional para resolução de problemas e fundamentação física).",
+          "RAMALHO JÚNIOR, Francisco; FERRARO, Nicolau Gilberto; TOLEDO, Paulo Antônio de. Os Fundamentos da Física (Vols. 1, 2 e 3). São Paulo: Moderna, 2014. (A coleção didática brasileira mais tradicional e consagrada para vestibulares de alta concorrência).",
+          "HELOU, Ricardo Doca; GUALTER, José Biscuola; NEWTON, Villas-Bôas. Tópicos de Física (Vols. 1, 2 e 3). São Paulo: Saraiva, 2012. (Excelente para exercícios contextualizados e aprofundamento teórico).",
+          "HECHT, Eugene. Óptica. Lisboa: Fundação Calouste Gulbenkian, 2002. (A principal referência especializada para óptica geométrica e ondulatória).",
+          "TIPLER, Paul A.; MOSCA, Gene. Física para Cientistas e Engenheiros. Rio de Janeiro: LTC, 2019. (Clássico universitário com explicações visuais de eletrodinâmica e termodinâmica)."
+        ]
+      },
+      {
+        "title": "Ondulatória e Acústica",
+        "content": "Perturbações que transportam energia sem transportar matéria.\n\n( foto: https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcREfsJn7zYRPXN9L1pQylACHNx87Bhb53i38fSRx7bf1QFJQdZqlsWnUqOU9DUq7jOPIfHcxZolwFebqx4 ) Espectro eletromagnético: ondas e frequências. Fonte: coolvectormaker / Getty Images\n\n1. Equação Fundamental da Ondulatória$$v = \\lambda \\cdot f$$Onde $v$ é a velocidade da onda (depende exclusivamente do meio de propagação), $\\lambda$ é o comprimento de onda e $f$ é a frequência ($f = \\frac{1}{T}$, em Hertz).2. Fenômenos Ondulatórios PrincipaisReflexão: A onda atinge uma barreira e retorna ao meio de origem ($v, \\lambda, f$ permanecem inalterados).Refração: A onda muda de meio de propagação (a velocidade $v$ e o comprimento $\\lambda$ mudam, mas a frequência $f$ permanece constante).Difração: Capacidade da onda de contornar obstáculos ou frestas de tamanho comparável ao seu comprimento de onda $\\lambda$.Interferência: Superposição de ondas (construtiva ou destrutiva).Ressonância: Um sistema físico oscila com amplitude máxima ao ser excitado por uma fonte de frequência igual à sua frequência natural de vibração.Efeito Doppler: Variação aparente da frequência percebida pelo observador devido ao movimento relativo entre a fonte emissora e o receptor (aproximação = frequência aparente mais alta/som mais agudo; afastamento = frequência aparente mais baixa/som mais grave).\n\n",
+        "videos": [
+          "Fisica com Boaro Mecanica Leis de Newton",
+          "Fisica Total Ondulatoria Equacao Fundamental",
+          "Chama o Fisico Optica Geometrica Gauss",
+          "Telecurso Ensino Medio Fisica Mecanica e Termologia"
+        ],
+        "references": [
+          "HALLIDAY, David; RESNICK, Robert; WALKER, Jearl. Fundamentos de Física (Vols. 1 a 4: Mecânica, Gravitação e Ondas, Eletromagnetismo, Óptica e Termodinâmica). Rio de Janeiro: LTC, 2016. (A maior referência acadêmica internacional para resolução de problemas e fundamentação física).",
+          "RAMALHO JÚNIOR, Francisco; FERRARO, Nicolau Gilberto; TOLEDO, Paulo Antônio de. Os Fundamentos da Física (Vols. 1, 2 e 3). São Paulo: Moderna, 2014. (A coleção didática brasileira mais tradicional e consagrada para vestibulares de alta concorrência).",
+          "HELOU, Ricardo Doca; GUALTER, José Biscuola; NEWTON, Villas-Bôas. Tópicos de Física (Vols. 1, 2 e 3). São Paulo: Saraiva, 2012. (Excelente para exercícios contextualizados e aprofundamento teórico).",
+          "HECHT, Eugene. Óptica. Lisboa: Fundação Calouste Gulbenkian, 2002. (A principal referência especializada para óptica geométrica e ondulatória).",
+          "TIPLER, Paul A.; MOSCA, Gene. Física para Cientistas e Engenheiros. Rio de Janeiro: LTC, 2019. (Clássico universitário com explicações visuais de eletrodinâmica e termodinâmica)."
+        ]
+      },
+      {
+        "title": "Termologia e TermodinâmicaEstudo da energia térmica em trânsito (calor), temperatura e trabalho térmico.Diferença Fundamental: Temperatura mede o grau de agitação molecular médio; calor é energia térmica em trânsito entre corpos com temperaturas distintas.Calorimetria:Calor Sensível (Variação de temperatura sem mudança de fase): $Q = m \\cdot c \\cdot \\Delta T$.Calor Latente (Mudança de estado físico a temperatura constante): $Q = m \\cdot L$.Leis da Termodinâmica:1ª Lei (Conservação da Energia): $\\Delta U = Q - W$ (a variação da energia interna depende do calor trocado e do trabalho realizado pelo gás).2ª Lei: O calor flui espontaneamente apenas de corpos de maior temperatura para corpos de menor temperatura. Nenhuma máquina térmica operando em ciclos consegue ter rendimento de 100% (Ciclo de Carnot estabelece o rendimento teórico máximo: $\\eta_{\\text{máx}} = 1 - \\frac{T_{\\text{fria}}}{T_{\\text{quente}}}$ em Kelvin).",
+        "content": "",
+        "videos": [
+          "Fisica com Boaro Mecanica Leis de Newton",
+          "Fisica Total Ondulatoria Equacao Fundamental",
+          "Chama o Fisico Optica Geometrica Gauss",
+          "Telecurso Ensino Medio Fisica Mecanica e Termologia"
+        ],
+        "references": [
+          "HALLIDAY, David; RESNICK, Robert; WALKER, Jearl. Fundamentos de Física (Vols. 1 a 4: Mecânica, Gravitação e Ondas, Eletromagnetismo, Óptica e Termodinâmica). Rio de Janeiro: LTC, 2016. (A maior referência acadêmica internacional para resolução de problemas e fundamentação física).",
+          "RAMALHO JÚNIOR, Francisco; FERRARO, Nicolau Gilberto; TOLEDO, Paulo Antônio de. Os Fundamentos da Física (Vols. 1, 2 e 3). São Paulo: Moderna, 2014. (A coleção didática brasileira mais tradicional e consagrada para vestibulares de alta concorrência).",
+          "HELOU, Ricardo Doca; GUALTER, José Biscuola; NEWTON, Villas-Bôas. Tópicos de Física (Vols. 1, 2 e 3). São Paulo: Saraiva, 2012. (Excelente para exercícios contextualizados e aprofundamento teórico).",
+          "HECHT, Eugene. Óptica. Lisboa: Fundação Calouste Gulbenkian, 2002. (A principal referência especializada para óptica geométrica e ondulatória).",
+          "TIPLER, Paul A.; MOSCA, Gene. Física para Cientistas e Engenheiros. Rio de Janeiro: LTC, 2019. (Clássico universitário com explicações visuais de eletrodinâmica e termodinâmica)."
+        ]
+      },
+      {
+        "title": "Óptica GeométricaComportamento da luz em meios homogêneos e transparentes com base na propagação retilínea, independência e reversibilidade dos raios de luz.Leis da Reflexão e Espelhos: Ângulo de incidência é igual ao de reflexão ($i = r$). Espelhos convexos formam sempre imagem virtual, direita e menor.Refração e Lei de Snell-Descartes:$$n_1 \\cdot \\sin(\\theta_1) = n_2 \\cdot \\sin(\\theta_2) \\qquad \\text{onde } n = \\frac{c}{v}$$Reflexão Total: Ocorre apenas quando a luz se propaga do meio mais refringente para o menos refringente com ângulo de incidência superior ao ângulo limite ($\\sin(L) = \\frac{n_{\\text{menor}}}{n_{\\text{maior}}}$), princípio básico do funcionamento das fibras ópticas.Equação de Gauss (Espelhos e Lentes esféricas):$$\\frac{1}{f} = \\frac{1}{p} + \\frac{1}{p'} \\qquad A = \\frac{i}{o} = -\\frac{p'}{p}$$",
+        "content": "",
+        "videos": [
+          "Fisica com Boaro Mecanica Leis de Newton",
+          "Fisica Total Ondulatoria Equacao Fundamental",
+          "Chama o Fisico Optica Geometrica Gauss",
+          "Telecurso Ensino Medio Fisica Mecanica e Termologia"
+        ],
+        "references": [
+          "HALLIDAY, David; RESNICK, Robert; WALKER, Jearl. Fundamentos de Física (Vols. 1 a 4: Mecânica, Gravitação e Ondas, Eletromagnetismo, Óptica e Termodinâmica). Rio de Janeiro: LTC, 2016. (A maior referência acadêmica internacional para resolução de problemas e fundamentação física).",
+          "RAMALHO JÚNIOR, Francisco; FERRARO, Nicolau Gilberto; TOLEDO, Paulo Antônio de. Os Fundamentos da Física (Vols. 1, 2 e 3). São Paulo: Moderna, 2014. (A coleção didática brasileira mais tradicional e consagrada para vestibulares de alta concorrência).",
+          "HELOU, Ricardo Doca; GUALTER, José Biscuola; NEWTON, Villas-Bôas. Tópicos de Física (Vols. 1, 2 e 3). São Paulo: Saraiva, 2012. (Excelente para exercícios contextualizados e aprofundamento teórico).",
+          "HECHT, Eugene. Óptica. Lisboa: Fundação Calouste Gulbenkian, 2002. (A principal referência especializada para óptica geométrica e ondulatória).",
+          "TIPLER, Paul A.; MOSCA, Gene. Física para Cientistas e Engenheiros. Rio de Janeiro: LTC, 2019. (Clássico universitário com explicações visuais de eletrodinâmica e termodinâmica)."
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Matematica",
+    "slug": "matematica",
+    "icon": "calculator",
+    "lessons": [
+      {
+        "title": "Razão e ProporçãoA comparação quantitativa entre grandezas e a propriedade fundamental da igualdade entre frações.1. RazãoDefinição: É a divisão ou comparação quociente entre duas grandezas $a$ e $b$ (com $b \\neq 0$), representada por:$$\\text{Razão} = \\frac{a}{b} \\quad \\text{ou} \\quad a : b \\quad (\\text{\"}a\\text{ está para }b\\text{\"})$$Razões Especiais no Cotidiano:Velocidade Média: $v_m = \\frac{\\Delta S}{\\Delta t}$ (km/h ou m/s).Densidade Demográfica: $D = \\frac{\\text{População}}{\\text{Área}}$ ($\\text{hab/km}^2$).Densidade de um Corpo: $d = \\frac{\\text{Massa}}{\\text{Volume}}$ ($\\text{g/cm}^3$ ou $\\text{kg/m}^3$).2. Proporção e Propriedade FundamentalUma proporção é uma igualdade entre duas razões:$$\\frac{a}{b} = \\frac{c}{d} \\iff a \\cdot d = b \\cdot c \\quad (\\text{\"O produto dos extremos é igual ao produto dos meios\"})$$Exemplo Prático: Se a razão entre o número de técnicos e engenheiros em uma obra é de $5 : 2$, e há $30$ técnicos, quantos engenheiros trabalham no local?$$\\frac{5}{2} = \\frac{30}{x} \\implies 5x = 60 \\implies x = 12 \\text{ engenheiros}$$",
+        "content": "",
+        "videos": [
+          "Ferretto Razao e Proporcao",
+          "Gis com Giz Escala Matematica",
+          "Equaciona Matematica Basica Grandezas Proporcionais",
+          "Matematica Rio Regra de Tres e Porcentagem",
+          "Telecurso Ensino Medio Matematica Porcentagem e Proporcao",
+          "Ferretto Estatistica Media Mediana Moda",
+          "Gis com Giz Leitura e Interpretacao de Graficos",
+          "Equaciona Probabilidade Eventos Independentes e Uniao",
+          "Matematica Rio Estatistica e Probabilidade no ENEM",
+          "Telecurso Ensino Medio Matematica Estatistica e Probabilidade"
+        ],
+        "references": [
+          "IEZZI, Gelson et al. Fundamentos de Matemática Elementar (Vol. 11: Matemática Comercial e Financeira). São Paulo: Atual, 2013. (A principal referência nacional com rigor formal e dezenas de exercícios resolvidos).",
+          "DANTE, Luiz Roberto. Matemática: Contexto & Aplicações (Ensino Médio). São Paulo: Ática, 2016. (Manual didático com foco em aplicações práticas e contextualização de escalas, proporcionalidade e porcentagem).",
+          "SMOLE, Kátia Stocco; DINIZ, Maria Ignez. Matemática: Ensino Médio (Vol. 1). São Paulo: Saraiva, 2016. (Excelente abordagem pedagógica sobre resolução de problemas e razão/proporção).",
+          "LIMA, Elon Lages et al. A Matemática do Ensino Médio (Coleção do Professor de Matemática). Rio de Janeiro: SBM, 2016. (Publicação da Sociedade Brasileira de Matemática aprofundando as propriedades de grandezas e funções lineares).",
+          "BUSSAB, Wilton de Oliveira; MORETTIN, Pedro Alberto. Estatística Básica. São Paulo: Saraiva, 2017. (O livro-texto de referência mais consagrado no Brasil para probabilidade, análise exploratória e medidas de tendência central e dispersão).",
+          "IEZZI, Gelson; HAZZAN, Samuel. Fundamentos de Matemática Elementar (Vol. 5: Combinatória e Probabilidade). São Paulo: Atual, 2013. (Excelente para exercícios graduados com demonstrações e formalização algébrica).",
+          "TRIOLA, Mario F. Introdução à Estatística. Rio de Janeiro: LTC, 2017. (Abordagem extremamente visual com foco em interpretação prática de gráficos, histogramas, boxplots e distribuições).",
+          "DANTE, Luiz Roberto. Matemática: Contexto & Aplicações (Ensino Médio). São Paulo: Ática, 2016. (Material didático contextualizado voltado à resolução de problemas de exames e interpretação da mídia)."
+        ]
+      },
+      {
+        "title": "Escalas (Numéricas e Gráficas)A aplicação direta do conceito de razão na representação de mapas, plantas arquitetônicas e maquetes.1. Escala Linear (Comprimentos)A escala ($E$) é a razão adimensional entre a medida no desenho/mapa ($d$) e a medida real correspondente ($R$), sempre nas mesmas unidades de medida:$$E = \\frac{d}{R} \\quad \\text{ou} \\quad 1 : N$$Cuidado com a Conversão de Unidades:$$1\\text{ km} = 1.000\\text{ m} = 100.000\\text{ cm} \\qquad 1\\text{ m} = 100\\text{ cm} = 1.000\\text{ mm}$$Exemplo: Em um mapa de escala $1 : 500.000$, a distância entre duas cidades é de $4\\text{ cm}$. Qual a distância real?$$R = 4\\text{ cm} \\times 500.000 = 2.000.000\\text{ cm} = 20.000\\text{ m} = 20\\text{ km}$$2. Escala Superficial (Áreas) e Volumétrica (Volumes)Para relacionar áreas ou volumes reduzidos com o real, eleva-se a escala à potência respectiva:$$\\frac{\\text{Área no mapa}}{\\text{Área real}} = E^2 = \\left(\\frac{1}{N}\\right)^2 \\qquad \\frac{\\text{Volume na maquete}}{\\text{Volume real}} = E^3 = \\left(\\frac{1}{N}\\right)^3$$",
+        "content": "",
+        "videos": [
+          "Ferretto Razao e Proporcao",
+          "Gis com Giz Escala Matematica",
+          "Equaciona Matematica Basica Grandezas Proporcionais",
+          "Matematica Rio Regra de Tres e Porcentagem",
+          "Telecurso Ensino Medio Matematica Porcentagem e Proporcao",
+          "Ferretto Estatistica Media Mediana Moda",
+          "Gis com Giz Leitura e Interpretacao de Graficos",
+          "Equaciona Probabilidade Eventos Independentes e Uniao",
+          "Matematica Rio Estatistica e Probabilidade no ENEM",
+          "Telecurso Ensino Medio Matematica Estatistica e Probabilidade"
+        ],
+        "references": [
+          "IEZZI, Gelson et al. Fundamentos de Matemática Elementar (Vol. 11: Matemática Comercial e Financeira). São Paulo: Atual, 2013. (A principal referência nacional com rigor formal e dezenas de exercícios resolvidos).",
+          "DANTE, Luiz Roberto. Matemática: Contexto & Aplicações (Ensino Médio). São Paulo: Ática, 2016. (Manual didático com foco em aplicações práticas e contextualização de escalas, proporcionalidade e porcentagem).",
+          "SMOLE, Kátia Stocco; DINIZ, Maria Ignez. Matemática: Ensino Médio (Vol. 1). São Paulo: Saraiva, 2016. (Excelente abordagem pedagógica sobre resolução de problemas e razão/proporção).",
+          "LIMA, Elon Lages et al. A Matemática do Ensino Médio (Coleção do Professor de Matemática). Rio de Janeiro: SBM, 2016. (Publicação da Sociedade Brasileira de Matemática aprofundando as propriedades de grandezas e funções lineares).",
+          "BUSSAB, Wilton de Oliveira; MORETTIN, Pedro Alberto. Estatística Básica. São Paulo: Saraiva, 2017. (O livro-texto de referência mais consagrado no Brasil para probabilidade, análise exploratória e medidas de tendência central e dispersão).",
+          "IEZZI, Gelson; HAZZAN, Samuel. Fundamentos de Matemática Elementar (Vol. 5: Combinatória e Probabilidade). São Paulo: Atual, 2013. (Excelente para exercícios graduados com demonstrações e formalização algébrica).",
+          "TRIOLA, Mario F. Introdução à Estatística. Rio de Janeiro: LTC, 2017. (Abordagem extremamente visual com foco em interpretação prática de gráficos, histogramas, boxplots e distribuições).",
+          "DANTE, Luiz Roberto. Matemática: Contexto & Aplicações (Ensino Médio). São Paulo: Ática, 2016. (Material didático contextualizado voltado à resolução de problemas de exames e interpretação da mídia)."
+        ]
+      },
+      {
+        "title": "Regra de Três (Simples e Composta)Método para determinar valores desconhecidos a partir do relacionamento proporcional entre grandezas.1. Regra de Três Simples (Duas Grandezas)Grandezas Diretamente Proporcionais (GDP): Quando o aumento de uma acarreta o aumento proporcional da outra (ou redução mútua). Multiplica-se em cruz.Grandezas Inversamente Proporcionais (GIP): Quando o aumento de uma acarreta a redução proporcional da outra (ex.: velocidade e tempo de viagem; operários e dias de obra). Multiplica-se em linha reta.2. Regra de Três Composta (Três ou Mais Grandezas)Passo a passo prático para não errar a montagem:Isole a coluna da incógnita ($x$) à esquerda da igualdade.Compare a grandeza da incógnita individualmente com cada uma das outras grandezas, definindo se a relação é Direta ou Inversa.Mantenha as frações diretas e inverta as frações inversas antes de multiplicar:$$\\frac{x_1}{x_2} = \\left(\\text{Fração}_1\\right) \\times \\left(\\text{Fração}_2\\right) \\times \\dots$$",
+        "content": "",
+        "videos": [
+          "Ferretto Razao e Proporcao",
+          "Gis com Giz Escala Matematica",
+          "Equaciona Matematica Basica Grandezas Proporcionais",
+          "Matematica Rio Regra de Tres e Porcentagem",
+          "Telecurso Ensino Medio Matematica Porcentagem e Proporcao",
+          "Ferretto Estatistica Media Mediana Moda",
+          "Gis com Giz Leitura e Interpretacao de Graficos",
+          "Equaciona Probabilidade Eventos Independentes e Uniao",
+          "Matematica Rio Estatistica e Probabilidade no ENEM",
+          "Telecurso Ensino Medio Matematica Estatistica e Probabilidade"
+        ],
+        "references": [
+          "IEZZI, Gelson et al. Fundamentos de Matemática Elementar (Vol. 11: Matemática Comercial e Financeira). São Paulo: Atual, 2013. (A principal referência nacional com rigor formal e dezenas de exercícios resolvidos).",
+          "DANTE, Luiz Roberto. Matemática: Contexto & Aplicações (Ensino Médio). São Paulo: Ática, 2016. (Manual didático com foco em aplicações práticas e contextualização de escalas, proporcionalidade e porcentagem).",
+          "SMOLE, Kátia Stocco; DINIZ, Maria Ignez. Matemática: Ensino Médio (Vol. 1). São Paulo: Saraiva, 2016. (Excelente abordagem pedagógica sobre resolução de problemas e razão/proporção).",
+          "LIMA, Elon Lages et al. A Matemática do Ensino Médio (Coleção do Professor de Matemática). Rio de Janeiro: SBM, 2016. (Publicação da Sociedade Brasileira de Matemática aprofundando as propriedades de grandezas e funções lineares).",
+          "BUSSAB, Wilton de Oliveira; MORETTIN, Pedro Alberto. Estatística Básica. São Paulo: Saraiva, 2017. (O livro-texto de referência mais consagrado no Brasil para probabilidade, análise exploratória e medidas de tendência central e dispersão).",
+          "IEZZI, Gelson; HAZZAN, Samuel. Fundamentos de Matemática Elementar (Vol. 5: Combinatória e Probabilidade). São Paulo: Atual, 2013. (Excelente para exercícios graduados com demonstrações e formalização algébrica).",
+          "TRIOLA, Mario F. Introdução à Estatística. Rio de Janeiro: LTC, 2017. (Abordagem extremamente visual com foco em interpretação prática de gráficos, histogramas, boxplots e distribuições).",
+          "DANTE, Luiz Roberto. Matemática: Contexto & Aplicações (Ensino Médio). São Paulo: Ática, 2016. (Material didático contextualizado voltado à resolução de problemas de exames e interpretação da mídia)."
+        ]
+      },
+      {
+        "title": "Porcentagem e Fatores de MultiplicaçãoRepresentação fracionária centesimal ($x\\% = \\frac{x}{100}$) e cálculo rápido por fatores multiplicativos.1. Fatores de Aumento e DescontoEliminam o cálculo em duas etapas e simplificam problemas de aumentos ou descontos sucessivos:",
+        "content": "Situação,Fórmula do Fator (F),Exemplo de Aplicação\n\nAumento de i%,F=1+100i​,\"Aumento de 15%⟹Multiplicar por 1,15\"\n\nDesconto de i%,F=1−100i​,\"Desconto de 20%⟹Multiplicar por 0,80\"\n\nVariações Sucessivas,Ffinal​=F1​×F2​×…,\"Aumento de 10% seguido de desconto de 10%⟹1,10×0,90=0,99 (prejuízo real de 1%)\"\n\n2. Variação PercentualPara calcular a taxa de crescimento ou redução entre um valor inicial ($V_i$) e um valor final ($V_f$):$$\\text{Taxa de Variação} = \\frac{V_f - V_i}{V_i} \\times 100\\%$$\n\n",
+        "videos": [
+          "Ferretto Razao e Proporcao",
+          "Gis com Giz Escala Matematica",
+          "Equaciona Matematica Basica Grandezas Proporcionais",
+          "Matematica Rio Regra de Tres e Porcentagem",
+          "Telecurso Ensino Medio Matematica Porcentagem e Proporcao",
+          "Ferretto Estatistica Media Mediana Moda",
+          "Gis com Giz Leitura e Interpretacao de Graficos",
+          "Equaciona Probabilidade Eventos Independentes e Uniao",
+          "Matematica Rio Estatistica e Probabilidade no ENEM",
+          "Telecurso Ensino Medio Matematica Estatistica e Probabilidade"
+        ],
+        "references": [
+          "IEZZI, Gelson et al. Fundamentos de Matemática Elementar (Vol. 11: Matemática Comercial e Financeira). São Paulo: Atual, 2013. (A principal referência nacional com rigor formal e dezenas de exercícios resolvidos).",
+          "DANTE, Luiz Roberto. Matemática: Contexto & Aplicações (Ensino Médio). São Paulo: Ática, 2016. (Manual didático com foco em aplicações práticas e contextualização de escalas, proporcionalidade e porcentagem).",
+          "SMOLE, Kátia Stocco; DINIZ, Maria Ignez. Matemática: Ensino Médio (Vol. 1). São Paulo: Saraiva, 2016. (Excelente abordagem pedagógica sobre resolução de problemas e razão/proporção).",
+          "LIMA, Elon Lages et al. A Matemática do Ensino Médio (Coleção do Professor de Matemática). Rio de Janeiro: SBM, 2016. (Publicação da Sociedade Brasileira de Matemática aprofundando as propriedades de grandezas e funções lineares).",
+          "BUSSAB, Wilton de Oliveira; MORETTIN, Pedro Alberto. Estatística Básica. São Paulo: Saraiva, 2017. (O livro-texto de referência mais consagrado no Brasil para probabilidade, análise exploratória e medidas de tendência central e dispersão).",
+          "IEZZI, Gelson; HAZZAN, Samuel. Fundamentos de Matemática Elementar (Vol. 5: Combinatória e Probabilidade). São Paulo: Atual, 2013. (Excelente para exercícios graduados com demonstrações e formalização algébrica).",
+          "TRIOLA, Mario F. Introdução à Estatística. Rio de Janeiro: LTC, 2017. (Abordagem extremamente visual com foco em interpretação prática de gráficos, histogramas, boxplots e distribuições).",
+          "DANTE, Luiz Roberto. Matemática: Contexto & Aplicações (Ensino Médio). São Paulo: Ática, 2016. (Material didático contextualizado voltado à resolução de problemas de exames e interpretação da mídia)."
+        ]
+      },
+      {
+        "title": "Leitura e Interpretação de Gráficos e Tabelas",
+        "content": "A habilidade central consiste em extrair informações numéricas, identificar tendências, variáveis e evitar armadilhas visuais.\n\nPrincipais Tipos de Representação\n\nTipo de Gráfico,Aplicação Principal,Cuidados na Interpretação\n\nColunas / Barras,Comparar grandezas discretas entre categorias distintas.,Verificar se a escala do eixo vertical inicia em zero para não superestimar diferenças visuais.\n\nLinhas / Séries Temporais,\"Analisar evolução, crescimento ou flutuação de uma variável ao longo do tempo.\",Atentar para a inclinação da curva (taxa de variação) e quebras na escala dos eixos.\n\n\"Setores (\"\"Pizza\"\")\",Representar a proporção das partes em relação ao todo (100% ou 360∘).,As fatias devem somar 100%; o ângulo central é dado por θ=100%​×360∘.\n\nHistograma,Distribuição de frequências de dados contínuos agrupados em intervalos de classes.,A largura da coluna representa a amplitude da classe e a área/altura representa a frequência.\n\nBoxplot (Diagrama de Caixas),\"Exibir mediana, quartis (Q1​,Q2​,Q3​), dispersão e valores discrepantes (outliers).\",\"A linha interna à caixa marca a mediana, não a média aritmética.\"\n\n",
+        "videos": [
+          "Ferretto Razao e Proporcao",
+          "Gis com Giz Escala Matematica",
+          "Equaciona Matematica Basica Grandezas Proporcionais",
+          "Matematica Rio Regra de Tres e Porcentagem",
+          "Telecurso Ensino Medio Matematica Porcentagem e Proporcao",
+          "Ferretto Estatistica Media Mediana Moda",
+          "Gis com Giz Leitura e Interpretacao de Graficos",
+          "Equaciona Probabilidade Eventos Independentes e Uniao",
+          "Matematica Rio Estatistica e Probabilidade no ENEM",
+          "Telecurso Ensino Medio Matematica Estatistica e Probabilidade"
+        ],
+        "references": [
+          "IEZZI, Gelson et al. Fundamentos de Matemática Elementar (Vol. 11: Matemática Comercial e Financeira). São Paulo: Atual, 2013. (A principal referência nacional com rigor formal e dezenas de exercícios resolvidos).",
+          "DANTE, Luiz Roberto. Matemática: Contexto & Aplicações (Ensino Médio). São Paulo: Ática, 2016. (Manual didático com foco em aplicações práticas e contextualização de escalas, proporcionalidade e porcentagem).",
+          "SMOLE, Kátia Stocco; DINIZ, Maria Ignez. Matemática: Ensino Médio (Vol. 1). São Paulo: Saraiva, 2016. (Excelente abordagem pedagógica sobre resolução de problemas e razão/proporção).",
+          "LIMA, Elon Lages et al. A Matemática do Ensino Médio (Coleção do Professor de Matemática). Rio de Janeiro: SBM, 2016. (Publicação da Sociedade Brasileira de Matemática aprofundando as propriedades de grandezas e funções lineares).",
+          "BUSSAB, Wilton de Oliveira; MORETTIN, Pedro Alberto. Estatística Básica. São Paulo: Saraiva, 2017. (O livro-texto de referência mais consagrado no Brasil para probabilidade, análise exploratória e medidas de tendência central e dispersão).",
+          "IEZZI, Gelson; HAZZAN, Samuel. Fundamentos de Matemática Elementar (Vol. 5: Combinatória e Probabilidade). São Paulo: Atual, 2013. (Excelente para exercícios graduados com demonstrações e formalização algébrica).",
+          "TRIOLA, Mario F. Introdução à Estatística. Rio de Janeiro: LTC, 2017. (Abordagem extremamente visual com foco em interpretação prática de gráficos, histogramas, boxplots e distribuições).",
+          "DANTE, Luiz Roberto. Matemática: Contexto & Aplicações (Ensino Médio). São Paulo: Ática, 2016. (Material didático contextualizado voltado à resolução de problemas de exames e interpretação da mídia)."
+        ]
+      },
+      {
+        "title": "Medidas de Tendência Central (Média, Mediana e Moda)Parâmetros que sintetizam um conjunto de dados numéricos em torno de um valor central representativo.1. Média Aritmética (Simples e Ponderada)Simples ($\\bar{x}$): Soma de todos os $n$ valores dividida pelo número total de observações:$$\\bar{x} = \\frac{\\sum_{i=1}^{n} x_i}{n} = \\frac{x_1 + x_2 + \\dots + x_n}{n}$$Ponderada ($\\bar{x}_p$): Considera a importância/peso ($p_i$) ou frequência ($f_i$) de cada elemento:$$\\bar{x}_p = \\frac{x_1 \\cdot p_1 + x_2 \\cdot p_2 + \\dots + x_n \\cdot p_n}{p_1 + p_2 + \\dots + p_n}$$Nota: A média é sensível a valores extremos/discrepantes (outliers).2. Mediana ($Md$)O valor central que divide o conjunto de dados ordenados em rol (ordem crescente ou decrescente) em duas metades iguais ($50\\%$ abaixo e $50\\%$ acima). Não é afetada por valores extremos.Se a quantidade $n$ de termos for ímpar: A mediana é o termo central exato na posição $\\frac{n+1}{2}$.$$\\text{Exemplo: Rol } [2, 4, \\mathbf{7}, 9, 12] \\implies Md = 7$$Se a quantidade $n$ de termos for par: A mediana é a média aritmética dos dois termos centrais (nas posições $\\frac{n}{2}$ e $\\frac{n}{2} + 1$).$$\\text{Exemplo: Rol } [3, 5, \\mathbf{8}, \\mathbf{10}, 14, 20] \\implies Md = \\frac{8 + 10}{2} = 9$$3. Moda ($Mo$)O valor ou categoria que apresenta a maior frequência absoluta (o que mais se repete).Um conjunto pode ser amodal (nenhum valor se repete), unimodal (apenas um valor mais frequente) ou multimodal (dois ou mais valores empatados na maior frequência).",
+        "content": "",
+        "videos": [
+          "Ferretto Razao e Proporcao",
+          "Gis com Giz Escala Matematica",
+          "Equaciona Matematica Basica Grandezas Proporcionais",
+          "Matematica Rio Regra de Tres e Porcentagem",
+          "Telecurso Ensino Medio Matematica Porcentagem e Proporcao",
+          "Ferretto Estatistica Media Mediana Moda",
+          "Gis com Giz Leitura e Interpretacao de Graficos",
+          "Equaciona Probabilidade Eventos Independentes e Uniao",
+          "Matematica Rio Estatistica e Probabilidade no ENEM",
+          "Telecurso Ensino Medio Matematica Estatistica e Probabilidade"
+        ],
+        "references": [
+          "IEZZI, Gelson et al. Fundamentos de Matemática Elementar (Vol. 11: Matemática Comercial e Financeira). São Paulo: Atual, 2013. (A principal referência nacional com rigor formal e dezenas de exercícios resolvidos).",
+          "DANTE, Luiz Roberto. Matemática: Contexto & Aplicações (Ensino Médio). São Paulo: Ática, 2016. (Manual didático com foco em aplicações práticas e contextualização de escalas, proporcionalidade e porcentagem).",
+          "SMOLE, Kátia Stocco; DINIZ, Maria Ignez. Matemática: Ensino Médio (Vol. 1). São Paulo: Saraiva, 2016. (Excelente abordagem pedagógica sobre resolução de problemas e razão/proporção).",
+          "LIMA, Elon Lages et al. A Matemática do Ensino Médio (Coleção do Professor de Matemática). Rio de Janeiro: SBM, 2016. (Publicação da Sociedade Brasileira de Matemática aprofundando as propriedades de grandezas e funções lineares).",
+          "BUSSAB, Wilton de Oliveira; MORETTIN, Pedro Alberto. Estatística Básica. São Paulo: Saraiva, 2017. (O livro-texto de referência mais consagrado no Brasil para probabilidade, análise exploratória e medidas de tendência central e dispersão).",
+          "IEZZI, Gelson; HAZZAN, Samuel. Fundamentos de Matemática Elementar (Vol. 5: Combinatória e Probabilidade). São Paulo: Atual, 2013. (Excelente para exercícios graduados com demonstrações e formalização algébrica).",
+          "TRIOLA, Mario F. Introdução à Estatística. Rio de Janeiro: LTC, 2017. (Abordagem extremamente visual com foco em interpretação prática de gráficos, histogramas, boxplots e distribuições).",
+          "DANTE, Luiz Roberto. Matemática: Contexto & Aplicações (Ensino Médio). São Paulo: Ática, 2016. (Material didático contextualizado voltado à resolução de problemas de exames e interpretação da mídia)."
+        ]
+      },
+      {
+        "title": "Noções de Dispersão (Variância e Desvio Padrão)Medem a regularidade ou a homogeneidade de um conjunto de dados em relação à sua média.Desvio: Diferença entre cada valor individual e a média aritmética ($d_i = x_i - \\bar{x}$).Variância ($\\sigma^2$ ou $S^2$): Média dos quadrados dos desvios:$$\\sigma^2 = \\frac{\\sum (x_i - \\bar{x})^2}{n}$$Desvio Padrão ($\\sigma$ ou $S$): Raiz quadrada da variância (mantém a mesma unidade de medida dos dados originais):$$\\sigma = \\sqrt{\\text{Variância}}$$Interpretação: Quanto menor o desvio padrão, mais homogêneo, regular e confiável é o conjunto de dados.",
+        "content": "",
+        "videos": [
+          "Ferretto Razao e Proporcao",
+          "Gis com Giz Escala Matematica",
+          "Equaciona Matematica Basica Grandezas Proporcionais",
+          "Matematica Rio Regra de Tres e Porcentagem",
+          "Telecurso Ensino Medio Matematica Porcentagem e Proporcao",
+          "Ferretto Estatistica Media Mediana Moda",
+          "Gis com Giz Leitura e Interpretacao de Graficos",
+          "Equaciona Probabilidade Eventos Independentes e Uniao",
+          "Matematica Rio Estatistica e Probabilidade no ENEM",
+          "Telecurso Ensino Medio Matematica Estatistica e Probabilidade"
+        ],
+        "references": [
+          "IEZZI, Gelson et al. Fundamentos de Matemática Elementar (Vol. 11: Matemática Comercial e Financeira). São Paulo: Atual, 2013. (A principal referência nacional com rigor formal e dezenas de exercícios resolvidos).",
+          "DANTE, Luiz Roberto. Matemática: Contexto & Aplicações (Ensino Médio). São Paulo: Ática, 2016. (Manual didático com foco em aplicações práticas e contextualização de escalas, proporcionalidade e porcentagem).",
+          "SMOLE, Kátia Stocco; DINIZ, Maria Ignez. Matemática: Ensino Médio (Vol. 1). São Paulo: Saraiva, 2016. (Excelente abordagem pedagógica sobre resolução de problemas e razão/proporção).",
+          "LIMA, Elon Lages et al. A Matemática do Ensino Médio (Coleção do Professor de Matemática). Rio de Janeiro: SBM, 2016. (Publicação da Sociedade Brasileira de Matemática aprofundando as propriedades de grandezas e funções lineares).",
+          "BUSSAB, Wilton de Oliveira; MORETTIN, Pedro Alberto. Estatística Básica. São Paulo: Saraiva, 2017. (O livro-texto de referência mais consagrado no Brasil para probabilidade, análise exploratória e medidas de tendência central e dispersão).",
+          "IEZZI, Gelson; HAZZAN, Samuel. Fundamentos de Matemática Elementar (Vol. 5: Combinatória e Probabilidade). São Paulo: Atual, 2013. (Excelente para exercícios graduados com demonstrações e formalização algébrica).",
+          "TRIOLA, Mario F. Introdução à Estatística. Rio de Janeiro: LTC, 2017. (Abordagem extremamente visual com foco em interpretação prática de gráficos, histogramas, boxplots e distribuições).",
+          "DANTE, Luiz Roberto. Matemática: Contexto & Aplicações (Ensino Médio). São Paulo: Ática, 2016. (Material didático contextualizado voltado à resolução de problemas de exames e interpretação da mídia)."
+        ]
+      },
+      {
+        "title": "Teoria das ProbabilidadesModelagem matemática da incerteza e da chance de ocorrência de eventos em experimentos aleatórios.1. Definição Clássica (Laplace)Dado um espaço amostral equiprovável $S$ (todos os resultados têm a mesma chance de ocorrer), a probabilidade de um evento $A$ é dada por:$$P(A) = \\frac{n(A)}{n(S)} = \\frac{\\text{Número de casos favoráveis}}{\\text{Número de casos possíveis}} \\qquad (0 \\le P(A) \\le 1 \\text{ ou } 0\\% \\le P(A) \\le 100\\%)$$Evento Complementar ($A^c$ ou $\\bar{A}$): $P(A^c) = 1 - P(A)$ (usado com frequência quando o problema pede \"pelo menos um\").2. União de Eventos (Regra do \"OU\")$$P(A \\cup B) = P(A) + P(B) - P(A \\cap B)$$Se os eventos forem mutuamente exclusivos ($A \\cap B = \\emptyset$, ou seja, não podem acontecer juntos): $P(A \\cup B) = P(A) + P(B)$.3. Multiplicação de Eventos (Regra do \"E\") e Probabilidade CondicionalProbabilidade Condicional ($P(A\\vert{}B)$): Probabilidade de $A$ ocorrer dado que o evento $B$ já aconteceu (redução do espaço amostral para $B$):$$P(A\\vert{}B) = \\frac{P(A \\cap B)}{P(B)} \\implies P(A \\cap B) = P(B) \\cdot P(A\\vert{}B)$$Eventos Independentes: A ocorrência de um evento não altera a probabilidade do outro ($P(A\\vert{}B) = P(A)$):$$P(A \\cap B) = P(A) \\cdot P(B)$$",
+        "content": "",
+        "videos": [
+          "Ferretto Razao e Proporcao",
+          "Gis com Giz Escala Matematica",
+          "Equaciona Matematica Basica Grandezas Proporcionais",
+          "Matematica Rio Regra de Tres e Porcentagem",
+          "Telecurso Ensino Medio Matematica Porcentagem e Proporcao",
+          "Ferretto Estatistica Media Mediana Moda",
+          "Gis com Giz Leitura e Interpretacao de Graficos",
+          "Equaciona Probabilidade Eventos Independentes e Uniao",
+          "Matematica Rio Estatistica e Probabilidade no ENEM",
+          "Telecurso Ensino Medio Matematica Estatistica e Probabilidade"
+        ],
+        "references": [
+          "IEZZI, Gelson et al. Fundamentos de Matemática Elementar (Vol. 11: Matemática Comercial e Financeira). São Paulo: Atual, 2013. (A principal referência nacional com rigor formal e dezenas de exercícios resolvidos).",
+          "DANTE, Luiz Roberto. Matemática: Contexto & Aplicações (Ensino Médio). São Paulo: Ática, 2016. (Manual didático com foco em aplicações práticas e contextualização de escalas, proporcionalidade e porcentagem).",
+          "SMOLE, Kátia Stocco; DINIZ, Maria Ignez. Matemática: Ensino Médio (Vol. 1). São Paulo: Saraiva, 2016. (Excelente abordagem pedagógica sobre resolução de problemas e razão/proporção).",
+          "LIMA, Elon Lages et al. A Matemática do Ensino Médio (Coleção do Professor de Matemática). Rio de Janeiro: SBM, 2016. (Publicação da Sociedade Brasileira de Matemática aprofundando as propriedades de grandezas e funções lineares).",
+          "BUSSAB, Wilton de Oliveira; MORETTIN, Pedro Alberto. Estatística Básica. São Paulo: Saraiva, 2017. (O livro-texto de referência mais consagrado no Brasil para probabilidade, análise exploratória e medidas de tendência central e dispersão).",
+          "IEZZI, Gelson; HAZZAN, Samuel. Fundamentos de Matemática Elementar (Vol. 5: Combinatória e Probabilidade). São Paulo: Atual, 2013. (Excelente para exercícios graduados com demonstrações e formalização algébrica).",
+          "TRIOLA, Mario F. Introdução à Estatística. Rio de Janeiro: LTC, 2017. (Abordagem extremamente visual com foco em interpretação prática de gráficos, histogramas, boxplots e distribuições).",
+          "DANTE, Luiz Roberto. Matemática: Contexto & Aplicações (Ensino Médio). São Paulo: Ática, 2016. (Material didático contextualizado voltado à resolução de problemas de exames e interpretação da mídia)."
+        ]
+      }
+    ]
+  }
+]

@@ -7,34 +7,54 @@ datasource db {
 }
 
 model User {
-  id        String   @id @default(uuid())
-  name      String
-  role      String   // "STUDENT" ou "TEACHER"
-  xp        Int      @default(0)
+  id   String @id @default(uuid())
+  name String
+  role String // "STUDENT" ou "TEACHER"
+  xp   Int    @default(0)
 }
 
 model Class {
-  id          String   @id @default(uuid())
-  code        String   @unique
-  name        String
-  teacherId   String
+  id        String @id @default(uuid())
+  code      String @unique
+  name      String
+  teacherId String
 }
 
 model Task {
-  id          String   @id @default(uuid())
-  classId     String
-  topic       String
-  total       Int
+  id      String @id @default(uuid())
+  classId String
+  topic   String
+  total   Int
 }
 
 model Question {
-  id            String   @id @default(uuid())
+  id            String  @id @default(uuid())
   year          Int
   area          String
   subject       String
-  text          String   @db.Text
+  text          String  @db.Text
   options       Json
   correctAnswer Int
-  explanation   String?  @db.Text
+  explanation   String? @db.Text
   errorRate     Float?
+}
+
+model Subject {
+  id        String   @id @default(uuid())
+  name      String
+  slug      String   @unique
+  icon      String   @default("book")
+  lessons   Lesson[]
+  createdAt DateTime @default(now())
+}
+
+model Lesson {
+  id         String   @id @default(uuid())
+  title      String
+  content    String
+  videos     String[] @default([]) // Array nativo para os vídeos
+  references String[] @default([]) // Array nativo para os livros
+  subjectId  String
+  subject    Subject  @relation(fields: [subjectId], references: [id], onDelete: Cascade)
+  createdAt  DateTime @default(now())
 }
