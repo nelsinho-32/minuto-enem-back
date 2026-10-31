@@ -1,6 +1,8 @@
 import express from "express";
+import http from "http";
 import cors from "cors";
 import os from "os";
+import { Server as SocketIOServer } from "socket.io";
 import bcrypt from "bcrypt";
 import jwt from "jsonwebtoken";
 import { Role } from "@prisma/client";
@@ -10,12 +12,31 @@ import { streakRoutes } from "./routes/streak.routes";
 import { authRoutes } from "./routes/auth.routes";
 import { classroomRoutes } from "./routes/classroom.routes";
 import { questionRoutes } from "./routes/question.routes";
+import { searchRoutes } from "./routes/search.routes";
+import { aiRoutes } from "./routes/ai.routes";
+import { noteRoutes } from "./routes/note.routes";
+import { trailRoutes } from "./routes/trail.routes";
+import { taskRoutes } from "./routes/task.routes";
+import { spacedRepetitionRoutes } from "./routes/spaced-repetition.routes";
 import { streakService } from "./services/streak.service";
+import { setupDuelWebSocket } from "./websocket/duel.socket";
+import { startBackgroundWorkers } from "./queues/background.queue";
 
 const JWT_SECRET = process.env.JWT_SECRET || "enem-super-secret-jwt-key-2026";
 
-// 1. Configuração do Servidor e CORS
+// 1. Configuração do Servidor HTTP, Express, CORS e WebSocket (Socket.io)
 const app = express();
+const httpServer = http.createServer(app);
+
+export const io = new SocketIOServer(httpServer, {
+  cors: {
+    origin: process.env.CORS_ORIGIN || "*",
+    methods: ["GET", "POST"],
+  },
+});
+
+setupDuelWebSocket(io);
+startBackgroundWorkers();
 app.use(
   cors({
     origin: process.env.CORS_ORIGIN || "*",
@@ -116,6 +137,20 @@ app.use("/classrooms", classroomRoutes);
 app.use("/api/classrooms", classroomRoutes);
 app.use("/questions", questionRoutes);
 app.use("/api/questions", questionRoutes);
+app.use("/search", searchRoutes);
+app.use("/api/search", searchRoutes);
+app.use("/ai", aiRoutes);
+app.use("/api/ai", aiRoutes);
+app.use("/notes", noteRoutes);
+app.use("/api/notes", noteRoutes);
+app.use("/trails", trailRoutes);
+app.use("/api/trails", trailRoutes);
+app.use("/tasks", taskRoutes);
+app.use("/api/tasks", taskRoutes);
+app.use("/spaced-repetition", spacedRepetitionRoutes);
+app.use("/api/spaced-repetition", spacedRepetitionRoutes);
+app.use("/flashcards", spacedRepetitionRoutes);
+app.use("/api/flashcards", spacedRepetitionRoutes);
 app.use("/streak", streakRoutes);
 app.use("/api/streak", streakRoutes);
 
@@ -194,9 +229,9 @@ function getLocalIpAddress(): string {
   return "localhost";
 }
 
-app.listen(PORT, HOST, () => {
+httpServer.listen(PORT, HOST, () => {
   const localIp = getLocalIpAddress();
-  console.log(`🚀 API rodando localmente em: http://localhost:${PORT}`);
+  console.log(`🚀 API e WebSocket (Socket.io) rodando localmente em: http://localhost:${PORT}`);
   console.log(`📱 API na rede Wi-Fi (Expo/Celular): http://${localIp}:${PORT}`);
   console.log(
     `📚 Busque as questões em: http://${localIp}:${PORT}/api/questions`,

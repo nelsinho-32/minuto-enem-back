@@ -40,6 +40,45 @@ export class ClassroomController {
     }
   }
 
+  /**
+   * GET / POST /api/classrooms/:id/copilot-analytics
+   * Endpoint Analítico Avançado do Copiloto Docente:
+   * Agrega os erros da turma, mapeia as lacunas e gera automaticamente uma lista de reforço (Task).
+   * Requer: `auth` e `isTeacher`.
+   */
+  async copilotAnalytics(req: Request, res: Response): Promise<Response> {
+    try {
+      const classroomId = req.params.id as string;
+      const teacherId = req.user?.id;
+
+      const result = await classroomService.generateCopilotAnalyticsAndTask(
+        classroomId,
+        teacherId
+      );
+
+      return res.status(200).json(result);
+    } catch (error) {
+      return this.handleError(error, res);
+    }
+  }
+
+  /**
+   * PATCH / POST /api/classrooms/tasks/:taskId/approve
+   * Aprova e publica a tarefa de reforço gerada pelo Copiloto Docente.
+   * Requer: `auth` e `isTeacher`.
+   */
+  async approveTask(req: Request, res: Response): Promise<Response> {
+    try {
+      const taskId = req.params.taskId as string;
+      const teacherId = req.user?.id;
+
+      const result = await classroomService.approveTask(taskId, teacherId);
+      return res.status(200).json(result);
+    } catch (error) {
+      return this.handleError(error, res);
+    }
+  }
+
   private handleError(error: unknown, res: Response): Response {
     if (error instanceof AppError) {
       return res.status(error.statusCode).json({
