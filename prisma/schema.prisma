@@ -6,11 +6,36 @@ datasource db {
   provider = "postgresql"
 }
 
+enum Role {
+  STUDENT
+  TEACHER
+}
+
 model User {
-  id   String @id @default(uuid())
-  name String
-  role String // "STUDENT" ou "TEACHER"
-  xp   Int    @default(0)
+  id                 String            @id @default(uuid())
+  name               String
+  email              String            @unique
+  password           String
+  role               Role              @default(STUDENT)
+  xp                 Int               @default(0)
+  currentStreak      Int               @default(0)
+  longestStreak      Int               @default(0)
+  iceFreezes         Int               @default(0)
+  lastStudyDate      DateTime?
+  createdClassrooms  Classroom[]       @relation("TeacherClassrooms")
+  enrolledClassrooms Classroom[]       @relation("StudentClassrooms")
+  questionAttempts   QuestionAttempt[]
+  createdAt          DateTime          @default(now())
+}
+
+model Classroom {
+  id        String   @id @default(uuid())
+  name      String
+  code      String   @unique
+  teacherId String
+  teacher   User     @relation("TeacherClassrooms", fields: [teacherId], references: [id], onDelete: Cascade)
+  students  User[]   @relation("StudentClassrooms")
+  createdAt DateTime @default(now())
 }
 
 model Class {
@@ -28,15 +53,28 @@ model Task {
 }
 
 model Question {
-  id            String  @id @default(uuid())
+  id            String            @id @default(uuid())
   year          Int
   area          String
   subject       String
-  text          String  @db.Text
+  text          String            @db.Text
   options       Json
   correctAnswer Int
-  explanation   String? @db.Text
+  explanation   String?           @db.Text
   errorRate     Float?
+  attempts      QuestionAttempt[]
+}
+
+model QuestionAttempt {
+  id             String   @id @default(uuid())
+  userId         String
+  questionId     String
+  selectedAnswer Int
+  isCorrect      Boolean
+  createdAt      DateTime @default(now())
+
+  user     User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  question Question @relation(fields: [questionId], references: [id], onDelete: Cascade)
 }
 
 model Subject {

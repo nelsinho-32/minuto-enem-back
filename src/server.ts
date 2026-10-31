@@ -1,20 +1,37 @@
 import express from "express";
 import cors from "cors";
-import { PrismaClient } from "@prisma/client";
-import { PrismaPg } from "@prisma/adapter-pg";
-import { Pool } from "pg";
+import os from "os";
+import bcrypt from "bcrypt";
+import jwt from "jsonwebtoken";
+import { Role } from "@prisma/client";
 import "dotenv/config";
+import { prisma } from "./lib/prisma";
+import { streakRoutes } from "./routes/streak.routes";
+import { authRoutes } from "./routes/auth.routes";
+import { classroomRoutes } from "./routes/classroom.routes";
+import { questionRoutes } from "./routes/question.routes";
+import { streakService } from "./services/streak.service";
+
+const JWT_SECRET = process.env.JWT_SECRET || "enem-super-secret-jwt-key-2026";
 
 // 1. Configuração do Servidor e CORS
 const app = express();
-app.use(cors());
+app.use(
+  cors({
+    origin: process.env.CORS_ORIGIN || "*",
+    methods: ["GET", "POST", "PUT", "PATCH", "DELETE", "OPTIONS"],
+    allowedHeaders: ["Content-Type", "Authorization"],
+  })
+);
 app.use(express.json());
 
-// 2. Conexão com o Banco de Dados (Mesma lógica do Seed)
-const connectionString = process.env.DATABASE_URL;
-const pool = new Pool({ connectionString });
-const adapter = new PrismaPg(pool);
-const prisma = new PrismaClient({ adapter });
+// Log de requisições para facilitar o diagnóstico de rotas chamadas pelo frontend
+app.use((req, _res, next) => {
+  console.log(
+    `➡️ [${new Date().toLocaleTimeString()}] [${req.method}] ${req.originalUrl} - IP: ${req.ip}`
+  );
+  next();
+});
 
 // ==========================================
 // ROTAS DA NOSSA API
@@ -24,6 +41,83 @@ const prisma = new PrismaClient({ adapter });
 app.get("/", (req, res) => {
   res.send("API do App do ENEM rodando perfeitamente! 🚀");
 });
+
+// ==========================================
+// ROTA EXPLÍCITA DE REGISTRO (POST /register)
+// ==========================================
+app.post("/register", async (req, res) => {
+  try {
+    const { name, email, password, role } = req.body;
+
+    if (!name || !email || !password) {
+      return res
+        .status(400)
+        .json({ error: "Nome, e-mail e senha são obrigatórios." });
+    }
+
+    const normalizedEmail = String(email).trim().toLowerCase();
+
+    const existingUser = await prisma.user.findUnique({
+      where: { email: normalizedEmail },
+    });
+
+    if (existingUser) {
+      return res
+        .status(409)
+        .json({ error: "Este e-mail já está cadastrado." });
+    }
+
+    const hashedPassword = await bcrypt.hash(String(password), 10);
+    const userRole: Role =
+      role === "TEACHER" ? Role.TEACHER : Role.STUDENT;
+
+    const user = await prisma.user.create({
+      data: {
+        name: String(name).trim(),
+        email: normalizedEmail,
+        password: hashedPassword,
+        role: userRole,
+      },
+      select: {
+        id: true,
+        name: true,
+        email: true,
+        role: true,
+        xp: true,
+        currentStreak: true,
+        longestStreak: true,
+        iceFreezes: true,
+        lastStudyDate: true,
+        createdAt: true,
+      },
+    });
+
+    const token = jwt.sign(
+      { email: user.email, role: user.role },
+      JWT_SECRET,
+      { subject: user.id, expiresIn: "7d" }
+    );
+
+    return res.status(201).json({ user, token });
+  } catch (error) {
+    console.error("[POST /register Error]:", error);
+    return res
+      .status(500)
+      .json({ error: "Erro interno ao cadastrar usuário." });
+  }
+});
+
+// Rotas de Autenticação (suporta /, /auth, /api e /api/auth), Salas, Questões e Ofensiva (Streak)
+app.use("/", authRoutes);
+app.use("/auth", authRoutes);
+app.use("/api", authRoutes);
+app.use("/api/auth", authRoutes);
+app.use("/classrooms", classroomRoutes);
+app.use("/api/classrooms", classroomRoutes);
+app.use("/questions", questionRoutes);
+app.use("/api/questions", questionRoutes);
+app.use("/streak", streakRoutes);
+app.use("/api/streak", streakRoutes);
 
 // Rota para buscar todas as questões (podemos filtrar por matéria depois)
 app.get("/api/questions", async (req, res) => {
@@ -80,10 +174,38 @@ app.get("/api/lessons/:id", async (req, res) => {
 // ==========================================
 // INICIALIZAÇÃO DO SERVIDOR
 // ==========================================
-const PORT = 3333;
-app.listen(PORT, () => {
-  console.log(`🚀 API rodando no endereço: http://localhost:${PORT}`);
+const PORT = Number(process.env.PORT) || 3333;
+const HOST = "0.0.0.0";
+
+function getLocalIpAddress(): string {
+  const interfaces = os.networkInterfaces();
+  for (const name of Object.keys(interfaces)) {
+    for (const iface of interfaces[name] || []) {
+      if (
+        iface.family === "IPv4" &&
+        !iface.internal &&
+        !iface.address.startsWith("169.254.") &&
+        !iface.address.startsWith("172.")
+      ) {
+        return iface.address;
+      }
+    }
+  }
+  return "localhost";
+}
+
+app.listen(PORT, HOST, () => {
+  const localIp = getLocalIpAddress();
+  console.log(`🚀 API rodando localmente em: http://localhost:${PORT}`);
+  console.log(`📱 API na rede Wi-Fi (Expo/Celular): http://${localIp}:${PORT}`);
   console.log(
-    `📚 Busque as questões em: http://localhost:${PORT}/api/questions`,
+    `📚 Busque as questões em: http://${localIp}:${PORT}/api/questions`,
   );
+
+  // Rotina diária (a cada 24h) para verificação de inatividade da ofensiva
+  setInterval(() => {
+    streakService.processDailyInactivityJob().catch((err) => {
+      console.error("[Inactivity Job Error]:", err);
+    });
+  }, 1000 * 60 * 60 * 24);
 });
